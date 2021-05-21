@@ -1,5 +1,8 @@
 title:D2 Sanctuary
-description:Credit to the d2s team, I just complied it into a dim list
+description:Credit to been and alph of the d2s team, I just complied it into a dim list. 
+send bugs to Azared#3734 on discord
+
+
 
 // Arctic Haze (pve)
 dimwishlist:item=20935540&perks=1087426260,1168162263,2848615171
