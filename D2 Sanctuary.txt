@@ -1,5 +1,5 @@
 title:D2 Sanctuary
-description:Credit to been and alph of the d2s team, I just complied it into a dim list. 
+description:Credit to been and alph of the d2s team, I just compiled it into a dim list. 
 send bugs to Azared#3734 on discord
 
 
