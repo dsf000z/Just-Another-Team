@@ -745,9 +745,7 @@ dimwishlist:item=893527433&perks=3250034553,3142289711,706527188,47981717
 
 
 // Extraordinary Rendition (pve)
-//notes: pve Note: Surplus + Frenzy combo buff handling, reload, stability (10/20/50) and damage, handing, reload respectively (20% buff, 30 stat points. This means you can get up to 80 stat points to handling and reload and 50 to stability.
-
-N.B: Overflow and MKC have very poor synergy with each other, with MKC unable to be procced while overflow is active. While these are both excellent perks, the combo is not worth keeping 
+//notes: pve Note: Surplus + Frenzy combo buff handling, reload, stability (10/20/50) and damage, handing, reload respectively (20% buff, 30 stat points. This means you can get up to 80 stat points to handling and reload and 50 to stability. Overflow and MKC have very poor synergy with each other. While these are both excellent perks, the combo is not worth keeping 
 dimwishlist:item=1097616550&perks=1087426260,3643424744,4049631843
 dimwishlist:item=1097616550&perks=1087426260,3643424744,2458213969
 dimwishlist:item=1097616550&perks=1087426260,3643424744,3425386926
@@ -1819,8 +1817,7 @@ dimwishlist:item=3460122497&perks=852209214,3827198035,2450788523,4082225868
 
 
 // Coriolis Force (pve)
-//notes: pve
-//notes: In reference for One For All on both Bonechiller and Coriolis Force. It’s an excellent damage buff (35%) if you can pull it off. I believe it isn’t worth it due to the difficulty to proc and wasted ammo, but some disagree 
+//notes: pve In reference for One For All on both Bonechiller and Coriolis Force. It’s an excellent damage buff (35%) if you can pull it off. I believe it isn’t worth it due to the difficulty to proc and wasted ammo, but some disagree 
 dimwishlist:item=3512349612&perks=1687452232,2779035018,4049631843
 dimwishlist:item=3512349612&perks=1687452232,2779035018,2726471870
 
