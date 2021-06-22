@@ -467,7 +467,7 @@ dimwishlist:item=304659313&perks=981914802,3301904089,706527188,3523296417
 
 // Waking Vigil (pvp)
 //notes: pvp
-//notes: Note: Of the 140 HCs, Waking has lower base range at 38 therefore it cannot really be a max range weapon, however, it does have great base handing. 
+//notes: Note: Of the 140 HCs, Waking has lower base range at 38 therefore it cannot really be a max range weapon, however, it does have great base handing. Note: Dungeon Perks: Surplus, Vorpal, Thresh
 dimwishlist:item=334171687&perks=1561002382,3161816588,47981717
 dimwishlist:item=334171687&perks=1561002382,3161816588,1546637391
 dimwishlist:item=334171687&perks=1561002382,3161816588,1015611457
