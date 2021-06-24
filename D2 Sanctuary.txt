@@ -483,8 +483,7 @@ dimwishlist:item=334171687&perks=1885400500,2846385770,1015611457
 
 
 // Waking Vigil (pve)
-//notes: pve Note: 60 base reload + 10 from mag perk + 10/20/40 form vorpal would be sufficient for reloads. Outlaw would max out reload (+60) but its not as consistently proc’d in higher level content. 
-//notes: (???  ???): 60 base reload + 10 from mag perk + 10/20/40 form vorpal would be sufficient for reloads. Outlaw would max out reload (+60) but its not as consistently proc’d in higher level content. Hi-Cal can stunlock and knockback PvE enemies. Dungeon Perks: Surplus, Vorpal Weapon, Thresh
+//notes: (???  ???): pve 60 base reload + 10 from mag perk + 10/20/40 form vorpal would be sufficient for reloads. Outlaw would max out reload (+60) but its not as consistently proc’d in higher level content. Hi-Cal can stunlock and knockback PvE enemies. Dungeon Perks: Surplus, Vorpal Weapon, Thresh
 dimwishlist:item=334171687&perks=3230963543,247725512,1546637391,684616255
 dimwishlist:item=334171687&perks=679225683,247725512,1546637391,684616255
 dimwishlist:item=334171687&perks=1561002382,247725512,1546637391,684616255
