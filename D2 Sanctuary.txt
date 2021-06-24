@@ -2301,7 +2301,6 @@ dimwishlist:item=2582755344&perks=839105230,1561002382,2869569095,3511092054
 
 // Seventh Seraph Officer Revolver (pve)
 //notes: PvE: Timed Payload is really the only perk we are interested in on this weapon. tags:pve
-dimwishlist:item=3037520408&perks=1954620775
 dimwishlist:item=3037520408&perks=1087426260,4071163871,2458213969
 dimwishlist:item=3037520408&perks=1087426260,1354429876,1954620775
 dimwishlist:item=3037520408&perks=1087426260,1354429876,2458213969
