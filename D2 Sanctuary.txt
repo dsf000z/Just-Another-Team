@@ -3179,7 +3179,7 @@ dimwishlist:item=1987769101&perks=1482024992,3142289711,588594999,1015611457
 
 
 // Fatebringer (pve)
-//notes: Frenzy is +50 to reload, so that perk alone puts Fatebringer at max reload speed. Loader will still add a scalar so it will be faster.Kill Clip does not boost Explosive Payload damage, just the impact damage. Explosive and Firefly is the OG combo, but Explosive sometimes interferes with Firefly explosions tags:pve
+//notes: PvE Frenzy is +50 to reload, so that perk alone puts Fatebringer at max reload speed. Loader will still add a scalar so it will be faster.Kill Clip does not boost Explosive Payload damage, just the impact damage. Explosive and Firefly is the OG combo, but Explosive sometimes interferes with Firefly explosions tags:pve
 dimwishlist:item=2171478765&perks=1087426260,3418782618,3824105627
 dimwishlist:item=2171478765&perks=1087426260,3418782618,1015611457
 dimwishlist:item=2171478765&perks=1087426260,3418782618,4104185692
