@@ -1,0 +1,535 @@
+title:Moon
+
+// Premonition (god-pve)
+//notes: PvE: Any (Handling Preferred) + Appended/Light/Fluted + Surplus/Feeding Frenzy + Rampage/HIR
+Arrowhead Brake takes recoil direction to 100. tags:god-pve
+dimwishlist:item=208088207&perks=839105230,1087426260,3436462433,2213355989
+dimwishlist:item=208088207&perks=839105230,1087426260,3436462433,3425386926
+dimwishlist:item=208088207&perks=839105230,1087426260,2779035018,2213355989
+dimwishlist:item=208088207&perks=839105230,1087426260,2779035018,3425386926
+dimwishlist:item=208088207&perks=839105230,679225683,3436462433,2213355989
+dimwishlist:item=208088207&perks=839105230,679225683,3436462433,3425386926
+dimwishlist:item=208088207&perks=839105230,679225683,2779035018,2213355989
+dimwishlist:item=208088207&perks=839105230,679225683,2779035018,3425386926
+dimwishlist:item=208088207&perks=839105230,3230963543,3436462433,2213355989
+dimwishlist:item=208088207&perks=839105230,3230963543,3436462433,3425386926
+dimwishlist:item=208088207&perks=839105230,3230963543,2779035018,2213355989
+dimwishlist:item=208088207&perks=839105230,3230963543,2779035018,3425386926
+dimwishlist:item=208088207&perks=839105230,1561002382,3436462433,2213355989
+dimwishlist:item=208088207&perks=839105230,1561002382,3436462433,3425386926
+dimwishlist:item=208088207&perks=839105230,1561002382,2779035018,2213355989
+dimwishlist:item=208088207&perks=839105230,1561002382,2779035018,3425386926
+dimwishlist:item=208088207&perks=4090651448,1087426260,3436462433,2213355989
+dimwishlist:item=208088207&perks=4090651448,1087426260,3436462433,3425386926
+dimwishlist:item=208088207&perks=4090651448,1087426260,2779035018,2213355989
+dimwishlist:item=208088207&perks=4090651448,1087426260,2779035018,3425386926
+dimwishlist:item=208088207&perks=4090651448,679225683,3436462433,2213355989
+dimwishlist:item=208088207&perks=4090651448,679225683,3436462433,3425386926
+dimwishlist:item=208088207&perks=4090651448,679225683,2779035018,2213355989
+dimwishlist:item=208088207&perks=4090651448,679225683,2779035018,3425386926
+dimwishlist:item=208088207&perks=4090651448,3230963543,3436462433,2213355989
+dimwishlist:item=208088207&perks=4090651448,3230963543,3436462433,3425386926
+dimwishlist:item=208088207&perks=4090651448,3230963543,2779035018,2213355989
+dimwishlist:item=208088207&perks=4090651448,3230963543,2779035018,3425386926
+dimwishlist:item=208088207&perks=4090651448,1561002382,3436462433,2213355989
+dimwishlist:item=208088207&perks=4090651448,1561002382,3436462433,3425386926
+dimwishlist:item=208088207&perks=4090651448,1561002382,2779035018,2213355989
+dimwishlist:item=208088207&perks=4090651448,1561002382,2779035018,3425386926
+dimwishlist:item=208088207&perks=1840239774,1087426260,3436462433,2213355989
+dimwishlist:item=208088207&perks=1840239774,1087426260,3436462433,3425386926
+dimwishlist:item=208088207&perks=1840239774,1087426260,2779035018,2213355989
+dimwishlist:item=208088207&perks=1840239774,1087426260,2779035018,3425386926
+dimwishlist:item=208088207&perks=1840239774,679225683,3436462433,2213355989
+dimwishlist:item=208088207&perks=1840239774,679225683,3436462433,3425386926
+dimwishlist:item=208088207&perks=1840239774,679225683,2779035018,2213355989
+dimwishlist:item=208088207&perks=1840239774,679225683,2779035018,3425386926
+dimwishlist:item=208088207&perks=1840239774,3230963543,3436462433,2213355989
+dimwishlist:item=208088207&perks=1840239774,3230963543,3436462433,3425386926
+dimwishlist:item=208088207&perks=1840239774,3230963543,2779035018,2213355989
+dimwishlist:item=208088207&perks=1840239774,3230963543,2779035018,3425386926
+dimwishlist:item=208088207&perks=1840239774,1561002382,3436462433,2213355989
+dimwishlist:item=208088207&perks=1840239774,1561002382,3436462433,3425386926
+dimwishlist:item=208088207&perks=1840239774,1561002382,2779035018,2213355989
+dimwishlist:item=208088207&perks=1840239774,1561002382,2779035018,3425386926
+
+
+// Premonition (god-pvp)
+//notes: PvP: Arrowhead + Rico + Killing Wind + Rampage/Headseeker
+Arrowhead Brake takes recoil direction to 100.
+ tags:god-pvp
+dimwishlist:item=208088207&perks=839105230,1885400500,2450788523,460017080
+dimwishlist:item=208088207&perks=839105230,1885400500,2450788523,3425386926
+
+
+// Premonition (pve)
+//notes: PvE: Any (Handling Preferred) + Appended/Light/Fluted + Surplus/Feeding Frenzy + Rampage/HIR
+Arrowhead Brake takes recoil direction to 100. tags:pve
+dimwishlist:item=208088207&perks=1561002382,3436462433,2213355989
+dimwishlist:item=208088207&perks=1561002382,3436462433,3425386926
+dimwishlist:item=208088207&perks=1561002382,2779035018,2213355989
+dimwishlist:item=208088207&perks=1561002382,2779035018,3425386926
+dimwishlist:item=208088207&perks=1087426260,3436462433,2213355989
+dimwishlist:item=208088207&perks=1087426260,3436462433,3425386926
+dimwishlist:item=208088207&perks=1087426260,2779035018,2213355989
+dimwishlist:item=208088207&perks=1087426260,2779035018,3425386926
+dimwishlist:item=208088207&perks=679225683,3436462433,2213355989
+dimwishlist:item=208088207&perks=679225683,3436462433,3425386926
+dimwishlist:item=208088207&perks=679225683,2779035018,2213355989
+dimwishlist:item=208088207&perks=679225683,2779035018,3425386926
+
+
+// Premonition (pvp)
+//notes: PvP: Arrowhead + Rico + Killing Wind + Rampage/Headseeker
+Arrowhead Brake takes recoil direction to 100.
+ tags:pvp
+dimwishlist:item=208088207&perks=1885400500,2450788523,460017080
+dimwishlist:item=208088207&perks=1885400500,2450788523,3425386926
+
+
+// Premonition (pvp)
+//notes: PvP: Arrowhead + Rico + Killing Wind + Rampage/Headseeker
+Arrowhead Brake takes recoil direction to 100.
+ tags:pvp
+dimwishlist:item=208088207&perks=839105230,2450788523,460017080
+dimwishlist:item=208088207&perks=839105230,2450788523,3425386926
+
+
+// Premonition (pve)
+//notes: PvE: Any (Handling Preferred) + Appended/Light/Fluted + Surplus/Feeding Frenzy + Rampage/HIR
+Arrowhead Brake takes recoil direction to 100. tags:pve
+dimwishlist:item=208088207&perks=839105230,3436462433,2213355989
+dimwishlist:item=208088207&perks=839105230,3436462433,3425386926
+dimwishlist:item=208088207&perks=839105230,2779035018,2213355989
+dimwishlist:item=208088207&perks=839105230,2779035018,3425386926
+dimwishlist:item=208088207&perks=4090651448,3436462433,2213355989
+dimwishlist:item=208088207&perks=4090651448,3436462433,3425386926
+dimwishlist:item=208088207&perks=4090651448,2779035018,2213355989
+dimwishlist:item=208088207&perks=4090651448,2779035018,3425386926
+dimwishlist:item=208088207&perks=1840239774,3436462433,2213355989
+dimwishlist:item=208088207&perks=1840239774,3436462433,3425386926
+dimwishlist:item=208088207&perks=1840239774,2779035018,2213355989
+dimwishlist:item=208088207&perks=1840239774,2779035018,3425386926
+
+
+// Premonition (pve)
+//notes: PvE: Any (Handling Preferred) + Appended/Light/Fluted + Surplus/Feeding Frenzy + Rampage/HIR
+Arrowhead Brake takes recoil direction to 100. tags:pve
+dimwishlist:item=208088207&perks=3436462433,2213355989
+dimwishlist:item=208088207&perks=3436462433,3425386926
+dimwishlist:item=208088207&perks=2779035018,2213355989
+dimwishlist:item=208088207&perks=2779035018,3425386926
+
+
+// Premonition (pvp)
+//notes: PvP: Arrowhead + Rico + Killing Wind + Rampage/Headseeker
+Arrowhead Brake takes recoil direction to 100.
+ tags:pvp
+dimwishlist:item=208088207&perks=2450788523,460017080
+dimwishlist:item=208088207&perks=2450788523,3425386926
+
+
+// Premonition (pve,pvp)
+//notes: PvE: Any (Handling Preferred) + Appended/Light/Fluted + Surplus/Feeding Frenzy + Rampage/HIR
+PvP: Arrowhead + Rico + Killing Wind + Rampage/Headseeker
+Arrowhead Brake takes recoil direction to 100.
+ tags:pve,pvp
+dimwishlist:item=208088207&perks=3425386926
+
+
+// Premonition (pve)
+//notes: PvE: Any (Handling Preferred) + Appended/Light/Fluted + Surplus/Feeding Frenzy + Rampage/HIR
+Arrowhead Brake takes recoil direction to 100. tags:pve
+dimwishlist:item=208088207&perks=2213355989
+dimwishlist:item=208088207&perks=3425386926
+
+
+// Premonition (pvp)
+//notes: PvP: Arrowhead + Rico + Killing Wind + Rampage/Headseeker
+Arrowhead Brake takes recoil direction to 100.
+ tags:pvp
+dimwishlist:item=208088207&perks=460017080
+dimwishlist:item=208088207&perks=3425386926
+
+
+// Premonition (pve)
+//notes: PvE: Any (Handling Preferred) + Appended/Light/Fluted + Surplus/Feeding Frenzy + Rampage/HIR
+Arrowhead Brake takes recoil direction to 100. tags:pve
+dimwishlist:item=208088207&perks=3436462433
+dimwishlist:item=208088207&perks=2779035018
+
+
+// Premonition (pvp)
+//notes: PvP: Arrowhead + Rico + Killing Wind + Rampage/Headseeker
+Arrowhead Brake takes recoil direction to 100.
+ tags:pvp
+dimwishlist:item=208088207&perks=2450788523
+
+
+// Apostate (god-pvp)
+//notes: PvP: Fluted + Accurized + Firmly Planted / Surplus / Killing Wind + QD/Opening Shot
+One of two current available snipers that can roll Firmly Planted + Opening Shot - they stack for max accuracy bonuses tags:god-pvp
+dimwishlist:item=2164448701&perks=1840239774,3142289711,280464955,706527188
+dimwishlist:item=2164448701&perks=1840239774,3142289711,280464955,47981717
+dimwishlist:item=2164448701&perks=1840239774,3142289711,3436462433,706527188
+dimwishlist:item=2164448701&perks=1840239774,3142289711,3436462433,47981717
+dimwishlist:item=2164448701&perks=1840239774,3142289711,2450788523,706527188
+dimwishlist:item=2164448701&perks=1840239774,3142289711,2450788523,47981717
+
+
+// Apostate (god-pve)
+//notes: PvE: Any (Handling Preferred) + Tac/Assault + Surplus + Wellspring/Explosive? tags:god-pve
+dimwishlist:item=2164448701&perks=839105230,106909392,3436462433,3592538738
+dimwishlist:item=2164448701&perks=839105230,106909392,3436462433,3038247973
+dimwishlist:item=2164448701&perks=839105230,1087426260,3436462433,3592538738
+dimwishlist:item=2164448701&perks=839105230,1087426260,3436462433,3038247973
+dimwishlist:item=2164448701&perks=1840239774,106909392,3436462433,3592538738
+dimwishlist:item=2164448701&perks=1840239774,106909392,3436462433,3038247973
+dimwishlist:item=2164448701&perks=1840239774,1087426260,3436462433,3592538738
+dimwishlist:item=2164448701&perks=1840239774,1087426260,3436462433,3038247973
+dimwishlist:item=2164448701&perks=4090651448,106909392,3436462433,3592538738
+dimwishlist:item=2164448701&perks=4090651448,106909392,3436462433,3038247973
+dimwishlist:item=2164448701&perks=4090651448,1087426260,3436462433,3592538738
+dimwishlist:item=2164448701&perks=4090651448,1087426260,3436462433,3038247973
+
+
+// Apostate (pvp)
+//notes: PvP: Fluted + Accurized + Firmly Planted / Surplus / Killing Wind + QD/Opening Shot
+One of two current available snipers that can roll Firmly Planted + Opening Shot - they stack for max accuracy bonuses tags:pvp
+dimwishlist:item=2164448701&perks=3142289711,280464955,706527188
+dimwishlist:item=2164448701&perks=3142289711,280464955,47981717
+dimwishlist:item=2164448701&perks=3142289711,3436462433,706527188
+dimwishlist:item=2164448701&perks=3142289711,3436462433,47981717
+dimwishlist:item=2164448701&perks=3142289711,2450788523,706527188
+dimwishlist:item=2164448701&perks=3142289711,2450788523,47981717
+
+
+// Apostate (pve)
+//notes: PvE: Any (Handling Preferred) + Tac/Assault + Surplus + Wellspring/Explosive? tags:pve
+dimwishlist:item=2164448701&perks=106909392,3436462433,3592538738
+dimwishlist:item=2164448701&perks=106909392,3436462433,3038247973
+dimwishlist:item=2164448701&perks=1087426260,3436462433,3592538738
+dimwishlist:item=2164448701&perks=1087426260,3436462433,3038247973
+
+
+// Apostate (pvp)
+//notes: PvP: Fluted + Accurized + Firmly Planted / Surplus / Killing Wind + QD/Opening Shot
+One of two current available snipers that can roll Firmly Planted + Opening Shot - they stack for max accuracy bonuses tags:pvp
+dimwishlist:item=2164448701&perks=1840239774,280464955,706527188
+dimwishlist:item=2164448701&perks=1840239774,280464955,47981717
+dimwishlist:item=2164448701&perks=1840239774,3436462433,706527188
+dimwishlist:item=2164448701&perks=1840239774,3436462433,47981717
+dimwishlist:item=2164448701&perks=1840239774,2450788523,706527188
+dimwishlist:item=2164448701&perks=1840239774,2450788523,47981717
+
+
+// Apostate (pve)
+//notes: PvE: Any (Handling Preferred) + Tac/Assault + Surplus + Wellspring/Explosive? tags:pve
+dimwishlist:item=2164448701&perks=839105230,3436462433,3592538738
+dimwishlist:item=2164448701&perks=839105230,3436462433,3038247973
+dimwishlist:item=2164448701&perks=1840239774,3436462433,3592538738
+dimwishlist:item=2164448701&perks=1840239774,3436462433,3038247973
+dimwishlist:item=2164448701&perks=4090651448,3436462433,3592538738
+dimwishlist:item=2164448701&perks=4090651448,3436462433,3038247973
+
+
+// Apostate (pvp)
+//notes: PvP: Fluted + Accurized + Firmly Planted / Surplus / Killing Wind + QD/Opening Shot
+One of two current available snipers that can roll Firmly Planted + Opening Shot - they stack for max accuracy bonuses tags:pvp
+dimwishlist:item=2164448701&perks=280464955,706527188
+dimwishlist:item=2164448701&perks=280464955,47981717
+dimwishlist:item=2164448701&perks=3436462433,706527188
+dimwishlist:item=2164448701&perks=3436462433,47981717
+dimwishlist:item=2164448701&perks=2450788523,706527188
+dimwishlist:item=2164448701&perks=2450788523,47981717
+
+
+// Apostate (pve)
+//notes: PvE: Any (Handling Preferred) + Tac/Assault + Surplus + Wellspring/Explosive? tags:pve
+dimwishlist:item=2164448701&perks=3436462433,3592538738
+dimwishlist:item=2164448701&perks=3436462433,3038247973
+
+
+// Apostate (pvp,pve)
+//notes: PvE: Any (Handling Preferred) + Tac/Assault + Surplus + Wellspring/Explosive?
+PvP: Fluted + Accurized + Firmly Planted / Surplus / Killing Wind + QD/Opening Shot
+One of two current available snipers that can roll Firmly Planted + Opening Shot - they stack for max accuracy bonuses tags:pvp,pve
+dimwishlist:item=2164448701&perks=280464955
+
+
+// Apostate (pvp)
+//notes: PvP: Fluted + Accurized + Firmly Planted / Surplus / Killing Wind + QD/Opening Shot
+One of two current available snipers that can roll Firmly Planted + Opening Shot - they stack for max accuracy bonuses tags:pvp
+dimwishlist:item=2164448701&perks=280464955
+dimwishlist:item=2164448701&perks=3436462433
+dimwishlist:item=2164448701&perks=2450788523
+
+
+// Apostate (pvp)
+//notes: PvP: Fluted + Accurized + Firmly Planted / Surplus / Killing Wind + QD/Opening Shot
+One of two current available snipers that can roll Firmly Planted + Opening Shot - they stack for max accuracy bonuses tags:pvp
+dimwishlist:item=2164448701&perks=706527188
+dimwishlist:item=2164448701&perks=47981717
+
+
+// Apostate (pve)
+//notes: PvE: Any (Handling Preferred) + Tac/Assault + Surplus + Wellspring/Explosive? tags:pve
+dimwishlist:item=2164448701&perks=3592538738
+dimwishlist:item=2164448701&perks=3038247973
+
+
+// Blasphemer (god-pve)
+//notes: PvE: Any (Handling Preferred) + Assault + FTTC + Swash
+The final column does not have any perks worth searching for in PvE, so Swash has been included for it’s potential to give the first few shots some better damage. But it’s not worth killing a roll just because it doesn’t have Swash tags:god-pve
+dimwishlist:item=2782847179&perks=839105230,791862061,1354429876,4082225868
+dimwishlist:item=2782847179&perks=4090651448,791862061,1354429876,4082225868
+dimwishlist:item=2782847179&perks=1840239774,791862061,1354429876,4082225868
+
+
+// Blasphemer (god-pvp)
+//notes: PvP: Curated = Hammer + HiCal/Accurized + Quickdraw + Opening Shot tags:god-pvp
+dimwishlist:item=2782847179&perks=3250034553,3142289711,706527188,47981717
+
+
+// Blasphemer (god-pvp)
+//notes: PvP: Fluted + Accurized/Assault + QD + Swash/Ramp/OS/Moving Target
+Note: Fluted + Counterbalance Mod makes recoil direction 100. tags:god-pvp
+dimwishlist:item=2782847179&perks=1840239774,3142289711,706527188,47981717
+dimwishlist:item=2782847179&perks=1840239774,3142289711,706527188,3425386926
+dimwishlist:item=2782847179&perks=1840239774,3142289711,706527188,4082225868
+dimwishlist:item=2782847179&perks=1840239774,3142289711,706527188,588594999
+dimwishlist:item=2782847179&perks=1840239774,791862061,706527188,47981717
+dimwishlist:item=2782847179&perks=1840239774,791862061,706527188,3425386926
+dimwishlist:item=2782847179&perks=1840239774,791862061,706527188,4082225868
+dimwishlist:item=2782847179&perks=1840239774,791862061,706527188,588594999
+
+
+// Blasphemer (pve)
+//notes: PvE: Any (Handling Preferred) + Assault + FTTC + Swash
+The final column does not have any perks worth searching for in PvE, so Swash has been included for it’s potential to give the first few shots some better damage. But it’s not worth killing a roll just because it doesn’t have Swash tags:pve
+dimwishlist:item=2782847179&perks=839105230,791862061,1354429876
+dimwishlist:item=2782847179&perks=4090651448,791862061,1354429876
+dimwishlist:item=2782847179&perks=1840239774,791862061,1354429876
+
+
+// Blasphemer (pve)
+//notes: PvE: Any (Handling Preferred) + Assault + FTTC + Swash
+The final column does not have any perks worth searching for in PvE, so Swash has been included for it’s potential to give the first few shots some better damage. But it’s not worth killing a roll just because it doesn’t have Swash tags:pve
+dimwishlist:item=2782847179&perks=791862061,1354429876,4082225868
+
+
+// Blasphemer (pvp)
+//notes: PvP: Fluted + Accurized/Assault + QD + Swash/Ramp/OS/Moving Target
+Note: Fluted + Counterbalance Mod makes recoil direction 100. tags:pvp
+dimwishlist:item=2782847179&perks=1840239774,706527188,47981717
+dimwishlist:item=2782847179&perks=1840239774,706527188,3425386926
+dimwishlist:item=2782847179&perks=1840239774,706527188,4082225868
+dimwishlist:item=2782847179&perks=1840239774,706527188,588594999
+
+
+// Blasphemer (pvp)
+//notes: PvP: Fluted + Accurized/Assault + QD + Swash/Ramp/OS/Moving Target
+Note: Fluted + Counterbalance Mod makes recoil direction 100. tags:pvp
+dimwishlist:item=2782847179&perks=3142289711,706527188,47981717
+dimwishlist:item=2782847179&perks=3142289711,706527188,3425386926
+dimwishlist:item=2782847179&perks=3142289711,706527188,4082225868
+dimwishlist:item=2782847179&perks=3142289711,706527188,588594999
+dimwishlist:item=2782847179&perks=791862061,706527188,47981717
+dimwishlist:item=2782847179&perks=791862061,706527188,3425386926
+dimwishlist:item=2782847179&perks=791862061,706527188,4082225868
+dimwishlist:item=2782847179&perks=791862061,706527188,588594999
+
+
+// Blasphemer (pve)
+//notes: PvE: Any (Handling Preferred) + Assault + FTTC + Swash
+The final column does not have any perks worth searching for in PvE, so Swash has been included for it’s potential to give the first few shots some better damage. But it’s not worth killing a roll just because it doesn’t have Swash tags:pve
+dimwishlist:item=2782847179&perks=791862061,1354429876
+
+
+// Blasphemer (pvp)
+//notes: PvP: Fluted + Accurized/Assault + QD + Swash/Ramp/OS/Moving Target
+Note: Fluted + Counterbalance Mod makes recoil direction 100. tags:pvp
+dimwishlist:item=2782847179&perks=706527188,47981717
+dimwishlist:item=2782847179&perks=706527188,3425386926
+dimwishlist:item=2782847179&perks=706527188,4082225868
+dimwishlist:item=2782847179&perks=706527188,588594999
+
+
+// Blasphemer (pve)
+//notes: PvE: Any (Handling Preferred) + Assault + FTTC + Swash
+The final column does not have any perks worth searching for in PvE, so Swash has been included for it’s potential to give the first few shots some better damage. But it’s not worth killing a roll just because it doesn’t have Swash tags:pve
+dimwishlist:item=2782847179&perks=839105230,1354429876
+dimwishlist:item=2782847179&perks=4090651448,1354429876
+dimwishlist:item=2782847179&perks=1840239774,1354429876
+
+
+// Blasphemer (pvp,pve)
+//notes: PvE: Any (Handling Preferred) + Assault + FTTC + Swash
+The final column does not have any perks worth searching for in PvE, so Swash has been included for it’s potential to give the first few shots some better damage. But it’s not worth killing a roll just because it doesn’t have Swash
+PvP: Fluted + Accurized/Assault + QD + Swash/Ramp/OS/Moving Target
+Note: Fluted + Counterbalance Mod makes recoil direction 100.
+ tags:pvp,pve
+dimwishlist:item=2782847179&perks=4082225868
+
+
+// Blasphemer (pvp)
+//notes: PvP: Fluted + Accurized/Assault + QD + Swash/Ramp/OS/Moving Target
+Note: Fluted + Counterbalance Mod makes recoil direction 100. tags:pvp
+dimwishlist:item=2782847179&perks=47981717
+dimwishlist:item=2782847179&perks=3425386926
+dimwishlist:item=2782847179&perks=4082225868
+dimwishlist:item=2782847179&perks=588594999
+
+
+// Blasphemer (pvp)
+//notes: PvP: Fluted + Accurized/Assault + QD + Swash/Ramp/OS/Moving Target
+Note: Fluted + Counterbalance Mod makes recoil direction 100. tags:pvp
+dimwishlist:item=2782847179&perks=706527188
+
+
+// Blasphemer (pve)
+//notes: PvE: Any (Handling Preferred) + Assault + FTTC + Swash
+The final column does not have any perks worth searching for in PvE, so Swash has been included for it’s potential to give the first few shots some better damage. But it’s not worth killing a roll just because it doesn’t have Swash tags:pve
+dimwishlist:item=2782847179&perks=1354429876
+
+
+// Heretic (god-pvp)
+//notes: PvP: Quick/Hard Launch + High Velocity Rounds + Impulse Amplifier/Rangefinder + Cluster/QD tags:god-pvp
+dimwishlist:item=3067821200&perks=981914802,2822142346,2846385770,1275731761
+dimwishlist:item=3067821200&perks=981914802,2822142346,2846385770,706527188
+dimwishlist:item=3067821200&perks=981914802,2822142346,951095735,1275731761
+dimwishlist:item=3067821200&perks=981914802,2822142346,951095735,706527188
+dimwishlist:item=3067821200&perks=3525010810,2822142346,2846385770,1275731761
+dimwishlist:item=3067821200&perks=3525010810,2822142346,2846385770,706527188
+dimwishlist:item=3067821200&perks=3525010810,2822142346,951095735,1275731761
+dimwishlist:item=3067821200&perks=3525010810,2822142346,951095735,706527188
+
+
+// Heretic (god-pve)
+//notes: PvE: Quick/Hard Launch + Impact/Alloy Casing + FieldPrep/AA/Genesis + Demo/Cluster tags:god-pve
+dimwishlist:item=3067821200&perks=3525010810,2985827016,2010801679,1275731761
+dimwishlist:item=3067821200&perks=3525010810,2985827016,2010801679,3523296417
+dimwishlist:item=3067821200&perks=3525010810,2985827016,2869569095,1275731761
+dimwishlist:item=3067821200&perks=3525010810,2985827016,2869569095,3523296417
+dimwishlist:item=3067821200&perks=3525010810,2985827016,3096702027,1275731761
+dimwishlist:item=3067821200&perks=3525010810,2985827016,3096702027,3523296417
+dimwishlist:item=3067821200&perks=3525010810,3796465595,2010801679,1275731761
+dimwishlist:item=3067821200&perks=3525010810,3796465595,2010801679,3523296417
+dimwishlist:item=3067821200&perks=3525010810,3796465595,2869569095,1275731761
+dimwishlist:item=3067821200&perks=3525010810,3796465595,2869569095,3523296417
+dimwishlist:item=3067821200&perks=3525010810,3796465595,3096702027,1275731761
+dimwishlist:item=3067821200&perks=3525010810,3796465595,3096702027,3523296417
+dimwishlist:item=3067821200&perks=981914802,2985827016,2010801679,1275731761
+dimwishlist:item=3067821200&perks=981914802,2985827016,2010801679,3523296417
+dimwishlist:item=3067821200&perks=981914802,2985827016,2869569095,1275731761
+dimwishlist:item=3067821200&perks=981914802,2985827016,2869569095,3523296417
+dimwishlist:item=3067821200&perks=981914802,2985827016,3096702027,1275731761
+dimwishlist:item=3067821200&perks=981914802,2985827016,3096702027,3523296417
+dimwishlist:item=3067821200&perks=981914802,3796465595,2010801679,1275731761
+dimwishlist:item=3067821200&perks=981914802,3796465595,2010801679,3523296417
+dimwishlist:item=3067821200&perks=981914802,3796465595,2869569095,1275731761
+dimwishlist:item=3067821200&perks=981914802,3796465595,2869569095,3523296417
+dimwishlist:item=3067821200&perks=981914802,3796465595,3096702027,1275731761
+dimwishlist:item=3067821200&perks=981914802,3796465595,3096702027,3523296417
+
+
+// Heretic (pvp)
+//notes: PvP: Quick/Hard Launch + High Velocity Rounds + Impulse Amplifier/Rangefinder + Cluster/QD tags:pvp
+dimwishlist:item=3067821200&perks=2822142346,2846385770,1275731761
+dimwishlist:item=3067821200&perks=2822142346,2846385770,706527188
+dimwishlist:item=3067821200&perks=2822142346,951095735,1275731761
+dimwishlist:item=3067821200&perks=2822142346,951095735,706527188
+
+
+// Heretic (pve)
+//notes: PvE: Quick/Hard Launch + Impact/Alloy Casing + FieldPrep/AA/Genesis + Demo/Cluster tags:pve
+dimwishlist:item=3067821200&perks=2985827016,2010801679,1275731761
+dimwishlist:item=3067821200&perks=2985827016,2010801679,3523296417
+dimwishlist:item=3067821200&perks=2985827016,2869569095,1275731761
+dimwishlist:item=3067821200&perks=2985827016,2869569095,3523296417
+dimwishlist:item=3067821200&perks=2985827016,3096702027,1275731761
+dimwishlist:item=3067821200&perks=2985827016,3096702027,3523296417
+dimwishlist:item=3067821200&perks=3796465595,2010801679,1275731761
+dimwishlist:item=3067821200&perks=3796465595,2010801679,3523296417
+dimwishlist:item=3067821200&perks=3796465595,2869569095,1275731761
+dimwishlist:item=3067821200&perks=3796465595,2869569095,3523296417
+dimwishlist:item=3067821200&perks=3796465595,3096702027,1275731761
+dimwishlist:item=3067821200&perks=3796465595,3096702027,3523296417
+
+
+// Heretic (pvp)
+//notes: PvP: Quick/Hard Launch + High Velocity Rounds + Impulse Amplifier/Rangefinder + Cluster/QD tags:pvp
+dimwishlist:item=3067821200&perks=981914802,2846385770,1275731761
+dimwishlist:item=3067821200&perks=981914802,2846385770,706527188
+dimwishlist:item=3067821200&perks=981914802,951095735,1275731761
+dimwishlist:item=3067821200&perks=981914802,951095735,706527188
+dimwishlist:item=3067821200&perks=3525010810,2846385770,1275731761
+dimwishlist:item=3067821200&perks=3525010810,2846385770,706527188
+dimwishlist:item=3067821200&perks=3525010810,951095735,1275731761
+dimwishlist:item=3067821200&perks=3525010810,951095735,706527188
+
+
+// Heretic (pve)
+//notes: PvE: Quick/Hard Launch + Impact/Alloy Casing + FieldPrep/AA/Genesis + Demo/Cluster tags:pve
+dimwishlist:item=3067821200&perks=3525010810,2010801679,1275731761
+dimwishlist:item=3067821200&perks=3525010810,2010801679,3523296417
+dimwishlist:item=3067821200&perks=3525010810,2869569095,1275731761
+dimwishlist:item=3067821200&perks=3525010810,2869569095,3523296417
+dimwishlist:item=3067821200&perks=3525010810,3096702027,1275731761
+dimwishlist:item=3067821200&perks=3525010810,3096702027,3523296417
+dimwishlist:item=3067821200&perks=981914802,2010801679,1275731761
+dimwishlist:item=3067821200&perks=981914802,2010801679,3523296417
+dimwishlist:item=3067821200&perks=981914802,2869569095,1275731761
+dimwishlist:item=3067821200&perks=981914802,2869569095,3523296417
+dimwishlist:item=3067821200&perks=981914802,3096702027,1275731761
+dimwishlist:item=3067821200&perks=981914802,3096702027,3523296417
+
+
+// Heretic (pvp)
+//notes: PvP: Quick/Hard Launch + High Velocity Rounds + Impulse Amplifier/Rangefinder + Cluster/QD tags:pvp
+dimwishlist:item=3067821200&perks=2846385770,1275731761
+dimwishlist:item=3067821200&perks=2846385770,706527188
+dimwishlist:item=3067821200&perks=951095735,1275731761
+dimwishlist:item=3067821200&perks=951095735,706527188
+
+
+// Heretic (pve)
+//notes: PvE: Quick/Hard Launch + Impact/Alloy Casing + FieldPrep/AA/Genesis + Demo/Cluster tags:pve
+dimwishlist:item=3067821200&perks=2010801679,1275731761
+dimwishlist:item=3067821200&perks=2010801679,3523296417
+dimwishlist:item=3067821200&perks=2869569095,1275731761
+dimwishlist:item=3067821200&perks=2869569095,3523296417
+dimwishlist:item=3067821200&perks=3096702027,1275731761
+dimwishlist:item=3067821200&perks=3096702027,3523296417
+
+
+// Heretic (pve,pvp)
+//notes: PvE: Quick/Hard Launch + Impact/Alloy Casing + FieldPrep/AA/Genesis + Demo/Cluster
+PvP: Quick/Hard Launch + High Velocity Rounds + Impulse Amplifier/Rangefinder + Cluster/QD tags:pve,pvp
+dimwishlist:item=3067821200&perks=1275731761
+
+
+// Heretic (pve)
+//notes: PvE: Quick/Hard Launch + Impact/Alloy Casing + FieldPrep/AA/Genesis + Demo/Cluster tags:pve
+dimwishlist:item=3067821200&perks=1275731761
+dimwishlist:item=3067821200&perks=3523296417
+
+
+// Heretic (pve)
+//notes: PvE: Quick/Hard Launch + Impact/Alloy Casing + FieldPrep/AA/Genesis + Demo/Cluster tags:pve
+dimwishlist:item=3067821200&perks=2010801679
+dimwishlist:item=3067821200&perks=2869569095
+dimwishlist:item=3067821200&perks=3096702027
+
+
+// Heretic (pvp)
+//notes: PvP: Quick/Hard Launch + High Velocity Rounds + Impulse Amplifier/Rangefinder + Cluster/QD tags:pvp
+dimwishlist:item=3067821200&perks=1275731761
+dimwishlist:item=3067821200&perks=706527188
+
+
+// Heretic (pvp)
+//notes: PvP: Quick/Hard Launch + High Velocity Rounds + Impulse Amplifier/Rangefinder + Cluster/QD tags:pvp
+dimwishlist:item=3067821200&perks=2846385770
+dimwishlist:item=3067821200&perks=951095735
+
+

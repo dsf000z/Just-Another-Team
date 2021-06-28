@@ -1,0 +1,855 @@
+title:Last Wish
+
+// Chattering Bone (god-pve,god-pvp)
+//notes: PvE: Curated // Hammer/Small/Fluted/Cork/Poly, Rico/Highcal/Lightmag, Outlaw/Full Auto, Ramp/Headseeker/HightImpactReserves
+PvP: Curated // Hammer, Rico/highcal, Rangefinder, Rampage, Range MW
+Curated (Riven): Corkscrew, Light Mag, KillClip, High Impact Reserves
+Even though lightweight pulses struggle in PvE and PvP, the curated roll is a solid performer for the archetype. tags:god-pve,god-pvp
+dimwishlist:item=568515759&perks=4090651448,679225683,1015611457,2213355989
+
+
+// Chattering Bone (god-pve)
+//notes: PvE: Curated // Hammer/Small/Fluted/Cork/Poly, Rico/Highcal/Lightmag, Outlaw/Full Auto, Ramp/Headseeker/HightImpactReserves
+Curated (Riven): Corkscrew, Light Mag, KillClip, High Impact Reserves
+Even though lightweight pulses struggle in PvE and PvP, the curated roll is a solid performer for the archetype. tags:god-pve
+dimwishlist:item=568515759&perks=4090651448,1561002382,1168162263,3425386926
+dimwishlist:item=568515759&perks=4090651448,1561002382,1168162263,460017080
+dimwishlist:item=568515759&perks=4090651448,1561002382,1168162263,2213355989
+dimwishlist:item=568515759&perks=4090651448,1561002382,4267945040,3425386926
+dimwishlist:item=568515759&perks=4090651448,1561002382,4267945040,460017080
+dimwishlist:item=568515759&perks=4090651448,1561002382,4267945040,2213355989
+dimwishlist:item=568515759&perks=4090651448,1968497646,1168162263,3425386926
+dimwishlist:item=568515759&perks=4090651448,1968497646,1168162263,460017080
+dimwishlist:item=568515759&perks=4090651448,1968497646,1168162263,2213355989
+dimwishlist:item=568515759&perks=4090651448,1968497646,4267945040,3425386926
+dimwishlist:item=568515759&perks=4090651448,1968497646,4267945040,460017080
+dimwishlist:item=568515759&perks=4090651448,1968497646,4267945040,2213355989
+dimwishlist:item=568515759&perks=4090651448,679225683,1168162263,3425386926
+dimwishlist:item=568515759&perks=4090651448,679225683,1168162263,460017080
+dimwishlist:item=568515759&perks=4090651448,679225683,1168162263,2213355989
+dimwishlist:item=568515759&perks=4090651448,679225683,4267945040,3425386926
+dimwishlist:item=568515759&perks=4090651448,679225683,4267945040,460017080
+dimwishlist:item=568515759&perks=4090651448,679225683,4267945040,2213355989
+dimwishlist:item=568515759&perks=3250034553,1561002382,1168162263,3425386926
+dimwishlist:item=568515759&perks=3250034553,1561002382,1168162263,460017080
+dimwishlist:item=568515759&perks=3250034553,1561002382,1168162263,2213355989
+dimwishlist:item=568515759&perks=3250034553,1561002382,4267945040,3425386926
+dimwishlist:item=568515759&perks=3250034553,1561002382,4267945040,460017080
+dimwishlist:item=568515759&perks=3250034553,1561002382,4267945040,2213355989
+dimwishlist:item=568515759&perks=3250034553,1968497646,1168162263,3425386926
+dimwishlist:item=568515759&perks=3250034553,1968497646,1168162263,460017080
+dimwishlist:item=568515759&perks=3250034553,1968497646,1168162263,2213355989
+dimwishlist:item=568515759&perks=3250034553,1968497646,4267945040,3425386926
+dimwishlist:item=568515759&perks=3250034553,1968497646,4267945040,460017080
+dimwishlist:item=568515759&perks=3250034553,1968497646,4267945040,2213355989
+dimwishlist:item=568515759&perks=3250034553,679225683,1168162263,3425386926
+dimwishlist:item=568515759&perks=3250034553,679225683,1168162263,460017080
+dimwishlist:item=568515759&perks=3250034553,679225683,1168162263,2213355989
+dimwishlist:item=568515759&perks=3250034553,679225683,4267945040,3425386926
+dimwishlist:item=568515759&perks=3250034553,679225683,4267945040,460017080
+dimwishlist:item=568515759&perks=3250034553,679225683,4267945040,2213355989
+dimwishlist:item=568515759&perks=1482024992,1561002382,1168162263,3425386926
+dimwishlist:item=568515759&perks=1482024992,1561002382,1168162263,460017080
+dimwishlist:item=568515759&perks=1482024992,1561002382,1168162263,2213355989
+dimwishlist:item=568515759&perks=1482024992,1561002382,4267945040,3425386926
+dimwishlist:item=568515759&perks=1482024992,1561002382,4267945040,460017080
+dimwishlist:item=568515759&perks=1482024992,1561002382,4267945040,2213355989
+dimwishlist:item=568515759&perks=1482024992,1968497646,1168162263,3425386926
+dimwishlist:item=568515759&perks=1482024992,1968497646,1168162263,460017080
+dimwishlist:item=568515759&perks=1482024992,1968497646,1168162263,2213355989
+dimwishlist:item=568515759&perks=1482024992,1968497646,4267945040,3425386926
+dimwishlist:item=568515759&perks=1482024992,1968497646,4267945040,460017080
+dimwishlist:item=568515759&perks=1482024992,1968497646,4267945040,2213355989
+dimwishlist:item=568515759&perks=1482024992,679225683,1168162263,3425386926
+dimwishlist:item=568515759&perks=1482024992,679225683,1168162263,460017080
+dimwishlist:item=568515759&perks=1482024992,679225683,1168162263,2213355989
+dimwishlist:item=568515759&perks=1482024992,679225683,4267945040,3425386926
+dimwishlist:item=568515759&perks=1482024992,679225683,4267945040,460017080
+dimwishlist:item=568515759&perks=1482024992,679225683,4267945040,2213355989
+dimwishlist:item=568515759&perks=1840239774,1561002382,1168162263,3425386926
+dimwishlist:item=568515759&perks=1840239774,1561002382,1168162263,460017080
+dimwishlist:item=568515759&perks=1840239774,1561002382,1168162263,2213355989
+dimwishlist:item=568515759&perks=1840239774,1561002382,4267945040,3425386926
+dimwishlist:item=568515759&perks=1840239774,1561002382,4267945040,460017080
+dimwishlist:item=568515759&perks=1840239774,1561002382,4267945040,2213355989
+dimwishlist:item=568515759&perks=1840239774,1968497646,1168162263,3425386926
+dimwishlist:item=568515759&perks=1840239774,1968497646,1168162263,460017080
+dimwishlist:item=568515759&perks=1840239774,1968497646,1168162263,2213355989
+dimwishlist:item=568515759&perks=1840239774,1968497646,4267945040,3425386926
+dimwishlist:item=568515759&perks=1840239774,1968497646,4267945040,460017080
+dimwishlist:item=568515759&perks=1840239774,1968497646,4267945040,2213355989
+dimwishlist:item=568515759&perks=1840239774,679225683,1168162263,3425386926
+dimwishlist:item=568515759&perks=1840239774,679225683,1168162263,460017080
+dimwishlist:item=568515759&perks=1840239774,679225683,1168162263,2213355989
+dimwishlist:item=568515759&perks=1840239774,679225683,4267945040,3425386926
+dimwishlist:item=568515759&perks=1840239774,679225683,4267945040,460017080
+dimwishlist:item=568515759&perks=1840239774,679225683,4267945040,2213355989
+dimwishlist:item=568515759&perks=1392496348,1561002382,1168162263,3425386926
+dimwishlist:item=568515759&perks=1392496348,1561002382,1168162263,460017080
+dimwishlist:item=568515759&perks=1392496348,1561002382,1168162263,2213355989
+dimwishlist:item=568515759&perks=1392496348,1561002382,4267945040,3425386926
+dimwishlist:item=568515759&perks=1392496348,1561002382,4267945040,460017080
+dimwishlist:item=568515759&perks=1392496348,1561002382,4267945040,2213355989
+dimwishlist:item=568515759&perks=1392496348,1968497646,1168162263,3425386926
+dimwishlist:item=568515759&perks=1392496348,1968497646,1168162263,460017080
+dimwishlist:item=568515759&perks=1392496348,1968497646,1168162263,2213355989
+dimwishlist:item=568515759&perks=1392496348,1968497646,4267945040,3425386926
+dimwishlist:item=568515759&perks=1392496348,1968497646,4267945040,460017080
+dimwishlist:item=568515759&perks=1392496348,1968497646,4267945040,2213355989
+dimwishlist:item=568515759&perks=1392496348,679225683,1168162263,3425386926
+dimwishlist:item=568515759&perks=1392496348,679225683,1168162263,460017080
+dimwishlist:item=568515759&perks=1392496348,679225683,1168162263,2213355989
+dimwishlist:item=568515759&perks=1392496348,679225683,4267945040,3425386926
+dimwishlist:item=568515759&perks=1392496348,679225683,4267945040,460017080
+dimwishlist:item=568515759&perks=1392496348,679225683,4267945040,2213355989
+
+
+// Chattering Bone (god-pvp)
+//notes: PvP: Curated // Hammer, Rico/highcal, Rangefinder, Rampage, Range MW
+Curated (Riven): Corkscrew, Light Mag, KillClip, High Impact Reserves
+Even though lightweight pulses struggle in PvE and PvP, the curated roll is a solid performer for the archetype. tags:god-pvp
+dimwishlist:item=568515759&perks=3250034553,1561002382,2846385770,3425386926
+dimwishlist:item=568515759&perks=3250034553,1885400500,2846385770,3425386926
+
+
+// Chattering Bone (pve)
+//notes: PvE: Curated // Hammer/Small/Fluted/Cork/Poly, Rico/Highcal/Lightmag, Outlaw/Full Auto, Ramp/Headseeker/HightImpactReserves
+Curated (Riven): Corkscrew, Light Mag, KillClip, High Impact Reserves
+Even though lightweight pulses struggle in PvE and PvP, the curated roll is a solid performer for the archetype. tags:pve
+dimwishlist:item=568515759&perks=1561002382,1168162263,3425386926
+dimwishlist:item=568515759&perks=1561002382,1168162263,460017080
+dimwishlist:item=568515759&perks=1561002382,1168162263,2213355989
+dimwishlist:item=568515759&perks=1561002382,4267945040,3425386926
+dimwishlist:item=568515759&perks=1561002382,4267945040,460017080
+dimwishlist:item=568515759&perks=1561002382,4267945040,2213355989
+dimwishlist:item=568515759&perks=1968497646,1168162263,3425386926
+dimwishlist:item=568515759&perks=1968497646,1168162263,460017080
+dimwishlist:item=568515759&perks=1968497646,1168162263,2213355989
+dimwishlist:item=568515759&perks=1968497646,4267945040,3425386926
+dimwishlist:item=568515759&perks=1968497646,4267945040,460017080
+dimwishlist:item=568515759&perks=1968497646,4267945040,2213355989
+dimwishlist:item=568515759&perks=679225683,1168162263,3425386926
+dimwishlist:item=568515759&perks=679225683,1168162263,460017080
+dimwishlist:item=568515759&perks=679225683,1168162263,2213355989
+dimwishlist:item=568515759&perks=679225683,4267945040,3425386926
+dimwishlist:item=568515759&perks=679225683,4267945040,460017080
+dimwishlist:item=568515759&perks=679225683,4267945040,2213355989
+
+
+// Chattering Bone (pve)
+//notes: PvE: Curated // Hammer/Small/Fluted/Cork/Poly, Rico/Highcal/Lightmag, Outlaw/Full Auto, Ramp/Headseeker/HightImpactReserves
+Curated (Riven): Corkscrew, Light Mag, KillClip, High Impact Reserves
+Even though lightweight pulses struggle in PvE and PvP, the curated roll is a solid performer for the archetype. tags:pve
+dimwishlist:item=568515759&perks=4090651448,1168162263,3425386926
+dimwishlist:item=568515759&perks=4090651448,1168162263,460017080
+dimwishlist:item=568515759&perks=4090651448,1168162263,2213355989
+dimwishlist:item=568515759&perks=4090651448,4267945040,3425386926
+dimwishlist:item=568515759&perks=4090651448,4267945040,460017080
+dimwishlist:item=568515759&perks=4090651448,4267945040,2213355989
+dimwishlist:item=568515759&perks=3250034553,1168162263,3425386926
+dimwishlist:item=568515759&perks=3250034553,1168162263,460017080
+dimwishlist:item=568515759&perks=3250034553,1168162263,2213355989
+dimwishlist:item=568515759&perks=3250034553,4267945040,3425386926
+dimwishlist:item=568515759&perks=3250034553,4267945040,460017080
+dimwishlist:item=568515759&perks=3250034553,4267945040,2213355989
+dimwishlist:item=568515759&perks=1482024992,1168162263,3425386926
+dimwishlist:item=568515759&perks=1482024992,1168162263,460017080
+dimwishlist:item=568515759&perks=1482024992,1168162263,2213355989
+dimwishlist:item=568515759&perks=1482024992,4267945040,3425386926
+dimwishlist:item=568515759&perks=1482024992,4267945040,460017080
+dimwishlist:item=568515759&perks=1482024992,4267945040,2213355989
+dimwishlist:item=568515759&perks=1840239774,1168162263,3425386926
+dimwishlist:item=568515759&perks=1840239774,1168162263,460017080
+dimwishlist:item=568515759&perks=1840239774,1168162263,2213355989
+dimwishlist:item=568515759&perks=1840239774,4267945040,3425386926
+dimwishlist:item=568515759&perks=1840239774,4267945040,460017080
+dimwishlist:item=568515759&perks=1840239774,4267945040,2213355989
+dimwishlist:item=568515759&perks=1392496348,1168162263,3425386926
+dimwishlist:item=568515759&perks=1392496348,1168162263,460017080
+dimwishlist:item=568515759&perks=1392496348,1168162263,2213355989
+dimwishlist:item=568515759&perks=1392496348,4267945040,3425386926
+dimwishlist:item=568515759&perks=1392496348,4267945040,460017080
+dimwishlist:item=568515759&perks=1392496348,4267945040,2213355989
+
+
+// Chattering Bone (pvp)
+//notes: PvP: Curated // Hammer, Rico/highcal, Rangefinder, Rampage, Range MW
+Curated (Riven): Corkscrew, Light Mag, KillClip, High Impact Reserves
+Even though lightweight pulses struggle in PvE and PvP, the curated roll is a solid performer for the archetype. tags:pvp
+dimwishlist:item=568515759&perks=1561002382,2846385770,3425386926
+dimwishlist:item=568515759&perks=1885400500,2846385770,3425386926
+
+
+// Chattering Bone (pvp)
+//notes: PvP: Curated // Hammer, Rico/highcal, Rangefinder, Rampage, Range MW
+Curated (Riven): Corkscrew, Light Mag, KillClip, High Impact Reserves
+Even though lightweight pulses struggle in PvE and PvP, the curated roll is a solid performer for the archetype. tags:pvp
+dimwishlist:item=568515759&perks=3250034553,2846385770,3425386926
+
+
+// Chattering Bone (pvp)
+//notes: PvP: Curated // Hammer, Rico/highcal, Rangefinder, Rampage, Range MW
+Curated (Riven): Corkscrew, Light Mag, KillClip, High Impact Reserves
+Even though lightweight pulses struggle in PvE and PvP, the curated roll is a solid performer for the archetype. tags:pvp
+dimwishlist:item=568515759&perks=2846385770,3425386926
+
+
+// Chattering Bone (pve)
+//notes: PvE: Curated // Hammer/Small/Fluted/Cork/Poly, Rico/Highcal/Lightmag, Outlaw/Full Auto, Ramp/Headseeker/HightImpactReserves
+Curated (Riven): Corkscrew, Light Mag, KillClip, High Impact Reserves
+Even though lightweight pulses struggle in PvE and PvP, the curated roll is a solid performer for the archetype. tags:pve
+dimwishlist:item=568515759&perks=1168162263,3425386926
+dimwishlist:item=568515759&perks=1168162263,460017080
+dimwishlist:item=568515759&perks=1168162263,2213355989
+dimwishlist:item=568515759&perks=4267945040,3425386926
+dimwishlist:item=568515759&perks=4267945040,460017080
+dimwishlist:item=568515759&perks=4267945040,2213355989
+
+
+// Chattering Bone (pve,pvp)
+//notes: PvE: Curated // Hammer/Small/Fluted/Cork/Poly, Rico/Highcal/Lightmag, Outlaw/Full Auto, Ramp/Headseeker/HightImpactReserves
+PvP: Curated // Hammer, Rico/highcal, Rangefinder, Rampage, Range MW
+Curated (Riven): Corkscrew, Light Mag, KillClip, High Impact Reserves
+Even though lightweight pulses struggle in PvE and PvP, the curated roll is a solid performer for the archetype. tags:pve,pvp
+dimwishlist:item=568515759&perks=3425386926
+
+
+// Chattering Bone (pve)
+//notes: PvE: Curated // Hammer/Small/Fluted/Cork/Poly, Rico/Highcal/Lightmag, Outlaw/Full Auto, Ramp/Headseeker/HightImpactReserves
+Curated (Riven): Corkscrew, Light Mag, KillClip, High Impact Reserves
+Even though lightweight pulses struggle in PvE and PvP, the curated roll is a solid performer for the archetype. tags:pve
+dimwishlist:item=568515759&perks=3425386926
+dimwishlist:item=568515759&perks=460017080
+dimwishlist:item=568515759&perks=2213355989
+
+
+// Chattering Bone (pve)
+//notes: PvE: Curated // Hammer/Small/Fluted/Cork/Poly, Rico/Highcal/Lightmag, Outlaw/Full Auto, Ramp/Headseeker/HightImpactReserves
+Curated (Riven): Corkscrew, Light Mag, KillClip, High Impact Reserves
+Even though lightweight pulses struggle in PvE and PvP, the curated roll is a solid performer for the archetype. tags:pve
+dimwishlist:item=568515759&perks=1168162263
+dimwishlist:item=568515759&perks=4267945040
+
+
+// Chattering Bone (pvp)
+//notes: PvP: Curated // Hammer, Rico/highcal, Rangefinder, Rampage, Range MW
+Curated (Riven): Corkscrew, Light Mag, KillClip, High Impact Reserves
+Even though lightweight pulses struggle in PvE and PvP, the curated roll is a solid performer for the archetype. tags:pvp
+dimwishlist:item=568515759&perks=2846385770
+
+
+// Age-Old Bond (god-pvp)
+//notes: PvP: Polygonal, rico/highcal, DSR/TTT, Kill Clip tags:god-pvp
+dimwishlist:item=601592879&perks=1392496348,1561002382,1359896290,1015611457
+dimwishlist:item=601592879&perks=1392496348,1561002382,1890422124,1015611457
+dimwishlist:item=601592879&perks=1392496348,1885400500,1359896290,1015611457
+dimwishlist:item=601592879&perks=1392496348,1885400500,1890422124,1015611457
+
+
+// Age-Old Bond (god-pve)
+//notes: PvE: Polygonal, rico/highcal, DSR/TTT, Dfly (or use Curated)
+Curated (Kali): Extended, Light Mag, FTTC, Rampage tags:god-pve
+dimwishlist:item=601592879&perks=1467527085,679225683,1354429876,3425386926
+
+
+// Age-Old Bond (god-pve)
+//notes: PvE: Polygonal, rico/highcal, DSR/TTT, Dfly (or use Curated)
+Curated (Kali): Extended, Light Mag, FTTC, Rampage tags:god-pve
+dimwishlist:item=601592879&perks=1392496348,1561002382,1359896290,2848615171
+dimwishlist:item=601592879&perks=1392496348,1561002382,1890422124,2848615171
+dimwishlist:item=601592879&perks=1392496348,1885400500,1359896290,2848615171
+dimwishlist:item=601592879&perks=1392496348,1885400500,1890422124,2848615171
+
+
+// Age-Old Bond (pvp)
+//notes: PvP: Polygonal, rico/highcal, DSR/TTT, Kill Clip tags:pvp
+dimwishlist:item=601592879&perks=1561002382,1359896290,1015611457
+dimwishlist:item=601592879&perks=1561002382,1890422124,1015611457
+dimwishlist:item=601592879&perks=1885400500,1359896290,1015611457
+dimwishlist:item=601592879&perks=1885400500,1890422124,1015611457
+
+
+// Age-Old Bond (pvp)
+//notes: PvP: Polygonal, rico/highcal, DSR/TTT, Kill Clip tags:pvp
+dimwishlist:item=601592879&perks=1392496348,1359896290,1015611457
+dimwishlist:item=601592879&perks=1392496348,1890422124,1015611457
+
+
+// Age-Old Bond (pve)
+//notes: PvE: Polygonal, rico/highcal, DSR/TTT, Dfly (or use Curated)
+Curated (Kali): Extended, Light Mag, FTTC, Rampage tags:pve
+dimwishlist:item=601592879&perks=1561002382,1359896290,2848615171
+dimwishlist:item=601592879&perks=1561002382,1890422124,2848615171
+dimwishlist:item=601592879&perks=1885400500,1359896290,2848615171
+dimwishlist:item=601592879&perks=1885400500,1890422124,2848615171
+
+
+// Age-Old Bond (pve)
+//notes: PvE: Polygonal, rico/highcal, DSR/TTT, Dfly (or use Curated)
+Curated (Kali): Extended, Light Mag, FTTC, Rampage tags:pve
+dimwishlist:item=601592879&perks=1392496348,1890422124,2848615171
+dimwishlist:item=601592879&perks=1392496348,1359896290,2848615171
+
+
+// Age-Old Bond (pvp)
+//notes: PvP: Polygonal, rico/highcal, DSR/TTT, Kill Clip tags:pvp
+dimwishlist:item=601592879&perks=1359896290,1015611457
+dimwishlist:item=601592879&perks=1890422124,1015611457
+
+
+// Age-Old Bond (pve)
+//notes: PvE: Polygonal, rico/highcal, DSR/TTT, Dfly (or use Curated)
+Curated (Kali): Extended, Light Mag, FTTC, Rampage tags:pve
+dimwishlist:item=601592879&perks=1359896290,2848615171
+dimwishlist:item=601592879&perks=1890422124,2848615171
+
+
+// Age-Old Bond (pvp,pve)
+//notes: PvE: Polygonal, rico/highcal, DSR/TTT, Dfly (or use Curated)
+PvP: Polygonal, rico/highcal, DSR/TTT, Kill Clip
+Curated (Kali): Extended, Light Mag, FTTC, Rampage tags:pvp,pve
+dimwishlist:item=601592879&perks=1359896290
+dimwishlist:item=601592879&perks=1890422124
+
+
+// Age-Old Bond (pve)
+//notes: PvE: Polygonal, rico/highcal, DSR/TTT, Dfly (or use Curated)
+Curated (Kali): Extended, Light Mag, FTTC, Rampage tags:pve
+dimwishlist:item=601592879&perks=2848615171
+
+
+// Age-Old Bond (pvp)
+//notes: PvP: Polygonal, rico/highcal, DSR/TTT, Kill Clip tags:pvp
+dimwishlist:item=601592879&perks=1015611457
+
+
+// Nation of Beasts (god-pvp)
+//notes: PvP: Hammer/Fluted, Accurized, Opening Shot, Kill Clip/Explosive/Rampage tags:god-pvp
+dimwishlist:item=654370424&perks=3250034553,3142289711,47981717,1015611457
+dimwishlist:item=654370424&perks=3250034553,3142289711,47981717,3038247973
+dimwishlist:item=654370424&perks=3250034553,3142289711,47981717,3425386926
+dimwishlist:item=654370424&perks=1840239774,3142289711,47981717,1015611457
+dimwishlist:item=654370424&perks=1840239774,3142289711,47981717,3038247973
+dimwishlist:item=654370424&perks=1840239774,3142289711,47981717,3425386926
+
+
+// Nation of Beasts (god-pve)
+//notes: PvE: Curated // any, TacMag, Outlaw, KC/Rampage
+Curated (Morgeth): **Full Bore, Light Mag, Outlaw, Dragonfly** tags:god-pve
+dimwishlist:item=654370424&perks=202670084,679225683,1168162263,2848615171
+
+
+// Nation of Beasts (god-pve)
+//notes: PvE: Curated // any, TacMag, Outlaw, KC/Rampage
+Curated (Morgeth): **Full Bore, Light Mag, Outlaw, Dragonfly** tags:god-pve
+dimwishlist:item=654370424&perks=839105230,106909392,1168162263,1015611457
+dimwishlist:item=654370424&perks=839105230,106909392,1168162263,3425386926
+dimwishlist:item=654370424&perks=4090651448,106909392,1168162263,1015611457
+dimwishlist:item=654370424&perks=4090651448,106909392,1168162263,3425386926
+dimwishlist:item=654370424&perks=1840239774,106909392,1168162263,1015611457
+dimwishlist:item=654370424&perks=1840239774,106909392,1168162263,3425386926
+dimwishlist:item=654370424&perks=3250034553,106909392,1168162263,1015611457
+dimwishlist:item=654370424&perks=3250034553,106909392,1168162263,3425386926
+dimwishlist:item=654370424&perks=1392496348,106909392,1168162263,1015611457
+dimwishlist:item=654370424&perks=1392496348,106909392,1168162263,3425386926
+dimwishlist:item=654370424&perks=1482024992,106909392,1168162263,1015611457
+dimwishlist:item=654370424&perks=1482024992,106909392,1168162263,3425386926
+
+
+// Nation of Beasts (pvp)
+//notes: PvP: Hammer/Fluted, Accurized, Opening Shot, Kill Clip/Explosive/Rampage tags:pvp
+dimwishlist:item=654370424&perks=3142289711,47981717,1015611457
+dimwishlist:item=654370424&perks=3142289711,47981717,3038247973
+dimwishlist:item=654370424&perks=3142289711,47981717,3425386926
+
+
+// Nation of Beasts (pvp)
+//notes: PvP: Hammer/Fluted, Accurized, Opening Shot, Kill Clip/Explosive/Rampage tags:pvp
+dimwishlist:item=654370424&perks=3250034553,47981717,1015611457
+dimwishlist:item=654370424&perks=3250034553,47981717,3038247973
+dimwishlist:item=654370424&perks=3250034553,47981717,3425386926
+dimwishlist:item=654370424&perks=1840239774,47981717,1015611457
+dimwishlist:item=654370424&perks=1840239774,47981717,3038247973
+dimwishlist:item=654370424&perks=1840239774,47981717,3425386926
+
+
+// Nation of Beasts (pve)
+//notes: PvE: Curated // any, TacMag, Outlaw, KC/Rampage
+Curated (Morgeth): **Full Bore, Light Mag, Outlaw, Dragonfly** tags:pve
+dimwishlist:item=654370424&perks=106909392,1168162263,1015611457
+dimwishlist:item=654370424&perks=106909392,1168162263,3425386926
+
+
+// Nation of Beasts (pve)
+//notes: PvE: Curated // any, TacMag, Outlaw, KC/Rampage
+Curated (Morgeth): **Full Bore, Light Mag, Outlaw, Dragonfly** tags:pve
+dimwishlist:item=654370424&perks=839105230,1168162263,1015611457
+dimwishlist:item=654370424&perks=839105230,1168162263,3425386926
+dimwishlist:item=654370424&perks=4090651448,1168162263,1015611457
+dimwishlist:item=654370424&perks=4090651448,1168162263,3425386926
+dimwishlist:item=654370424&perks=1840239774,1168162263,1015611457
+dimwishlist:item=654370424&perks=1840239774,1168162263,3425386926
+dimwishlist:item=654370424&perks=3250034553,1168162263,1015611457
+dimwishlist:item=654370424&perks=3250034553,1168162263,3425386926
+dimwishlist:item=654370424&perks=1392496348,1168162263,1015611457
+dimwishlist:item=654370424&perks=1392496348,1168162263,3425386926
+dimwishlist:item=654370424&perks=1482024992,1168162263,1015611457
+dimwishlist:item=654370424&perks=1482024992,1168162263,3425386926
+
+
+// Nation of Beasts (pvp)
+//notes: PvP: Hammer/Fluted, Accurized, Opening Shot, Kill Clip/Explosive/Rampage tags:pvp
+dimwishlist:item=654370424&perks=47981717,1015611457
+dimwishlist:item=654370424&perks=47981717,3038247973
+dimwishlist:item=654370424&perks=47981717,3425386926
+
+
+// Nation of Beasts (pve)
+//notes: PvE: Curated // any, TacMag, Outlaw, KC/Rampage
+Curated (Morgeth): **Full Bore, Light Mag, Outlaw, Dragonfly** tags:pve
+dimwishlist:item=654370424&perks=1168162263,1015611457
+dimwishlist:item=654370424&perks=1168162263,3425386926
+
+
+// Nation of Beasts (pve,pvp)
+//notes: PvE: Curated // any, TacMag, Outlaw, KC/Rampage
+PvP: Hammer/Fluted, Accurized, Opening Shot, Kill Clip/Explosive/Rampage
+Curated (Morgeth): **Full Bore, Light Mag, Outlaw, Dragonfly** tags:pve,pvp
+dimwishlist:item=654370424&perks=1015611457
+dimwishlist:item=654370424&perks=3425386926
+
+
+// Nation of Beasts (pvp)
+//notes: PvP: Hammer/Fluted, Accurized, Opening Shot, Kill Clip/Explosive/Rampage tags:pvp
+dimwishlist:item=654370424&perks=1015611457
+dimwishlist:item=654370424&perks=3038247973
+dimwishlist:item=654370424&perks=3425386926
+
+
+// Nation of Beasts (pvp)
+//notes: PvP: Hammer/Fluted, Accurized, Opening Shot, Kill Clip/Explosive/Rampage tags:pvp
+dimwishlist:item=654370424&perks=47981717
+
+
+// Nation of Beasts (pve)
+//notes: PvE: Curated // any, TacMag, Outlaw, KC/Rampage
+Curated (Morgeth): **Full Bore, Light Mag, Outlaw, Dragonfly** tags:pve
+dimwishlist:item=654370424&perks=1168162263
+
+
+// The Supremacy (god-pve)
+//notes: PvE: any, Extended/Appended, any (snap/AA preferred), Triple Tap tags:god-pve
+dimwishlist:item=686951703&perks=1392496348,1561002382,957782887,3400784728
+dimwishlist:item=686951703&perks=1392496348,1561002382,2010801679,3400784728
+dimwishlist:item=686951703&perks=1392496348,1087426260,957782887,3400784728
+dimwishlist:item=686951703&perks=1392496348,1087426260,2010801679,3400784728
+dimwishlist:item=686951703&perks=1392496348,2420895100,957782887,3400784728
+dimwishlist:item=686951703&perks=1392496348,2420895100,2010801679,3400784728
+dimwishlist:item=686951703&perks=839105230,1561002382,957782887,3400784728
+dimwishlist:item=686951703&perks=839105230,1561002382,2010801679,3400784728
+dimwishlist:item=686951703&perks=839105230,1087426260,957782887,3400784728
+dimwishlist:item=686951703&perks=839105230,1087426260,2010801679,3400784728
+dimwishlist:item=686951703&perks=839105230,2420895100,957782887,3400784728
+dimwishlist:item=686951703&perks=839105230,2420895100,2010801679,3400784728
+dimwishlist:item=686951703&perks=4090651448,1561002382,957782887,3400784728
+dimwishlist:item=686951703&perks=4090651448,1561002382,2010801679,3400784728
+dimwishlist:item=686951703&perks=4090651448,1087426260,957782887,3400784728
+dimwishlist:item=686951703&perks=4090651448,1087426260,2010801679,3400784728
+dimwishlist:item=686951703&perks=4090651448,2420895100,957782887,3400784728
+dimwishlist:item=686951703&perks=4090651448,2420895100,2010801679,3400784728
+dimwishlist:item=686951703&perks=1840239774,1561002382,957782887,3400784728
+dimwishlist:item=686951703&perks=1840239774,1561002382,2010801679,3400784728
+dimwishlist:item=686951703&perks=1840239774,1087426260,957782887,3400784728
+dimwishlist:item=686951703&perks=1840239774,1087426260,2010801679,3400784728
+dimwishlist:item=686951703&perks=1840239774,2420895100,957782887,3400784728
+dimwishlist:item=686951703&perks=1840239774,2420895100,2010801679,3400784728
+dimwishlist:item=686951703&perks=3250034553,1561002382,957782887,3400784728
+dimwishlist:item=686951703&perks=3250034553,1561002382,2010801679,3400784728
+dimwishlist:item=686951703&perks=3250034553,1087426260,957782887,3400784728
+dimwishlist:item=686951703&perks=3250034553,1087426260,2010801679,3400784728
+dimwishlist:item=686951703&perks=3250034553,2420895100,957782887,3400784728
+dimwishlist:item=686951703&perks=3250034553,2420895100,2010801679,3400784728
+dimwishlist:item=686951703&perks=1482024992,1561002382,957782887,3400784728
+dimwishlist:item=686951703&perks=1482024992,1561002382,2010801679,3400784728
+dimwishlist:item=686951703&perks=1482024992,1087426260,957782887,3400784728
+dimwishlist:item=686951703&perks=1482024992,1087426260,2010801679,3400784728
+dimwishlist:item=686951703&perks=1482024992,2420895100,957782887,3400784728
+dimwishlist:item=686951703&perks=1482024992,2420895100,2010801679,3400784728
+
+
+// The Supremacy (god-pvp)
+//notes: PvP: any, Rico/Highcal, Snapshot, Kill Clip tags:god-pvp
+dimwishlist:item=686951703&perks=1392496348,1561002382,957782887,1015611457
+dimwishlist:item=686951703&perks=1392496348,1885400500,957782887,1015611457
+dimwishlist:item=686951703&perks=839105230,1561002382,957782887,1015611457
+dimwishlist:item=686951703&perks=839105230,1885400500,957782887,1015611457
+dimwishlist:item=686951703&perks=4090651448,1561002382,957782887,1015611457
+dimwishlist:item=686951703&perks=4090651448,1885400500,957782887,1015611457
+dimwishlist:item=686951703&perks=1840239774,1561002382,957782887,1015611457
+dimwishlist:item=686951703&perks=1840239774,1885400500,957782887,1015611457
+dimwishlist:item=686951703&perks=3250034553,1561002382,957782887,1015611457
+dimwishlist:item=686951703&perks=3250034553,1885400500,957782887,1015611457
+dimwishlist:item=686951703&perks=1482024992,1561002382,957782887,1015611457
+dimwishlist:item=686951703&perks=1482024992,1885400500,957782887,1015611457
+
+
+// The Supremacy (pve)
+//notes: PvE: any, Extended/Appended, any (snap/AA preferred), Triple Tap tags:pve
+dimwishlist:item=686951703&perks=1561002382,957782887,3400784728
+dimwishlist:item=686951703&perks=1561002382,2010801679,3400784728
+dimwishlist:item=686951703&perks=1087426260,957782887,3400784728
+dimwishlist:item=686951703&perks=1087426260,2010801679,3400784728
+dimwishlist:item=686951703&perks=2420895100,957782887,3400784728
+dimwishlist:item=686951703&perks=2420895100,2010801679,3400784728
+
+
+// The Supremacy (pve)
+//notes: PvE: any, Extended/Appended, any (snap/AA preferred), Triple Tap tags:pve
+dimwishlist:item=686951703&perks=1392496348,957782887,3400784728
+dimwishlist:item=686951703&perks=1392496348,2010801679,3400784728
+dimwishlist:item=686951703&perks=839105230,957782887,3400784728
+dimwishlist:item=686951703&perks=839105230,2010801679,3400784728
+dimwishlist:item=686951703&perks=4090651448,957782887,3400784728
+dimwishlist:item=686951703&perks=4090651448,2010801679,3400784728
+dimwishlist:item=686951703&perks=1840239774,957782887,3400784728
+dimwishlist:item=686951703&perks=1840239774,2010801679,3400784728
+dimwishlist:item=686951703&perks=3250034553,957782887,3400784728
+dimwishlist:item=686951703&perks=3250034553,2010801679,3400784728
+dimwishlist:item=686951703&perks=1482024992,957782887,3400784728
+dimwishlist:item=686951703&perks=1482024992,2010801679,3400784728
+
+
+// The Supremacy (pvp)
+//notes: PvP: any, Rico/Highcal, Snapshot, Kill Clip tags:pvp
+dimwishlist:item=686951703&perks=1561002382,957782887,1015611457
+dimwishlist:item=686951703&perks=1885400500,957782887,1015611457
+
+
+// The Supremacy (pvp)
+//notes: PvP: any, Rico/Highcal, Snapshot, Kill Clip tags:pvp
+dimwishlist:item=686951703&perks=1392496348,957782887,1015611457
+dimwishlist:item=686951703&perks=839105230,957782887,1015611457
+dimwishlist:item=686951703&perks=4090651448,957782887,1015611457
+dimwishlist:item=686951703&perks=1840239774,957782887,1015611457
+dimwishlist:item=686951703&perks=3250034553,957782887,1015611457
+dimwishlist:item=686951703&perks=1482024992,957782887,1015611457
+
+
+// The Supremacy (pve)
+//notes: PvE: any, Extended/Appended, any (snap/AA preferred), Triple Tap tags:pve
+dimwishlist:item=686951703&perks=957782887,3400784728
+dimwishlist:item=686951703&perks=2010801679,3400784728
+
+
+// The Supremacy (pvp)
+//notes: PvP: any, Rico/Highcal, Snapshot, Kill Clip tags:pvp
+dimwishlist:item=686951703&perks=957782887,1015611457
+
+
+// The Supremacy (pve,pvp)
+//notes: PvE: any, Extended/Appended, any (snap/AA preferred), Triple Tap
+PvP: any, Rico/Highcal, Snapshot, Kill Clip tags:pve,pvp
+dimwishlist:item=686951703&perks=957782887
+
+
+// The Supremacy (pve)
+//notes: PvE: any, Extended/Appended, any (snap/AA preferred), Triple Tap tags:pve
+dimwishlist:item=686951703&perks=3400784728
+
+
+// The Supremacy (pve)
+//notes: PvE: any, Extended/Appended, any (snap/AA preferred), Triple Tap tags:pve
+dimwishlist:item=686951703&perks=957782887
+dimwishlist:item=686951703&perks=2010801679
+
+
+// The Supremacy (pvp)
+//notes: PvP: any, Rico/Highcal, Snapshot, Kill Clip tags:pvp
+dimwishlist:item=686951703&perks=1015611457
+
+
+// The Supremacy (pvp)
+//notes: PvP: any, Rico/Highcal, Snapshot, Kill Clip tags:pvp
+dimwishlist:item=686951703&perks=957782887
+
+
+// Apex Predator (god-pve)
+//notes: PvE: Quick/Hard Launch + Impact Casing + AA + KC 
+(Don’t use this rocket launcher. Just don’t) tags:god-pve
+dimwishlist:item=2545083870&perks=3525010810,3796465595,2010801679,1015611457
+dimwishlist:item=2545083870&perks=981914802,3796465595,2010801679,1015611457
+
+
+// Apex Predator (god-pvp)
+//notes: PvP: Volatile/Confined Launch + Black Powder/Impact Casing + Tracking Module + Snap
+(Don’t use this rocket launcher. Just don’t) tags:god-pvp
+dimwishlist:item=2545083870&perks=1478423395,1996142143,3977735242,957782887
+dimwishlist:item=2545083870&perks=1478423395,3796465595,3977735242,957782887
+dimwishlist:item=2545083870&perks=1844523823,1996142143,3977735242,957782887
+dimwishlist:item=2545083870&perks=1844523823,3796465595,3977735242,957782887
+
+
+// Apex Predator (pve)
+//notes: PvE: Quick/Hard Launch + Impact Casing + AA + KC 
+(Don’t use this rocket launcher. Just don’t) tags:pve
+dimwishlist:item=2545083870&perks=3796465595,2010801679,1015611457
+
+
+// Apex Predator (pve)
+//notes: PvE: Quick/Hard Launch + Impact Casing + AA + KC 
+(Don’t use this rocket launcher. Just don’t) tags:pve
+dimwishlist:item=2545083870&perks=3525010810,2010801679,1015611457
+dimwishlist:item=2545083870&perks=981914802,2010801679,1015611457
+
+
+// Apex Predator (pvp)
+//notes: PvP: Volatile/Confined Launch + Black Powder/Impact Casing + Tracking Module + Snap
+(Don’t use this rocket launcher. Just don’t) tags:pvp
+dimwishlist:item=2545083870&perks=1996142143,3977735242,957782887
+dimwishlist:item=2545083870&perks=3796465595,3977735242,957782887
+
+
+// Apex Predator (pvp)
+//notes: PvP: Volatile/Confined Launch + Black Powder/Impact Casing + Tracking Module + Snap
+(Don’t use this rocket launcher. Just don’t) tags:pvp
+dimwishlist:item=2545083870&perks=1478423395,3977735242,957782887
+dimwishlist:item=2545083870&perks=1844523823,3977735242,957782887
+
+
+// Apex Predator (pve)
+//notes: PvE: Quick/Hard Launch + Impact Casing + AA + KC 
+(Don’t use this rocket launcher. Just don’t) tags:pve
+dimwishlist:item=2545083870&perks=2010801679,1015611457
+
+
+// Apex Predator (pvp)
+//notes: PvP: Volatile/Confined Launch + Black Powder/Impact Casing + Tracking Module + Snap
+(Don’t use this rocket launcher. Just don’t) tags:pvp
+dimwishlist:item=2545083870&perks=3977735242,957782887
+
+
+// Apex Predator (pve)
+//notes: PvE: Quick/Hard Launch + Impact Casing + AA + KC 
+(Don’t use this rocket launcher. Just don’t) tags:pve
+dimwishlist:item=2545083870&perks=1015611457
+
+
+// Apex Predator (pve)
+//notes: PvE: Quick/Hard Launch + Impact Casing + AA + KC 
+(Don’t use this rocket launcher. Just don’t) tags:pve
+dimwishlist:item=2545083870&perks=2010801679
+
+
+// Apex Predator (pvp)
+//notes: PvP: Volatile/Confined Launch + Black Powder/Impact Casing + Tracking Module + Snap
+(Don’t use this rocket launcher. Just don’t) tags:pvp
+dimwishlist:item=2545083870&perks=957782887
+
+
+// Apex Predator (pvp)
+//notes: PvP: Volatile/Confined Launch + Black Powder/Impact Casing + Tracking Module + Snap
+(Don’t use this rocket launcher. Just don’t) tags:pvp
+dimwishlist:item=2545083870&perks=3977735242
+
+
+// Tyranny of Heaven (god-pve)
+//notes: PvE: curated as it has Dfly, High Tension, Straight Fletching, Archers Tempo + Rampage
+PvP: (don’t)
+Curated (Vault): Flexible String, Straight Fletching, Sneakbow, Dragonfly tags:god-pve
+dimwishlist:item=2721249463&perks=4067834857,3827198035,908147344,2848615171
+
+
+// Tyranny of Heaven (god-pve)
+//notes: PvE: curated as it has Dfly, High Tension, Straight Fletching, Archers Tempo + Rampage
+PvP: (don’t)
+Curated (Vault): Flexible String, Straight Fletching, Sneakbow, Dragonfly tags:god-pve
+dimwishlist:item=2721249463&perks=3371775011,3827198035,201365942,3425386926
+
+
+// Tyranny of Heaven (pve)
+//notes: PvE: curated as it has Dfly, High Tension, Straight Fletching, Archers Tempo + Rampage
+PvP: (don’t)
+Curated (Vault): Flexible String, Straight Fletching, Sneakbow, Dragonfly tags:pve
+dimwishlist:item=2721249463&perks=3827198035,201365942,3425386926
+
+
+// Tyranny of Heaven (pve)
+//notes: PvE: curated as it has Dfly, High Tension, Straight Fletching, Archers Tempo + Rampage
+PvP: (don’t)
+Curated (Vault): Flexible String, Straight Fletching, Sneakbow, Dragonfly tags:pve
+dimwishlist:item=2721249463&perks=3371775011,201365942,3425386926
+
+
+// Tyranny of Heaven (pve)
+//notes: PvE: curated as it has Dfly, High Tension, Straight Fletching, Archers Tempo + Rampage
+PvP: (don’t)
+Curated (Vault): Flexible String, Straight Fletching, Sneakbow, Dragonfly tags:pve
+dimwishlist:item=2721249463&perks=201365942,3425386926
+
+
+// Tyranny of Heaven (pve)
+//notes: PvE: curated as it has Dfly, High Tension, Straight Fletching, Archers Tempo + Rampage
+PvP: (don’t)
+Curated (Vault): Flexible String, Straight Fletching, Sneakbow, Dragonfly tags:pve
+dimwishlist:item=2721249463&perks=3425386926
+
+
+// Tyranny of Heaven (pve)
+//notes: PvE: curated as it has Dfly, High Tension, Straight Fletching, Archers Tempo + Rampage
+PvP: (don’t)
+Curated (Vault): Flexible String, Straight Fletching, Sneakbow, Dragonfly tags:pve
+dimwishlist:item=2721249463&perks=201365942
+
+
+// Transfiguration (god-pve,god-pvp)
+//notes: PvE: Fluted, Accurized/Tac Mag/Drop Mag, Rampage, Kill Clip/MT/OS, Reload/Stability MW
+PvP: (same)
+ tags:god-pve,god-pvp
+dimwishlist:item=3799980700&perks=1840239774,3142289711,3425386926,1015611457
+dimwishlist:item=3799980700&perks=1840239774,3142289711,3425386926,588594999
+dimwishlist:item=3799980700&perks=1840239774,3142289711,3425386926,47981717
+dimwishlist:item=3799980700&perks=1840239774,4134353779,3425386926,1015611457
+dimwishlist:item=3799980700&perks=1840239774,4134353779,3425386926,588594999
+dimwishlist:item=3799980700&perks=1840239774,4134353779,3425386926,47981717
+dimwishlist:item=3799980700&perks=1840239774,106909392,3425386926,1015611457
+dimwishlist:item=3799980700&perks=1840239774,106909392,3425386926,588594999
+dimwishlist:item=3799980700&perks=1840239774,106909392,3425386926,47981717
+
+
+// Transfiguration (pve,pvp)
+//notes: PvE: Fluted, Accurized/Tac Mag/Drop Mag, Rampage, Kill Clip/MT/OS, Reload/Stability MW
+PvP: (same)
+ tags:pve,pvp
+dimwishlist:item=3799980700&perks=3142289711,3425386926,1015611457
+dimwishlist:item=3799980700&perks=3142289711,3425386926,588594999
+dimwishlist:item=3799980700&perks=3142289711,3425386926,47981717
+dimwishlist:item=3799980700&perks=4134353779,3425386926,1015611457
+dimwishlist:item=3799980700&perks=4134353779,3425386926,588594999
+dimwishlist:item=3799980700&perks=4134353779,3425386926,47981717
+dimwishlist:item=3799980700&perks=106909392,3425386926,1015611457
+dimwishlist:item=3799980700&perks=106909392,3425386926,588594999
+dimwishlist:item=3799980700&perks=106909392,3425386926,47981717
+
+
+// Transfiguration (pve,pvp)
+//notes: PvE: Fluted, Accurized/Tac Mag/Drop Mag, Rampage, Kill Clip/MT/OS, Reload/Stability MW
+PvP: (same)
+ tags:pve,pvp
+dimwishlist:item=3799980700&perks=1840239774,3425386926,1015611457
+dimwishlist:item=3799980700&perks=1840239774,3425386926,588594999
+dimwishlist:item=3799980700&perks=1840239774,3425386926,47981717
+
+
+// Transfiguration (pve,pvp)
+//notes: PvE: Fluted, Accurized/Tac Mag/Drop Mag, Rampage, Kill Clip/MT/OS, Reload/Stability MW
+PvP: (same)
+ tags:pve,pvp
+dimwishlist:item=3799980700&perks=3425386926,1015611457
+dimwishlist:item=3799980700&perks=3425386926,588594999
+dimwishlist:item=3799980700&perks=3425386926,47981717
+
+
+// Transfiguration (pve,pvp)
+//notes: PvE: Fluted, Accurized/Tac Mag/Drop Mag, Rampage, Kill Clip/MT/OS, Reload/Stability MW
+PvP: (same)
+ tags:pve,pvp
+dimwishlist:item=3799980700&perks=1015611457
+dimwishlist:item=3799980700&perks=588594999
+dimwishlist:item=3799980700&perks=47981717
+
+
+// Transfiguration (pve,pvp)
+//notes: PvE: Fluted, Accurized/Tac Mag/Drop Mag, Rampage, Kill Clip/MT/OS, Reload/Stability MW
+PvP: (same)
+ tags:pve,pvp
+dimwishlist:item=3799980700&perks=3425386926
+
+
+// Techeun Force (god-pve)
+//notes: PvE: any + Liquid + Threat Detector + HIR/Rampage tags:god-pve
+dimwishlist:item=4094657108&perks=3250034553,1687452232,4071163871,2213355989
+dimwishlist:item=4094657108&perks=3250034553,1687452232,4071163871,3425386926
+dimwishlist:item=4094657108&perks=839105230,1687452232,4071163871,2213355989
+dimwishlist:item=4094657108&perks=839105230,1687452232,4071163871,3425386926
+dimwishlist:item=4094657108&perks=4090651448,1687452232,4071163871,2213355989
+dimwishlist:item=4094657108&perks=4090651448,1687452232,4071163871,3425386926
+dimwishlist:item=4094657108&perks=1840239774,1687452232,4071163871,2213355989
+dimwishlist:item=4094657108&perks=1840239774,1687452232,4071163871,3425386926
+dimwishlist:item=4094657108&perks=1392496348,1687452232,4071163871,2213355989
+dimwishlist:item=4094657108&perks=1392496348,1687452232,4071163871,3425386926
+dimwishlist:item=4094657108&perks=1482024992,1687452232,4071163871,2213355989
+dimwishlist:item=4094657108&perks=1482024992,1687452232,4071163871,3425386926
+
+
+// Techeun Force (god-pvp)
+//notes: PvP: Hammer + Liquid/Projection + Under Pressure + HIR tags:god-pvp
+dimwishlist:item=4094657108&perks=3250034553,1687452232,1645158859,2213355989
+dimwishlist:item=4094657108&perks=3250034553,2969185026,1645158859,2213355989
+
+
+// Techeun Force (pvp)
+//notes: PvP: Hammer + Liquid/Projection + Under Pressure + HIR tags:pvp
+dimwishlist:item=4094657108&perks=1687452232,1645158859,2213355989
+dimwishlist:item=4094657108&perks=2969185026,1645158859,2213355989
+
+
+// Techeun Force (pvp)
+//notes: PvP: Hammer + Liquid/Projection + Under Pressure + HIR tags:pvp
+dimwishlist:item=4094657108&perks=3250034553,1645158859,2213355989
+
+
+// Techeun Force (pve)
+//notes: PvE: any + Liquid + Threat Detector + HIR/Rampage tags:pve
+dimwishlist:item=4094657108&perks=3250034553,4071163871,2213355989
+dimwishlist:item=4094657108&perks=3250034553,4071163871,3425386926
+dimwishlist:item=4094657108&perks=839105230,4071163871,2213355989
+dimwishlist:item=4094657108&perks=839105230,4071163871,3425386926
+dimwishlist:item=4094657108&perks=4090651448,4071163871,2213355989
+dimwishlist:item=4094657108&perks=4090651448,4071163871,3425386926
+dimwishlist:item=4094657108&perks=1840239774,4071163871,2213355989
+dimwishlist:item=4094657108&perks=1840239774,4071163871,3425386926
+dimwishlist:item=4094657108&perks=1392496348,4071163871,2213355989
+dimwishlist:item=4094657108&perks=1392496348,4071163871,3425386926
+dimwishlist:item=4094657108&perks=1482024992,4071163871,2213355989
+dimwishlist:item=4094657108&perks=1482024992,4071163871,3425386926
+
+
+// Techeun Force (pve)
+//notes: PvE: any + Liquid + Threat Detector + HIR/Rampage tags:pve
+dimwishlist:item=4094657108&perks=1687452232,4071163871,2213355989
+dimwishlist:item=4094657108&perks=1687452232,4071163871,3425386926
+
+
+// Techeun Force (pve)
+//notes: PvE: any + Liquid + Threat Detector + HIR/Rampage tags:pve
+dimwishlist:item=4094657108&perks=4071163871,2213355989
+dimwishlist:item=4094657108&perks=4071163871,3425386926
+
+
+// Techeun Force (pvp)
+//notes: PvP: Hammer + Liquid/Projection + Under Pressure + HIR tags:pvp
+dimwishlist:item=4094657108&perks=1645158859,2213355989
+
+
+// Techeun Force (pve,pvp)
+//notes: PvE: any + Liquid + Threat Detector + HIR/Rampage
+PvP: Hammer + Liquid/Projection + Under Pressure + HIR tags:pve,pvp
+dimwishlist:item=4094657108&perks=2213355989
+
+
+// Techeun Force (pvp)
+//notes: PvP: Hammer + Liquid/Projection + Under Pressure + HIR tags:pvp
+dimwishlist:item=4094657108&perks=1645158859
+
+
+// Techeun Force (pve)
+//notes: PvE: any + Liquid + Threat Detector + HIR/Rampage tags:pve
+dimwishlist:item=4094657108&perks=2213355989
+dimwishlist:item=4094657108&perks=3425386926
+
+
+// Techeun Force (pve)
+//notes: PvE: any + Liquid + Threat Detector + HIR/Rampage tags:pve
+dimwishlist:item=4094657108&perks=4071163871
+
+

@@ -1,0 +1,477 @@
+title:Prophecy
+
+// Widow's Bite (god-pvp)
+//notes: PvP: (1) Fluted, Accurized, Firmly Planted, Opening Shot handing MW (92 handing)
+(2) Hammer, Accurized, Firmly Planted, Slideshot, Quickdraw tags:god-pvp
+dimwishlist:item=1271343896&perks=1840239774,3142289711,280464955,47981717
+
+
+// Widow's Bite (god-pvp)
+//notes: PvP: (1) Fluted, Accurized, Firmly Planted, Opening Shot handing MW (92 handing)
+(2) Hammer, Accurized, Firmly Planted, Slideshot, Quickdraw tags:god-pvp
+dimwishlist:item=1271343896&perks=3250034553,3142289711,280464955,706527188
+dimwishlist:item=1271343896&perks=3250034553,3142289711,3161816588,706527188
+
+
+// Widow's Bite (god-pve)
+//notes: PvE: any, tac/appended,extended, Lead from Gold, Demo/Dbreak tags:god-pve
+dimwishlist:item=1271343896&perks=839105230,1087426260,1556840489,1683379515
+dimwishlist:item=1271343896&perks=839105230,1087426260,1556840489,3523296417
+dimwishlist:item=1271343896&perks=839105230,106909392,1556840489,1683379515
+dimwishlist:item=1271343896&perks=839105230,106909392,1556840489,3523296417
+dimwishlist:item=1271343896&perks=839105230,2420895100,1556840489,1683379515
+dimwishlist:item=1271343896&perks=839105230,2420895100,1556840489,3523296417
+dimwishlist:item=1271343896&perks=4090651448,1087426260,1556840489,1683379515
+dimwishlist:item=1271343896&perks=4090651448,1087426260,1556840489,3523296417
+dimwishlist:item=1271343896&perks=4090651448,106909392,1556840489,1683379515
+dimwishlist:item=1271343896&perks=4090651448,106909392,1556840489,3523296417
+dimwishlist:item=1271343896&perks=4090651448,2420895100,1556840489,1683379515
+dimwishlist:item=1271343896&perks=4090651448,2420895100,1556840489,3523296417
+dimwishlist:item=1271343896&perks=1840239774,1087426260,1556840489,1683379515
+dimwishlist:item=1271343896&perks=1840239774,1087426260,1556840489,3523296417
+dimwishlist:item=1271343896&perks=1840239774,106909392,1556840489,1683379515
+dimwishlist:item=1271343896&perks=1840239774,106909392,1556840489,3523296417
+dimwishlist:item=1271343896&perks=1840239774,2420895100,1556840489,1683379515
+dimwishlist:item=1271343896&perks=1840239774,2420895100,1556840489,3523296417
+dimwishlist:item=1271343896&perks=3250034553,1087426260,1556840489,1683379515
+dimwishlist:item=1271343896&perks=3250034553,1087426260,1556840489,3523296417
+dimwishlist:item=1271343896&perks=3250034553,106909392,1556840489,1683379515
+dimwishlist:item=1271343896&perks=3250034553,106909392,1556840489,3523296417
+dimwishlist:item=1271343896&perks=3250034553,2420895100,1556840489,1683379515
+dimwishlist:item=1271343896&perks=3250034553,2420895100,1556840489,3523296417
+dimwishlist:item=1271343896&perks=1392496348,1087426260,1556840489,1683379515
+dimwishlist:item=1271343896&perks=1392496348,1087426260,1556840489,3523296417
+dimwishlist:item=1271343896&perks=1392496348,106909392,1556840489,1683379515
+dimwishlist:item=1271343896&perks=1392496348,106909392,1556840489,3523296417
+dimwishlist:item=1271343896&perks=1392496348,2420895100,1556840489,1683379515
+dimwishlist:item=1271343896&perks=1392496348,2420895100,1556840489,3523296417
+dimwishlist:item=1271343896&perks=1482024992,1087426260,1556840489,1683379515
+dimwishlist:item=1271343896&perks=1482024992,1087426260,1556840489,3523296417
+dimwishlist:item=1271343896&perks=1482024992,106909392,1556840489,1683379515
+dimwishlist:item=1271343896&perks=1482024992,106909392,1556840489,3523296417
+dimwishlist:item=1271343896&perks=1482024992,2420895100,1556840489,1683379515
+dimwishlist:item=1271343896&perks=1482024992,2420895100,1556840489,3523296417
+
+
+// Widow's Bite (pvp)
+//notes: PvP: (1) Fluted, Accurized, Firmly Planted, Opening Shot handing MW (92 handing)
+(2) Hammer, Accurized, Firmly Planted, Slideshot, Quickdraw tags:pvp
+dimwishlist:item=1271343896&perks=3142289711,280464955,47981717
+
+
+// Widow's Bite (pvp)
+//notes: PvP: (1) Fluted, Accurized, Firmly Planted, Opening Shot handing MW (92 handing)
+(2) Hammer, Accurized, Firmly Planted, Slideshot, Quickdraw tags:pvp
+dimwishlist:item=1271343896&perks=3142289711,280464955,706527188
+dimwishlist:item=1271343896&perks=3142289711,3161816588,706527188
+
+
+// Widow's Bite (pvp)
+//notes: PvP: (1) Fluted, Accurized, Firmly Planted, Opening Shot handing MW (92 handing)
+(2) Hammer, Accurized, Firmly Planted, Slideshot, Quickdraw tags:pvp
+dimwishlist:item=1271343896&perks=1840239774,280464955,47981717
+
+
+// Widow's Bite (pvp)
+//notes: PvP: (1) Fluted, Accurized, Firmly Planted, Opening Shot handing MW (92 handing)
+(2) Hammer, Accurized, Firmly Planted, Slideshot, Quickdraw tags:pvp
+dimwishlist:item=1271343896&perks=3250034553,280464955,706527188
+dimwishlist:item=1271343896&perks=3250034553,3161816588,706527188
+
+
+// Widow's Bite (pve)
+//notes: PvE: any, tac/appended,extended, Lead from Gold, Demo/Dbreak tags:pve
+dimwishlist:item=1271343896&perks=1087426260,1556840489,1683379515
+dimwishlist:item=1271343896&perks=1087426260,1556840489,3523296417
+dimwishlist:item=1271343896&perks=106909392,1556840489,1683379515
+dimwishlist:item=1271343896&perks=106909392,1556840489,3523296417
+dimwishlist:item=1271343896&perks=2420895100,1556840489,1683379515
+dimwishlist:item=1271343896&perks=2420895100,1556840489,3523296417
+
+
+// Widow's Bite (pve)
+//notes: PvE: any, tac/appended,extended, Lead from Gold, Demo/Dbreak tags:pve
+dimwishlist:item=1271343896&perks=839105230,1556840489,1683379515
+dimwishlist:item=1271343896&perks=839105230,1556840489,3523296417
+dimwishlist:item=1271343896&perks=4090651448,1556840489,1683379515
+dimwishlist:item=1271343896&perks=4090651448,1556840489,3523296417
+dimwishlist:item=1271343896&perks=1840239774,1556840489,1683379515
+dimwishlist:item=1271343896&perks=1840239774,1556840489,3523296417
+dimwishlist:item=1271343896&perks=3250034553,1556840489,1683379515
+dimwishlist:item=1271343896&perks=3250034553,1556840489,3523296417
+dimwishlist:item=1271343896&perks=1392496348,1556840489,1683379515
+dimwishlist:item=1271343896&perks=1392496348,1556840489,3523296417
+dimwishlist:item=1271343896&perks=1482024992,1556840489,1683379515
+dimwishlist:item=1271343896&perks=1482024992,1556840489,3523296417
+
+
+// Widow's Bite (pvp)
+//notes: PvP: (1) Fluted, Accurized, Firmly Planted, Opening Shot handing MW (92 handing)
+(2) Hammer, Accurized, Firmly Planted, Slideshot, Quickdraw tags:pvp
+dimwishlist:item=1271343896&perks=280464955,47981717
+
+
+// Widow's Bite (pvp)
+//notes: PvP: (1) Fluted, Accurized, Firmly Planted, Opening Shot handing MW (92 handing)
+(2) Hammer, Accurized, Firmly Planted, Slideshot, Quickdraw tags:pvp
+dimwishlist:item=1271343896&perks=280464955,706527188
+dimwishlist:item=1271343896&perks=3161816588,706527188
+
+
+// Widow's Bite (pve)
+//notes: PvE: any, tac/appended,extended, Lead from Gold, Demo/Dbreak tags:pve
+dimwishlist:item=1271343896&perks=1556840489,1683379515
+dimwishlist:item=1271343896&perks=1556840489,3523296417
+
+
+// Widow's Bite (pvp)
+//notes: PvP: (1) Fluted, Accurized, Firmly Planted, Opening Shot handing MW (92 handing)
+(2) Hammer, Accurized, Firmly Planted, Slideshot, Quickdraw tags:pvp
+dimwishlist:item=1271343896&perks=47981717
+dimwishlist:item=1271343896&perks=706527188
+
+
+// Widow's Bite (pvp)
+//notes: PvP: (1) Fluted, Accurized, Firmly Planted, Opening Shot handing MW (92 handing)
+(2) Hammer, Accurized, Firmly Planted, Slideshot, Quickdraw tags:pvp
+dimwishlist:item=1271343896&perks=280464955
+dimwishlist:item=1271343896&perks=3161816588
+
+
+// Widow's Bite (pve)
+//notes: PvE: any, tac/appended,extended, Lead from Gold, Demo/Dbreak tags:pve
+dimwishlist:item=1271343896&perks=1683379515
+dimwishlist:item=1271343896&perks=3523296417
+
+
+// Widow's Bite (pve)
+//notes: PvE: any, tac/appended,extended, Lead from Gold, Demo/Dbreak tags:pve
+dimwishlist:item=1271343896&perks=1556840489
+
+
+// Death Adder (god-pvp)
+//notes: PvP: Hammer, Accurized, DSR/HipFire, Rangefinder/EoTS/MT/QD, Range MW
+SMGs are sensitive to range stat, 56 base range can hit full damage at 15M, max range 17.8M tags:god-pvp
+dimwishlist:item=2742490609&perks=3250034553,3142289711,1359896290,2846385770
+dimwishlist:item=2742490609&perks=3250034553,3142289711,1359896290,699525795
+dimwishlist:item=2742490609&perks=3250034553,3142289711,1359896290,588594999
+dimwishlist:item=2742490609&perks=3250034553,3142289711,1359896290,706527188
+dimwishlist:item=2742490609&perks=3250034553,3142289711,1866048759,2846385770
+dimwishlist:item=2742490609&perks=3250034553,3142289711,1866048759,699525795
+dimwishlist:item=2742490609&perks=3250034553,3142289711,1866048759,588594999
+dimwishlist:item=2742490609&perks=3250034553,3142289711,1866048759,706527188
+
+
+// Death Adder (god-pve)
+//notes: PvE: any, tac/appended, Feeding Frenzy/ALH, Dfly/Dbreak
+ammo cap seems to be 41 so backup mag + tac/appended = Extended
+ tags:god-pve
+dimwishlist:item=2742490609&perks=1482024992,1087426260,2779035018,1683379515
+dimwishlist:item=2742490609&perks=1482024992,1087426260,2779035018,2848615171
+dimwishlist:item=2742490609&perks=1482024992,1087426260,3300816228,1683379515
+dimwishlist:item=2742490609&perks=1482024992,1087426260,3300816228,2848615171
+dimwishlist:item=2742490609&perks=1482024992,106909392,2779035018,1683379515
+dimwishlist:item=2742490609&perks=1482024992,106909392,2779035018,2848615171
+dimwishlist:item=2742490609&perks=1482024992,106909392,3300816228,1683379515
+dimwishlist:item=2742490609&perks=1482024992,106909392,3300816228,2848615171
+dimwishlist:item=2742490609&perks=839105230,1087426260,2779035018,1683379515
+dimwishlist:item=2742490609&perks=839105230,1087426260,2779035018,2848615171
+dimwishlist:item=2742490609&perks=839105230,1087426260,3300816228,1683379515
+dimwishlist:item=2742490609&perks=839105230,1087426260,3300816228,2848615171
+dimwishlist:item=2742490609&perks=839105230,106909392,2779035018,1683379515
+dimwishlist:item=2742490609&perks=839105230,106909392,2779035018,2848615171
+dimwishlist:item=2742490609&perks=839105230,106909392,3300816228,1683379515
+dimwishlist:item=2742490609&perks=839105230,106909392,3300816228,2848615171
+dimwishlist:item=2742490609&perks=4090651448,1087426260,2779035018,1683379515
+dimwishlist:item=2742490609&perks=4090651448,1087426260,2779035018,2848615171
+dimwishlist:item=2742490609&perks=4090651448,1087426260,3300816228,1683379515
+dimwishlist:item=2742490609&perks=4090651448,1087426260,3300816228,2848615171
+dimwishlist:item=2742490609&perks=4090651448,106909392,2779035018,1683379515
+dimwishlist:item=2742490609&perks=4090651448,106909392,2779035018,2848615171
+dimwishlist:item=2742490609&perks=4090651448,106909392,3300816228,1683379515
+dimwishlist:item=2742490609&perks=4090651448,106909392,3300816228,2848615171
+dimwishlist:item=2742490609&perks=1840239774,1087426260,2779035018,1683379515
+dimwishlist:item=2742490609&perks=1840239774,1087426260,2779035018,2848615171
+dimwishlist:item=2742490609&perks=1840239774,1087426260,3300816228,1683379515
+dimwishlist:item=2742490609&perks=1840239774,1087426260,3300816228,2848615171
+dimwishlist:item=2742490609&perks=1840239774,106909392,2779035018,1683379515
+dimwishlist:item=2742490609&perks=1840239774,106909392,2779035018,2848615171
+dimwishlist:item=2742490609&perks=1840239774,106909392,3300816228,1683379515
+dimwishlist:item=2742490609&perks=1840239774,106909392,3300816228,2848615171
+dimwishlist:item=2742490609&perks=3250034553,1087426260,2779035018,1683379515
+dimwishlist:item=2742490609&perks=3250034553,1087426260,2779035018,2848615171
+dimwishlist:item=2742490609&perks=3250034553,1087426260,3300816228,1683379515
+dimwishlist:item=2742490609&perks=3250034553,1087426260,3300816228,2848615171
+dimwishlist:item=2742490609&perks=3250034553,106909392,2779035018,1683379515
+dimwishlist:item=2742490609&perks=3250034553,106909392,2779035018,2848615171
+dimwishlist:item=2742490609&perks=3250034553,106909392,3300816228,1683379515
+dimwishlist:item=2742490609&perks=3250034553,106909392,3300816228,2848615171
+dimwishlist:item=2742490609&perks=1392496348,1087426260,2779035018,1683379515
+dimwishlist:item=2742490609&perks=1392496348,1087426260,2779035018,2848615171
+dimwishlist:item=2742490609&perks=1392496348,1087426260,3300816228,1683379515
+dimwishlist:item=2742490609&perks=1392496348,1087426260,3300816228,2848615171
+dimwishlist:item=2742490609&perks=1392496348,106909392,2779035018,1683379515
+dimwishlist:item=2742490609&perks=1392496348,106909392,2779035018,2848615171
+dimwishlist:item=2742490609&perks=1392496348,106909392,3300816228,1683379515
+dimwishlist:item=2742490609&perks=1392496348,106909392,3300816228,2848615171
+
+
+// Death Adder (pvp)
+//notes: PvP: Hammer, Accurized, DSR/HipFire, Rangefinder/EoTS/MT/QD, Range MW
+SMGs are sensitive to range stat, 56 base range can hit full damage at 15M, max range 17.8M tags:pvp
+dimwishlist:item=2742490609&perks=3142289711,1359896290,2846385770
+dimwishlist:item=2742490609&perks=3142289711,1359896290,699525795
+dimwishlist:item=2742490609&perks=3142289711,1359896290,588594999
+dimwishlist:item=2742490609&perks=3142289711,1359896290,706527188
+dimwishlist:item=2742490609&perks=3142289711,1866048759,2846385770
+dimwishlist:item=2742490609&perks=3142289711,1866048759,699525795
+dimwishlist:item=2742490609&perks=3142289711,1866048759,588594999
+dimwishlist:item=2742490609&perks=3142289711,1866048759,706527188
+
+
+// Death Adder (pve)
+//notes: PvE: any, tac/appended, Feeding Frenzy/ALH, Dfly/Dbreak
+ammo cap seems to be 41 so backup mag + tac/appended = Extended
+ tags:pve
+dimwishlist:item=2742490609&perks=1087426260,2779035018,1683379515
+dimwishlist:item=2742490609&perks=1087426260,2779035018,2848615171
+dimwishlist:item=2742490609&perks=1087426260,3300816228,1683379515
+dimwishlist:item=2742490609&perks=1087426260,3300816228,2848615171
+dimwishlist:item=2742490609&perks=106909392,2779035018,1683379515
+dimwishlist:item=2742490609&perks=106909392,2779035018,2848615171
+dimwishlist:item=2742490609&perks=106909392,3300816228,1683379515
+dimwishlist:item=2742490609&perks=106909392,3300816228,2848615171
+
+
+// Death Adder (pvp)
+//notes: PvP: Hammer, Accurized, DSR/HipFire, Rangefinder/EoTS/MT/QD, Range MW
+SMGs are sensitive to range stat, 56 base range can hit full damage at 15M, max range 17.8M tags:pvp
+dimwishlist:item=2742490609&perks=3250034553,1359896290,2846385770
+dimwishlist:item=2742490609&perks=3250034553,1359896290,699525795
+dimwishlist:item=2742490609&perks=3250034553,1359896290,588594999
+dimwishlist:item=2742490609&perks=3250034553,1359896290,706527188
+dimwishlist:item=2742490609&perks=3250034553,1866048759,2846385770
+dimwishlist:item=2742490609&perks=3250034553,1866048759,699525795
+dimwishlist:item=2742490609&perks=3250034553,1866048759,588594999
+dimwishlist:item=2742490609&perks=3250034553,1866048759,706527188
+
+
+// Death Adder (pve)
+//notes: PvE: any, tac/appended, Feeding Frenzy/ALH, Dfly/Dbreak
+ammo cap seems to be 41 so backup mag + tac/appended = Extended
+ tags:pve
+dimwishlist:item=2742490609&perks=1482024992,2779035018,1683379515
+dimwishlist:item=2742490609&perks=1482024992,2779035018,2848615171
+dimwishlist:item=2742490609&perks=1482024992,3300816228,1683379515
+dimwishlist:item=2742490609&perks=1482024992,3300816228,2848615171
+dimwishlist:item=2742490609&perks=839105230,2779035018,1683379515
+dimwishlist:item=2742490609&perks=839105230,2779035018,2848615171
+dimwishlist:item=2742490609&perks=839105230,3300816228,1683379515
+dimwishlist:item=2742490609&perks=839105230,3300816228,2848615171
+dimwishlist:item=2742490609&perks=4090651448,2779035018,1683379515
+dimwishlist:item=2742490609&perks=4090651448,2779035018,2848615171
+dimwishlist:item=2742490609&perks=4090651448,3300816228,1683379515
+dimwishlist:item=2742490609&perks=4090651448,3300816228,2848615171
+dimwishlist:item=2742490609&perks=1840239774,2779035018,1683379515
+dimwishlist:item=2742490609&perks=1840239774,2779035018,2848615171
+dimwishlist:item=2742490609&perks=1840239774,3300816228,1683379515
+dimwishlist:item=2742490609&perks=1840239774,3300816228,2848615171
+dimwishlist:item=2742490609&perks=3250034553,2779035018,1683379515
+dimwishlist:item=2742490609&perks=3250034553,2779035018,2848615171
+dimwishlist:item=2742490609&perks=3250034553,3300816228,1683379515
+dimwishlist:item=2742490609&perks=3250034553,3300816228,2848615171
+dimwishlist:item=2742490609&perks=1392496348,2779035018,1683379515
+dimwishlist:item=2742490609&perks=1392496348,2779035018,2848615171
+dimwishlist:item=2742490609&perks=1392496348,3300816228,1683379515
+dimwishlist:item=2742490609&perks=1392496348,3300816228,2848615171
+
+
+// Death Adder (pve)
+//notes: PvE: any, tac/appended, Feeding Frenzy/ALH, Dfly/Dbreak
+ammo cap seems to be 41 so backup mag + tac/appended = Extended
+ tags:pve
+dimwishlist:item=2742490609&perks=2779035018,1683379515
+dimwishlist:item=2742490609&perks=2779035018,2848615171
+dimwishlist:item=2742490609&perks=3300816228,1683379515
+dimwishlist:item=2742490609&perks=3300816228,2848615171
+
+
+// Death Adder (pvp)
+//notes: PvP: Hammer, Accurized, DSR/HipFire, Rangefinder/EoTS/MT/QD, Range MW
+SMGs are sensitive to range stat, 56 base range can hit full damage at 15M, max range 17.8M tags:pvp
+dimwishlist:item=2742490609&perks=1359896290,2846385770
+dimwishlist:item=2742490609&perks=1359896290,699525795
+dimwishlist:item=2742490609&perks=1359896290,588594999
+dimwishlist:item=2742490609&perks=1359896290,706527188
+dimwishlist:item=2742490609&perks=1866048759,2846385770
+dimwishlist:item=2742490609&perks=1866048759,699525795
+dimwishlist:item=2742490609&perks=1866048759,588594999
+dimwishlist:item=2742490609&perks=1866048759,706527188
+
+
+// Death Adder (pve)
+//notes: PvE: any, tac/appended, Feeding Frenzy/ALH, Dfly/Dbreak
+ammo cap seems to be 41 so backup mag + tac/appended = Extended
+ tags:pve
+dimwishlist:item=2742490609&perks=1683379515
+dimwishlist:item=2742490609&perks=2848615171
+
+
+// Death Adder (pve)
+//notes: PvE: any, tac/appended, Feeding Frenzy/ALH, Dfly/Dbreak
+ammo cap seems to be 41 so backup mag + tac/appended = Extended
+ tags:pve
+dimwishlist:item=2742490609&perks=2779035018
+dimwishlist:item=2742490609&perks=3300816228
+
+
+// Death Adder (pvp)
+//notes: PvP: Hammer, Accurized, DSR/HipFire, Rangefinder/EoTS/MT/QD, Range MW
+SMGs are sensitive to range stat, 56 base range can hit full damage at 15M, max range 17.8M tags:pvp
+dimwishlist:item=2742490609&perks=2846385770
+dimwishlist:item=2742490609&perks=699525795
+dimwishlist:item=2742490609&perks=588594999
+dimwishlist:item=2742490609&perks=706527188
+
+
+// Death Adder (pvp)
+//notes: PvP: Hammer, Accurized, DSR/HipFire, Rangefinder/EoTS/MT/QD, Range MW
+SMGs are sensitive to range stat, 56 base range can hit full damage at 15M, max range 17.8M tags:pvp
+dimwishlist:item=2742490609&perks=1359896290
+dimwishlist:item=2742490609&perks=1866048759
+
+
+// Negative Space (god-pve)
+//notes: PvE: Jagged/Honed/Tempered Edge + Swordmasters/Balanced Guard + Relentless Strikes + Whirlwind Blade
+PvP: You’re using this to 3 peek if you want to use it in PvP, and it really doesn’t matter then tags:god-pve
+dimwishlist:item=3629968765&perks=2827049491,52780822,1749209109,3913600130
+dimwishlist:item=3629968765&perks=2827049491,269888150,1749209109,3913600130
+dimwishlist:item=3629968765&perks=938542991,52780822,1749209109,3913600130
+dimwishlist:item=3629968765&perks=938542991,269888150,1749209109,3913600130
+dimwishlist:item=3629968765&perks=3666208348,52780822,1749209109,3913600130
+dimwishlist:item=3629968765&perks=3666208348,269888150,1749209109,3913600130
+
+
+// Negative Space (pve)
+//notes: PvE: Jagged/Honed/Tempered Edge + Swordmasters/Balanced Guard + Relentless Strikes + Whirlwind Blade
+PvP: You’re using this to 3 peek if you want to use it in PvP, and it really doesn’t matter then tags:pve
+dimwishlist:item=3629968765&perks=2827049491,1749209109,3913600130
+dimwishlist:item=3629968765&perks=938542991,1749209109,3913600130
+dimwishlist:item=3629968765&perks=3666208348,1749209109,3913600130
+
+
+// Negative Space (pve)
+//notes: PvE: Jagged/Honed/Tempered Edge + Swordmasters/Balanced Guard + Relentless Strikes + Whirlwind Blade
+PvP: You’re using this to 3 peek if you want to use it in PvP, and it really doesn’t matter then tags:pve
+dimwishlist:item=3629968765&perks=52780822,1749209109,3913600130
+dimwishlist:item=3629968765&perks=269888150,1749209109,3913600130
+
+
+// Negative Space (pve)
+//notes: PvE: Jagged/Honed/Tempered Edge + Swordmasters/Balanced Guard + Relentless Strikes + Whirlwind Blade
+PvP: You’re using this to 3 peek if you want to use it in PvP, and it really doesn’t matter then tags:pve
+dimwishlist:item=3629968765&perks=1749209109,3913600130
+
+
+// Negative Space (pve)
+//notes: PvE: Jagged/Honed/Tempered Edge + Swordmasters/Balanced Guard + Relentless Strikes + Whirlwind Blade
+PvP: You’re using this to 3 peek if you want to use it in PvP, and it really doesn’t matter then tags:pve
+dimwishlist:item=3629968765&perks=3913600130
+
+
+// Negative Space (pve)
+//notes: PvE: Jagged/Honed/Tempered Edge + Swordmasters/Balanced Guard + Relentless Strikes + Whirlwind Blade
+PvP: You’re using this to 3 peek if you want to use it in PvP, and it really doesn’t matter then tags:pve
+dimwishlist:item=3629968765&perks=1749209109
+
+
+// Hoosegow (god-pve)
+//notes: PvE: Max Velocity Barrels + Impact Casing + Field Prep + Demo/Cluster
+Good perk table, but adaptive frame seems to be relative weak compared to other frames. tags:god-pve
+dimwishlist:item=3669616453&perks=981914802,3796465595,2869569095,3523296417
+dimwishlist:item=3669616453&perks=981914802,3796465595,2869569095,1275731761
+dimwishlist:item=3669616453&perks=3525010810,3796465595,2869569095,3523296417
+dimwishlist:item=3669616453&perks=3525010810,3796465595,2869569095,1275731761
+
+
+// Hoosegow (god-pvp)
+//notes: PvP: Minimum Velocity Barrels + Any but High Velocity + Tracking + Cluster
+Good perk table, but adaptive frame seems to be relatively weak compared to other frames. tags:god-pvp
+dimwishlist:item=3669616453&perks=1478423395,1996142143,3977735242,1275731761
+dimwishlist:item=3669616453&perks=1478423395,2985827016,3977735242,1275731761
+dimwishlist:item=3669616453&perks=1478423395,3796465595,3977735242,1275731761
+dimwishlist:item=3669616453&perks=1844523823,1996142143,3977735242,1275731761
+dimwishlist:item=3669616453&perks=1844523823,2985827016,3977735242,1275731761
+dimwishlist:item=3669616453&perks=1844523823,3796465595,3977735242,1275731761
+
+
+// Hoosegow (pve)
+//notes: PvE: Max Velocity Barrels + Impact Casing + Field Prep + Demo/Cluster
+Good perk table, but adaptive frame seems to be relative weak compared to other frames. tags:pve
+dimwishlist:item=3669616453&perks=3796465595,2869569095,3523296417
+dimwishlist:item=3669616453&perks=3796465595,2869569095,1275731761
+
+
+// Hoosegow (pve)
+//notes: PvE: Max Velocity Barrels + Impact Casing + Field Prep + Demo/Cluster
+Good perk table, but adaptive frame seems to be relative weak compared to other frames. tags:pve
+dimwishlist:item=3669616453&perks=981914802,2869569095,3523296417
+dimwishlist:item=3669616453&perks=981914802,2869569095,1275731761
+dimwishlist:item=3669616453&perks=3525010810,2869569095,3523296417
+dimwishlist:item=3669616453&perks=3525010810,2869569095,1275731761
+
+
+// Hoosegow (pvp)
+//notes: PvP: Minimum Velocity Barrels + Any but High Velocity + Tracking + Cluster
+Good perk table, but adaptive frame seems to be relatively weak compared to other frames. tags:pvp
+dimwishlist:item=3669616453&perks=1478423395,3977735242,1275731761
+dimwishlist:item=3669616453&perks=1844523823,3977735242,1275731761
+
+
+// Hoosegow (pvp)
+//notes: PvP: Minimum Velocity Barrels + Any but High Velocity + Tracking + Cluster
+Good perk table, but adaptive frame seems to be relatively weak compared to other frames. tags:pvp
+dimwishlist:item=3669616453&perks=1996142143,3977735242,1275731761
+dimwishlist:item=3669616453&perks=2985827016,3977735242,1275731761
+dimwishlist:item=3669616453&perks=3796465595,3977735242,1275731761
+
+
+// Hoosegow (pve)
+//notes: PvE: Max Velocity Barrels + Impact Casing + Field Prep + Demo/Cluster
+Good perk table, but adaptive frame seems to be relative weak compared to other frames. tags:pve
+dimwishlist:item=3669616453&perks=2869569095,3523296417
+dimwishlist:item=3669616453&perks=2869569095,1275731761
+
+
+// Hoosegow (pvp)
+//notes: PvP: Minimum Velocity Barrels + Any but High Velocity + Tracking + Cluster
+Good perk table, but adaptive frame seems to be relatively weak compared to other frames. tags:pvp
+dimwishlist:item=3669616453&perks=3977735242,1275731761
+
+
+// Hoosegow (pve,pvp)
+//notes: PvE: Max Velocity Barrels + Impact Casing + Field Prep + Demo/Cluster
+PvP: Minimum Velocity Barrels + Any but High Velocity + Tracking + Cluster
+Good perk table, but adaptive frame seems to be relative weak compared to other frames. tags:pve,pvp
+dimwishlist:item=3669616453&perks=1275731761
+
+
+// Hoosegow (pve)
+//notes: PvE: Max Velocity Barrels + Impact Casing + Field Prep + Demo/Cluster
+Good perk table, but adaptive frame seems to be relative weak compared to other frames. tags:pve
+dimwishlist:item=3669616453&perks=3523296417
+dimwishlist:item=3669616453&perks=1275731761
+
+
+// Hoosegow (pve)
+//notes: PvE: Max Velocity Barrels + Impact Casing + Field Prep + Demo/Cluster
+Good perk table, but adaptive frame seems to be relative weak compared to other frames. tags:pve
+dimwishlist:item=3669616453&perks=2869569095
+
+
+// Hoosegow (pvp)
+//notes: PvP: Minimum Velocity Barrels + Any but High Velocity + Tracking + Cluster
+Good perk table, but adaptive frame seems to be relatively weak compared to other frames. tags:pvp
+dimwishlist:item=3669616453&perks=3977735242
+
+

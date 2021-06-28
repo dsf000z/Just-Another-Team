@@ -1,0 +1,87 @@
+title:Class Item Swords
+
+// Quickfang (god-pve)
+//notes: PvE: Jagged Edge + Swordmasters Guard + Relentless Strikes + En Garde
+PvP: You’re a Hunter begging for a lightweight weapon, you’re using this for dodge cooldown reduction and to do the funny run
+En Guarde best in slot for PvP, but ya know, OFA could be a lot of fun in PvE. tags:god-pve
+dimwishlist:item=2782325300&perks=2827049491,269888150,1749209109,1685431615
+
+
+// Quickfang (pve)
+//notes: PvE: Jagged Edge + Swordmasters Guard + Relentless Strikes + En Garde
+PvP: You’re a Hunter begging for a lightweight weapon, you’re using this for dodge cooldown reduction and to do the funny run
+En Guarde best in slot for PvP, but ya know, OFA could be a lot of fun in PvE. tags:pve
+dimwishlist:item=2782325300&perks=269888150,1749209109,1685431615
+
+
+// Quickfang (pve)
+//notes: PvE: Jagged Edge + Swordmasters Guard + Relentless Strikes + En Garde
+PvP: You’re a Hunter begging for a lightweight weapon, you’re using this for dodge cooldown reduction and to do the funny run
+En Guarde best in slot for PvP, but ya know, OFA could be a lot of fun in PvE. tags:pve
+dimwishlist:item=2782325300&perks=269888150,1685431615
+
+
+// Quickfang (pve)
+//notes: PvE: Jagged Edge + Swordmasters Guard + Relentless Strikes + En Garde
+PvP: You’re a Hunter begging for a lightweight weapon, you’re using this for dodge cooldown reduction and to do the funny run
+En Guarde best in slot for PvP, but ya know, OFA could be a lot of fun in PvE. tags:pve
+dimwishlist:item=2782325300&perks=269888150,1749209109
+
+
+// Eternity's Edge (god-pve)
+//notes: PvE: Jagged + Infinite Guard + Relentless Strikes + Surrounded/Counterattack/Flash Counter
+PvP: Any, you 1 heavy anything in the game tags:god-pve
+dimwishlist:item=2782325301&perks=3666208348,2363751990,1749209109,3708227201
+dimwishlist:item=2782325301&perks=3666208348,2363751990,1749209109,3016987351
+dimwishlist:item=2782325301&perks=3666208348,2363751990,1749209109,2244851822
+
+
+// Eternity's Edge (god-pve)
+//notes: PvE: Jagged + Infinite Guard + Relentless Strikes + Surrounded/Counterattack/Flash Counter
+PvP: Any, you 1 heavy anything in the game tags:god-pve
+dimwishlist:item=2782325301&perks=2363751990,1749209109,3708227201
+dimwishlist:item=2782325301&perks=2363751990,1749209109,3016987351
+dimwishlist:item=2782325301&perks=2363751990,1749209109,2244851822
+
+
+// Eternity's Edge (god-pve)
+//notes: PvE: Jagged + Infinite Guard + Relentless Strikes + Surrounded/Counterattack/Flash Counter
+PvP: Any, you 1 heavy anything in the game tags:god-pve
+dimwishlist:item=2782325301&perks=2363751990,3708227201
+dimwishlist:item=2782325301&perks=2363751990,3016987351
+dimwishlist:item=2782325301&perks=2363751990,2244851822
+
+
+// Eternity's Edge (god-pve)
+//notes: PvE: Jagged + Infinite Guard + Relentless Strikes + Surrounded/Counterattack/Flash Counter
+PvP: Any, you 1 heavy anything in the game tags:god-pve
+dimwishlist:item=2782325301&perks=2363751990,1749209109
+
+
+// Crown-Splitter (god-pve)
+//notes: PvE: Jagged Edge + Heavy Guard + Relentless Strikes + Vorpal/Whirlwind Blade
+PvP: Anything, You one heavy everything tags:god-pve
+dimwishlist:item=2782325302&perks=3666208348,2349202967,1749209109,1546637391
+dimwishlist:item=2782325302&perks=3666208348,2349202967,1749209109,3913600130
+
+
+// Crown-Splitter (pve)
+//notes: PvE: Jagged Edge + Heavy Guard + Relentless Strikes + Vorpal/Whirlwind Blade
+PvP: Anything, You one heavy everything tags:pve
+dimwishlist:item=2782325302&perks=2349202967,1749209109,1546637391
+dimwishlist:item=2782325302&perks=2349202967,1749209109,3913600130
+
+
+// Crown-Splitter (pve)
+//notes: PvE: Jagged Edge + Heavy Guard + Relentless Strikes + Vorpal/Whirlwind Blade
+PvP: Anything, You one heavy everything tags:pve
+dimwishlist:item=2782325302&perks=2349202967,1546637391
+dimwishlist:item=2782325302&perks=2349202967,3913600130
+
+
+// Crown-Splitter (pve)
+//notes: PvE: Jagged Edge + Heavy Guard + Relentless Strikes + Vorpal/Whirlwind Blade
+PvP: Anything, You one heavy everything tags:pve
+dimwishlist:item=2782325302&perks=2349202967,1749209109
+
+

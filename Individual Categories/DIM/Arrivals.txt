@@ -1,0 +1,960 @@
+title:Arrivals
+
+// Temptation's Hook (god-pve)
+//notes: PvE: Jagged Edge + Swordmasters / Balanced Guard + Relentless Strikes + Whirlwind Blade tags:god-pve
+dimwishlist:item=35794111&perks=3666208348,269888150,1749209109,3913600130
+dimwishlist:item=35794111&perks=3666208348,52780822,1749209109,3913600130
+
+
+// Temptation's Hook (god-pvp)
+//notes: PvP: Jagged Edge + Swordmasters + Any + Vorpal tags:god-pvp
+dimwishlist:item=35794111&perks=3666208348,269888150,2590710093,1546637391
+dimwishlist:item=35794111&perks=3666208348,269888150,2030760728,1546637391
+dimwishlist:item=35794111&perks=3666208348,269888150,1749209109,1546637391
+
+
+// Temptation's Hook (pve)
+//notes: PvE: Jagged Edge + Swordmasters / Balanced Guard + Relentless Strikes + Whirlwind Blade tags:pve
+dimwishlist:item=35794111&perks=3666208348,1749209109,3913600130
+
+
+// Temptation's Hook (pve)
+//notes: PvE: Jagged Edge + Swordmasters / Balanced Guard + Relentless Strikes + Whirlwind Blade tags:pve
+dimwishlist:item=35794111&perks=269888150,1749209109,3913600130
+dimwishlist:item=35794111&perks=52780822,1749209109,3913600130
+
+
+// Temptation's Hook (pvp)
+//notes: PvP: Jagged Edge + Swordmasters + Any + Vorpal tags:pvp
+dimwishlist:item=35794111&perks=3666208348,2590710093,1546637391
+dimwishlist:item=35794111&perks=3666208348,2030760728,1546637391
+dimwishlist:item=35794111&perks=3666208348,1749209109,1546637391
+
+
+// Temptation's Hook (pvp)
+//notes: PvP: Jagged Edge + Swordmasters + Any + Vorpal tags:pvp
+dimwishlist:item=35794111&perks=269888150,2590710093,1546637391
+dimwishlist:item=35794111&perks=269888150,2030760728,1546637391
+dimwishlist:item=35794111&perks=269888150,1749209109,1546637391
+
+
+// Temptation's Hook (pve)
+//notes: PvE: Jagged Edge + Swordmasters / Balanced Guard + Relentless Strikes + Whirlwind Blade tags:pve
+dimwishlist:item=35794111&perks=1749209109,3913600130
+
+
+// Temptation's Hook (pvp)
+//notes: PvP: Jagged Edge + Swordmasters + Any + Vorpal tags:pvp
+dimwishlist:item=35794111&perks=2590710093,1546637391
+dimwishlist:item=35794111&perks=2030760728,1546637391
+dimwishlist:item=35794111&perks=1749209109,1546637391
+
+
+// Temptation's Hook (pve,pvp)
+//notes: PvE: Jagged Edge + Swordmasters / Balanced Guard + Relentless Strikes + Whirlwind Blade
+PvP: Jagged Edge + Swordmasters + Any + Vorpal tags:pve,pvp
+dimwishlist:item=35794111&perks=1749209109
+
+
+// Temptation's Hook (pve)
+//notes: PvE: Jagged Edge + Swordmasters / Balanced Guard + Relentless Strikes + Whirlwind Blade tags:pve
+dimwishlist:item=35794111&perks=3913600130
+
+
+// Temptation's Hook (pvp)
+//notes: PvP: Jagged Edge + Swordmasters + Any + Vorpal tags:pvp
+dimwishlist:item=35794111&perks=1546637391
+
+
+// Whispering Slab (god-pve)
+//notes: PvE: Polymer String + Compact Arrow Shaft + Archers Tempo + Demo/Swash
+PvP: Don’t tags:god-pve
+dimwishlist:item=211938782&perks=852209214,16392701,201365942,3523296417
+dimwishlist:item=211938782&perks=852209214,16392701,201365942,4082225868
+
+
+// Whispering Slab (pve)
+//notes: PvE: Polymer String + Compact Arrow Shaft + Archers Tempo + Demo/Swash
+PvP: Don’t tags:pve
+dimwishlist:item=211938782&perks=852209214,201365942,3523296417
+dimwishlist:item=211938782&perks=852209214,201365942,4082225868
+
+
+// Whispering Slab (pve)
+//notes: PvE: Polymer String + Compact Arrow Shaft + Archers Tempo + Demo/Swash
+PvP: Don’t tags:pve
+dimwishlist:item=211938782&perks=16392701,201365942,3523296417
+dimwishlist:item=211938782&perks=16392701,201365942,4082225868
+
+
+// Whispering Slab (pve)
+//notes: PvE: Polymer String + Compact Arrow Shaft + Archers Tempo + Demo/Swash
+PvP: Don’t tags:pve
+dimwishlist:item=211938782&perks=201365942,3523296417
+dimwishlist:item=211938782&perks=201365942,4082225868
+
+
+// Whispering Slab (pve)
+//notes: PvE: Polymer String + Compact Arrow Shaft + Archers Tempo + Demo/Swash
+PvP: Don’t tags:pve
+dimwishlist:item=211938782&perks=3523296417
+dimwishlist:item=211938782&perks=4082225868
+
+
+// Whispering Slab (pve)
+//notes: PvE: Polymer String + Compact Arrow Shaft + Archers Tempo + Demo/Swash
+PvP: Don’t tags:pve
+dimwishlist:item=211938782&perks=201365942
+
+
+// Berenger's Memory (god-pve)
+//notes: PvE: Hard/quick + spikes + field/clown + Demo/ALH
+Spike grenades benefit from reduced blast radius as that shifts more damage to impact damage. Velocity barrels are acceptable, but avoid Confined Launch and Volatile Launch if using spike grenades. tags:god-pve
+dimwishlist:item=407621213&perks=981914802,3301904089,2284787283,3300816228
+dimwishlist:item=407621213&perks=981914802,3301904089,2284787283,3523296417
+dimwishlist:item=407621213&perks=981914802,3301904089,2869569095,3300816228
+dimwishlist:item=407621213&perks=981914802,3301904089,2869569095,3523296417
+dimwishlist:item=407621213&perks=3525010810,3301904089,2284787283,3300816228
+dimwishlist:item=407621213&perks=3525010810,3301904089,2284787283,3523296417
+dimwishlist:item=407621213&perks=3525010810,3301904089,2869569095,3300816228
+dimwishlist:item=407621213&perks=3525010810,3301904089,2869569095,3523296417
+
+
+// Berenger's Memory (god-pvp)
+//notes: PvP: Confined/Volatile/(Linear/Quick) + Proxi + Qd/Threat Detector + Disruption Break
+Inverse of Spikes, we want increased blast radius when using Proximity Grenades - but not at the cost of other stats. tags:god-pvp
+dimwishlist:item=407621213&perks=1478423395,409831596,4071163871,3275789089
+dimwishlist:item=407621213&perks=1478423395,409831596,706527188,3275789089
+dimwishlist:item=407621213&perks=1844523823,409831596,4071163871,3275789089
+dimwishlist:item=407621213&perks=1844523823,409831596,706527188,3275789089
+
+
+// Berenger's Memory (pve)
+//notes: PvE: Hard/quick + spikes + field/clown + Demo/ALH
+Spike grenades benefit from reduced blast radius as that shifts more damage to impact damage. Velocity barrels are acceptable, but avoid Confined Launch and Volatile Launch if using spike grenades. tags:pve
+dimwishlist:item=407621213&perks=3301904089,2284787283,3300816228
+dimwishlist:item=407621213&perks=3301904089,2284787283,3523296417
+dimwishlist:item=407621213&perks=3301904089,2869569095,3300816228
+dimwishlist:item=407621213&perks=3301904089,2869569095,3523296417
+
+
+// Berenger's Memory (pvp)
+//notes: PvP: Confined/Volatile/(Linear/Quick) + Proxi + Qd/Threat Detector + Disruption Break
+Inverse of Spikes, we want increased blast radius when using Proximity Grenades - but not at the cost of other stats. tags:pvp
+dimwishlist:item=407621213&perks=409831596,4071163871,3275789089
+dimwishlist:item=407621213&perks=409831596,706527188,3275789089
+
+
+// Berenger's Memory (pve)
+//notes: PvE: Hard/quick + spikes + field/clown + Demo/ALH
+Spike grenades benefit from reduced blast radius as that shifts more damage to impact damage. Velocity barrels are acceptable, but avoid Confined Launch and Volatile Launch if using spike grenades. tags:pve
+dimwishlist:item=407621213&perks=981914802,2284787283,3300816228
+dimwishlist:item=407621213&perks=981914802,2284787283,3523296417
+dimwishlist:item=407621213&perks=981914802,2869569095,3300816228
+dimwishlist:item=407621213&perks=981914802,2869569095,3523296417
+dimwishlist:item=407621213&perks=3525010810,2284787283,3300816228
+dimwishlist:item=407621213&perks=3525010810,2284787283,3523296417
+dimwishlist:item=407621213&perks=3525010810,2869569095,3300816228
+dimwishlist:item=407621213&perks=3525010810,2869569095,3523296417
+
+
+// Berenger's Memory (pvp)
+//notes: PvP: Confined/Volatile/(Linear/Quick) + Proxi + Qd/Threat Detector + Disruption Break
+Inverse of Spikes, we want increased blast radius when using Proximity Grenades - but not at the cost of other stats. tags:pvp
+dimwishlist:item=407621213&perks=1478423395,4071163871,3275789089
+dimwishlist:item=407621213&perks=1478423395,706527188,3275789089
+dimwishlist:item=407621213&perks=1844523823,4071163871,3275789089
+dimwishlist:item=407621213&perks=1844523823,706527188,3275789089
+
+
+// Berenger's Memory (pve)
+//notes: PvE: Hard/quick + spikes + field/clown + Demo/ALH
+Spike grenades benefit from reduced blast radius as that shifts more damage to impact damage. Velocity barrels are acceptable, but avoid Confined Launch and Volatile Launch if using spike grenades. tags:pve
+dimwishlist:item=407621213&perks=2284787283,3300816228
+dimwishlist:item=407621213&perks=2284787283,3523296417
+dimwishlist:item=407621213&perks=2869569095,3300816228
+dimwishlist:item=407621213&perks=2869569095,3523296417
+
+
+// Berenger's Memory (pvp)
+//notes: PvP: Confined/Volatile/(Linear/Quick) + Proxi + Qd/Threat Detector + Disruption Break
+Inverse of Spikes, we want increased blast radius when using Proximity Grenades - but not at the cost of other stats. tags:pvp
+dimwishlist:item=407621213&perks=4071163871,3275789089
+dimwishlist:item=407621213&perks=706527188,3275789089
+
+
+// Berenger's Memory (pve)
+//notes: PvE: Hard/quick + spikes + field/clown + Demo/ALH
+Spike grenades benefit from reduced blast radius as that shifts more damage to impact damage. Velocity barrels are acceptable, but avoid Confined Launch and Volatile Launch if using spike grenades. tags:pve
+dimwishlist:item=407621213&perks=3300816228
+dimwishlist:item=407621213&perks=3523296417
+
+
+// Berenger's Memory (pve)
+//notes: PvE: Hard/quick + spikes + field/clown + Demo/ALH
+Spike grenades benefit from reduced blast radius as that shifts more damage to impact damage. Velocity barrels are acceptable, but avoid Confined Launch and Volatile Launch if using spike grenades. tags:pve
+dimwishlist:item=407621213&perks=2284787283
+dimwishlist:item=407621213&perks=2869569095
+
+
+// Berenger's Memory (pvp)
+//notes: PvP: Confined/Volatile/(Linear/Quick) + Proxi + Qd/Threat Detector + Disruption Break
+Inverse of Spikes, we want increased blast radius when using Proximity Grenades - but not at the cost of other stats. tags:pvp
+dimwishlist:item=407621213&perks=3275789089
+
+
+// Berenger's Memory (pvp)
+//notes: PvP: Confined/Volatile/(Linear/Quick) + Proxi + Qd/Threat Detector + Disruption Break
+Inverse of Spikes, we want increased blast radius when using Proximity Grenades - but not at the cost of other stats. tags:pvp
+dimwishlist:item=407621213&perks=4071163871
+dimwishlist:item=407621213&perks=706527188
+
+
+// Hollow Words (god-pve)
+//notes: PvE: Any + Liquid Coils + Feeding Frenzy + Vorpal / Surrounded tags:god-pve
+dimwishlist:item=607191995&perks=839105230,1687452232,2779035018,1546637391
+dimwishlist:item=607191995&perks=839105230,1687452232,2779035018,3708227201
+dimwishlist:item=607191995&perks=4090651448,1687452232,2779035018,1546637391
+dimwishlist:item=607191995&perks=4090651448,1687452232,2779035018,3708227201
+dimwishlist:item=607191995&perks=1840239774,1687452232,2779035018,1546637391
+dimwishlist:item=607191995&perks=1840239774,1687452232,2779035018,3708227201
+dimwishlist:item=607191995&perks=3250034553,1687452232,2779035018,1546637391
+dimwishlist:item=607191995&perks=3250034553,1687452232,2779035018,3708227201
+dimwishlist:item=607191995&perks=1392496348,1687452232,2779035018,1546637391
+dimwishlist:item=607191995&perks=1392496348,1687452232,2779035018,3708227201
+dimwishlist:item=607191995&perks=1482024992,1687452232,2779035018,1546637391
+dimwishlist:item=607191995&perks=1482024992,1687452232,2779035018,3708227201
+
+
+// Hollow Words (god-pvp)
+//notes: PvP: Polygonal / Fluted Barrel + Liquid Coils + Under Pressure / Qd + Vorpal tags:god-pvp
+dimwishlist:item=607191995&perks=1392496348,1687452232,1645158859,1546637391
+dimwishlist:item=607191995&perks=1392496348,1687452232,706527188,1546637391
+dimwishlist:item=607191995&perks=1840239774,1687452232,1645158859,1546637391
+dimwishlist:item=607191995&perks=1840239774,1687452232,706527188,1546637391
+
+
+// Hollow Words (pve)
+//notes: PvE: Any + Liquid Coils + Feeding Frenzy + Vorpal / Surrounded tags:pve
+dimwishlist:item=607191995&perks=1687452232,2779035018,1546637391
+dimwishlist:item=607191995&perks=1687452232,2779035018,3708227201
+
+
+// Hollow Words (pve)
+//notes: PvE: Any + Liquid Coils + Feeding Frenzy + Vorpal / Surrounded tags:pve
+dimwishlist:item=607191995&perks=839105230,2779035018,1546637391
+dimwishlist:item=607191995&perks=839105230,2779035018,3708227201
+dimwishlist:item=607191995&perks=4090651448,2779035018,1546637391
+dimwishlist:item=607191995&perks=4090651448,2779035018,3708227201
+dimwishlist:item=607191995&perks=1840239774,2779035018,1546637391
+dimwishlist:item=607191995&perks=1840239774,2779035018,3708227201
+dimwishlist:item=607191995&perks=3250034553,2779035018,1546637391
+dimwishlist:item=607191995&perks=3250034553,2779035018,3708227201
+dimwishlist:item=607191995&perks=1392496348,2779035018,1546637391
+dimwishlist:item=607191995&perks=1392496348,2779035018,3708227201
+dimwishlist:item=607191995&perks=1482024992,2779035018,1546637391
+dimwishlist:item=607191995&perks=1482024992,2779035018,3708227201
+
+
+// Hollow Words (pvp)
+//notes: PvP: Polygonal / Fluted Barrel + Liquid Coils + Under Pressure / Qd + Vorpal tags:pvp
+dimwishlist:item=607191995&perks=1687452232,1645158859,1546637391
+dimwishlist:item=607191995&perks=1687452232,706527188,1546637391
+
+
+// Hollow Words (pvp)
+//notes: PvP: Polygonal / Fluted Barrel + Liquid Coils + Under Pressure / Qd + Vorpal tags:pvp
+dimwishlist:item=607191995&perks=1392496348,1645158859,1546637391
+dimwishlist:item=607191995&perks=1392496348,706527188,1546637391
+dimwishlist:item=607191995&perks=1840239774,1645158859,1546637391
+dimwishlist:item=607191995&perks=1840239774,706527188,1546637391
+
+
+// Hollow Words (pvp)
+//notes: PvP: Polygonal / Fluted Barrel + Liquid Coils + Under Pressure / Qd + Vorpal tags:pvp
+dimwishlist:item=607191995&perks=1645158859,1546637391
+dimwishlist:item=607191995&perks=706527188,1546637391
+
+
+// Hollow Words (pve)
+//notes: PvE: Any + Liquid Coils + Feeding Frenzy + Vorpal / Surrounded tags:pve
+dimwishlist:item=607191995&perks=2779035018,1546637391
+dimwishlist:item=607191995&perks=2779035018,3708227201
+
+
+// Hollow Words (pve,pvp)
+//notes: PvE: Any + Liquid Coils + Feeding Frenzy + Vorpal / Surrounded
+PvP: Polygonal / Fluted Barrel + Liquid Coils + Under Pressure / Qd + Vorpal tags:pve,pvp
+dimwishlist:item=607191995&perks=1546637391
+
+
+// Hollow Words (pvp)
+//notes: PvP: Polygonal / Fluted Barrel + Liquid Coils + Under Pressure / Qd + Vorpal tags:pvp
+dimwishlist:item=607191995&perks=1645158859
+dimwishlist:item=607191995&perks=706527188
+
+
+// Hollow Words (pve)
+//notes: PvE: Any + Liquid Coils + Feeding Frenzy + Vorpal / Surrounded tags:pve
+dimwishlist:item=607191995&perks=1546637391
+dimwishlist:item=607191995&perks=3708227201
+
+
+// Hollow Words (pve)
+//notes: PvE: Any + Liquid Coils + Feeding Frenzy + Vorpal / Surrounded tags:pve
+dimwishlist:item=607191995&perks=2779035018
+
+
+// Falling Guillotine (god-pve)
+//notes: PvE: Jagged Edge + Balanced / Swordmasters Guard + Relentless Strikes + Whirlwind Blade
+PvP: It’s a sword in PvP, anything works tags:god-pve
+dimwishlist:item=614426548&perks=3666208348,52780822,1749209109,3913600130
+dimwishlist:item=614426548&perks=3666208348,269888150,1749209109,3913600130
+
+
+// Falling Guillotine (pve)
+//notes: PvE: Jagged Edge + Balanced / Swordmasters Guard + Relentless Strikes + Whirlwind Blade
+PvP: It’s a sword in PvP, anything works tags:pve
+dimwishlist:item=614426548&perks=3666208348,1749209109,3913600130
+
+
+// Falling Guillotine (pve)
+//notes: PvE: Jagged Edge + Balanced / Swordmasters Guard + Relentless Strikes + Whirlwind Blade
+PvP: It’s a sword in PvP, anything works tags:pve
+dimwishlist:item=614426548&perks=52780822,1749209109,3913600130
+dimwishlist:item=614426548&perks=269888150,1749209109,3913600130
+
+
+// Falling Guillotine (pve)
+//notes: PvE: Jagged Edge + Balanced / Swordmasters Guard + Relentless Strikes + Whirlwind Blade
+PvP: It’s a sword in PvP, anything works tags:pve
+dimwishlist:item=614426548&perks=1749209109,3913600130
+
+
+// Falling Guillotine (pve)
+//notes: PvE: Jagged Edge + Balanced / Swordmasters Guard + Relentless Strikes + Whirlwind Blade
+PvP: It’s a sword in PvP, anything works tags:pve
+dimwishlist:item=614426548&perks=3913600130
+
+
+// Falling Guillotine (pve)
+//notes: PvE: Jagged Edge + Balanced / Swordmasters Guard + Relentless Strikes + Whirlwind Blade
+PvP: It’s a sword in PvP, anything works tags:pve
+dimwishlist:item=614426548&perks=1749209109
+
+
+// Gnawing Hunger (god-pve)
+//notes: PvE: Arrowhead/chambered + Tac/appended + field prep + any perk
+sub + swash/ramp good as well, but field prep better IMO tags:god-pve
+dimwishlist:item=821154603&perks=839105230,106909392,2869569095,3425386926
+dimwishlist:item=821154603&perks=839105230,106909392,2869569095,1015611457
+dimwishlist:item=821154603&perks=839105230,106909392,2869569095,2458213969
+dimwishlist:item=821154603&perks=839105230,106909392,2869569095,3523296417
+dimwishlist:item=821154603&perks=839105230,106909392,2869569095,4082225868
+dimwishlist:item=821154603&perks=839105230,1087426260,2869569095,3425386926
+dimwishlist:item=821154603&perks=839105230,1087426260,2869569095,1015611457
+dimwishlist:item=821154603&perks=839105230,1087426260,2869569095,2458213969
+dimwishlist:item=821154603&perks=839105230,1087426260,2869569095,3523296417
+dimwishlist:item=821154603&perks=839105230,1087426260,2869569095,4082225868
+dimwishlist:item=821154603&perks=3661387068,106909392,2869569095,3425386926
+dimwishlist:item=821154603&perks=3661387068,106909392,2869569095,1015611457
+dimwishlist:item=821154603&perks=3661387068,106909392,2869569095,2458213969
+dimwishlist:item=821154603&perks=3661387068,106909392,2869569095,3523296417
+dimwishlist:item=821154603&perks=3661387068,106909392,2869569095,4082225868
+dimwishlist:item=821154603&perks=3661387068,1087426260,2869569095,3425386926
+dimwishlist:item=821154603&perks=3661387068,1087426260,2869569095,1015611457
+dimwishlist:item=821154603&perks=3661387068,1087426260,2869569095,2458213969
+dimwishlist:item=821154603&perks=3661387068,1087426260,2869569095,3523296417
+dimwishlist:item=821154603&perks=3661387068,1087426260,2869569095,4082225868
+
+
+// Gnawing Hunger (god-pve)
+//notes: PvE: Arrowhead/chambered + Tac/appended + field prep + any perk
+sub + swash/ramp good as well, but field prep better IMO tags:god-pve
+dimwishlist:item=821154603&perks=839105230,106909392,1820235745,3425386926
+dimwishlist:item=821154603&perks=839105230,106909392,1820235745,4082225868
+dimwishlist:item=821154603&perks=839105230,1087426260,1820235745,3425386926
+dimwishlist:item=821154603&perks=839105230,1087426260,1820235745,4082225868
+dimwishlist:item=821154603&perks=3661387068,106909392,1820235745,3425386926
+dimwishlist:item=821154603&perks=3661387068,106909392,1820235745,4082225868
+dimwishlist:item=821154603&perks=3661387068,1087426260,1820235745,3425386926
+dimwishlist:item=821154603&perks=3661387068,1087426260,1820235745,4082225868
+
+
+// Gnawing Hunger (god-pvp)
+//notes: PvP: Hammer/corkscrew/smallbore + accurized + tap the trigger + multi kill clip/KC + range MW tags:god-pvp
+dimwishlist:item=821154603&perks=3250034553,3142289711,1890422124,1015611457
+dimwishlist:item=821154603&perks=3250034553,3142289711,1890422124,2458213969
+dimwishlist:item=821154603&perks=4090651448,3142289711,1890422124,1015611457
+dimwishlist:item=821154603&perks=4090651448,3142289711,1890422124,2458213969
+dimwishlist:item=821154603&perks=1482024992,3142289711,1890422124,1015611457
+dimwishlist:item=821154603&perks=1482024992,3142289711,1890422124,2458213969
+
+
+// Gnawing Hunger (pve)
+//notes: PvE: Arrowhead/chambered + Tac/appended + field prep + any perk
+sub + swash/ramp good as well, but field prep better IMO tags:pve
+dimwishlist:item=821154603&perks=106909392,2869569095,3425386926
+dimwishlist:item=821154603&perks=106909392,2869569095,1015611457
+dimwishlist:item=821154603&perks=106909392,2869569095,2458213969
+dimwishlist:item=821154603&perks=106909392,2869569095,3523296417
+dimwishlist:item=821154603&perks=106909392,2869569095,4082225868
+dimwishlist:item=821154603&perks=1087426260,2869569095,3425386926
+dimwishlist:item=821154603&perks=1087426260,2869569095,1015611457
+dimwishlist:item=821154603&perks=1087426260,2869569095,2458213969
+dimwishlist:item=821154603&perks=1087426260,2869569095,3523296417
+dimwishlist:item=821154603&perks=1087426260,2869569095,4082225868
+
+
+// Gnawing Hunger (pve)
+//notes: PvE: Arrowhead/chambered + Tac/appended + field prep + any perk
+sub + swash/ramp good as well, but field prep better IMO tags:pve
+dimwishlist:item=821154603&perks=106909392,1820235745,3425386926
+dimwishlist:item=821154603&perks=106909392,1820235745,4082225868
+dimwishlist:item=821154603&perks=1087426260,1820235745,3425386926
+dimwishlist:item=821154603&perks=1087426260,1820235745,4082225868
+
+
+// Gnawing Hunger (pvp)
+//notes: PvP: Hammer/corkscrew/smallbore + accurized + tap the trigger + multi kill clip/KC + range MW tags:pvp
+dimwishlist:item=821154603&perks=3142289711,1890422124,1015611457
+dimwishlist:item=821154603&perks=3142289711,1890422124,2458213969
+
+
+// Gnawing Hunger (pve)
+//notes: PvE: Arrowhead/chambered + Tac/appended + field prep + any perk
+sub + swash/ramp good as well, but field prep better IMO tags:pve
+dimwishlist:item=821154603&perks=839105230,2869569095,3425386926
+dimwishlist:item=821154603&perks=839105230,2869569095,1015611457
+dimwishlist:item=821154603&perks=839105230,2869569095,2458213969
+dimwishlist:item=821154603&perks=839105230,2869569095,3523296417
+dimwishlist:item=821154603&perks=839105230,2869569095,4082225868
+dimwishlist:item=821154603&perks=3661387068,2869569095,3425386926
+dimwishlist:item=821154603&perks=3661387068,2869569095,1015611457
+dimwishlist:item=821154603&perks=3661387068,2869569095,2458213969
+dimwishlist:item=821154603&perks=3661387068,2869569095,3523296417
+dimwishlist:item=821154603&perks=3661387068,2869569095,4082225868
+
+
+// Gnawing Hunger (pve)
+//notes: PvE: Arrowhead/chambered + Tac/appended + field prep + any perk
+sub + swash/ramp good as well, but field prep better IMO tags:pve
+dimwishlist:item=821154603&perks=839105230,1820235745,3425386926
+dimwishlist:item=821154603&perks=839105230,1820235745,4082225868
+dimwishlist:item=821154603&perks=3661387068,1820235745,3425386926
+dimwishlist:item=821154603&perks=3661387068,1820235745,4082225868
+
+
+// Gnawing Hunger (pvp)
+//notes: PvP: Hammer/corkscrew/smallbore + accurized + tap the trigger + multi kill clip/KC + range MW tags:pvp
+dimwishlist:item=821154603&perks=3250034553,1890422124,1015611457
+dimwishlist:item=821154603&perks=3250034553,1890422124,2458213969
+dimwishlist:item=821154603&perks=4090651448,1890422124,1015611457
+dimwishlist:item=821154603&perks=4090651448,1890422124,2458213969
+dimwishlist:item=821154603&perks=1482024992,1890422124,1015611457
+dimwishlist:item=821154603&perks=1482024992,1890422124,2458213969
+
+
+// Gnawing Hunger (pve)
+//notes: PvE: Arrowhead/chambered + Tac/appended + field prep + any perk
+sub + swash/ramp good as well, but field prep better IMO tags:pve
+dimwishlist:item=821154603&perks=2869569095,3425386926
+dimwishlist:item=821154603&perks=2869569095,1015611457
+dimwishlist:item=821154603&perks=2869569095,2458213969
+dimwishlist:item=821154603&perks=2869569095,3523296417
+dimwishlist:item=821154603&perks=2869569095,4082225868
+
+
+// Gnawing Hunger (pve)
+//notes: PvE: Arrowhead/chambered + Tac/appended + field prep + any perk
+sub + swash/ramp good as well, but field prep better IMO tags:pve
+dimwishlist:item=821154603&perks=1820235745,3425386926
+dimwishlist:item=821154603&perks=1820235745,4082225868
+
+
+// Gnawing Hunger (pvp)
+//notes: PvP: Hammer/corkscrew/smallbore + accurized + tap the trigger + multi kill clip/KC + range MW tags:pvp
+dimwishlist:item=821154603&perks=1890422124,1015611457
+dimwishlist:item=821154603&perks=1890422124,2458213969
+
+
+// Gnawing Hunger (pve,pvp)
+//notes: PvE: Arrowhead/chambered + Tac/appended + field prep + any perk
+sub + swash/ramp good as well, but field prep better IMO
+PvP: Hammer/corkscrew/smallbore + accurized + tap the trigger + multi kill clip/KC + range MW tags:pve,pvp
+dimwishlist:item=821154603&perks=1015611457
+dimwishlist:item=821154603&perks=2458213969
+
+
+// Gnawing Hunger (pve)
+//notes: PvE: Arrowhead/chambered + Tac/appended + field prep + any perk
+sub + swash/ramp good as well, but field prep better IMO tags:pve
+dimwishlist:item=821154603&perks=3425386926
+dimwishlist:item=821154603&perks=1015611457
+dimwishlist:item=821154603&perks=2458213969
+dimwishlist:item=821154603&perks=3523296417
+dimwishlist:item=821154603&perks=4082225868
+
+
+// Gnawing Hunger (pvp)
+//notes: PvP: Hammer/corkscrew/smallbore + accurized + tap the trigger + multi kill clip/KC + range MW tags:pvp
+dimwishlist:item=821154603&perks=1890422124
+
+
+// Gnawing Hunger (pve)
+//notes: PvE: Arrowhead/chambered + Tac/appended + field prep + any perk
+sub + swash/ramp good as well, but field prep better IMO tags:pve
+dimwishlist:item=821154603&perks=2869569095
+dimwishlist:item=821154603&perks=1820235745
+
+
+// Cold Denial (god-pve)
+//notes: PvE: any + Appended/Light Mag/(High Cal) + Feeding Frenzy + MKC/Unrelenting/Swash tags:god-pve
+dimwishlist:item=1216130969&perks=1482024992,1561002382,2779035018,2458213969
+dimwishlist:item=1216130969&perks=1482024992,1561002382,2779035018,3108830275
+dimwishlist:item=1216130969&perks=1482024992,1561002382,2779035018,4082225868
+dimwishlist:item=1216130969&perks=1482024992,679225683,2779035018,2458213969
+dimwishlist:item=1216130969&perks=1482024992,679225683,2779035018,3108830275
+dimwishlist:item=1216130969&perks=1482024992,679225683,2779035018,4082225868
+dimwishlist:item=1216130969&perks=1482024992,1087426260,2779035018,2458213969
+dimwishlist:item=1216130969&perks=1482024992,1087426260,2779035018,3108830275
+dimwishlist:item=1216130969&perks=1482024992,1087426260,2779035018,4082225868
+dimwishlist:item=1216130969&perks=839105230,1561002382,2779035018,2458213969
+dimwishlist:item=1216130969&perks=839105230,1561002382,2779035018,3108830275
+dimwishlist:item=1216130969&perks=839105230,1561002382,2779035018,4082225868
+dimwishlist:item=1216130969&perks=839105230,679225683,2779035018,2458213969
+dimwishlist:item=1216130969&perks=839105230,679225683,2779035018,3108830275
+dimwishlist:item=1216130969&perks=839105230,679225683,2779035018,4082225868
+dimwishlist:item=1216130969&perks=839105230,1087426260,2779035018,2458213969
+dimwishlist:item=1216130969&perks=839105230,1087426260,2779035018,3108830275
+dimwishlist:item=1216130969&perks=839105230,1087426260,2779035018,4082225868
+dimwishlist:item=1216130969&perks=4090651448,1561002382,2779035018,2458213969
+dimwishlist:item=1216130969&perks=4090651448,1561002382,2779035018,3108830275
+dimwishlist:item=1216130969&perks=4090651448,1561002382,2779035018,4082225868
+dimwishlist:item=1216130969&perks=4090651448,679225683,2779035018,2458213969
+dimwishlist:item=1216130969&perks=4090651448,679225683,2779035018,3108830275
+dimwishlist:item=1216130969&perks=4090651448,679225683,2779035018,4082225868
+dimwishlist:item=1216130969&perks=4090651448,1087426260,2779035018,2458213969
+dimwishlist:item=1216130969&perks=4090651448,1087426260,2779035018,3108830275
+dimwishlist:item=1216130969&perks=4090651448,1087426260,2779035018,4082225868
+dimwishlist:item=1216130969&perks=1840239774,1561002382,2779035018,2458213969
+dimwishlist:item=1216130969&perks=1840239774,1561002382,2779035018,3108830275
+dimwishlist:item=1216130969&perks=1840239774,1561002382,2779035018,4082225868
+dimwishlist:item=1216130969&perks=1840239774,679225683,2779035018,2458213969
+dimwishlist:item=1216130969&perks=1840239774,679225683,2779035018,3108830275
+dimwishlist:item=1216130969&perks=1840239774,679225683,2779035018,4082225868
+dimwishlist:item=1216130969&perks=1840239774,1087426260,2779035018,2458213969
+dimwishlist:item=1216130969&perks=1840239774,1087426260,2779035018,3108830275
+dimwishlist:item=1216130969&perks=1840239774,1087426260,2779035018,4082225868
+dimwishlist:item=1216130969&perks=3250034553,1561002382,2779035018,2458213969
+dimwishlist:item=1216130969&perks=3250034553,1561002382,2779035018,3108830275
+dimwishlist:item=1216130969&perks=3250034553,1561002382,2779035018,4082225868
+dimwishlist:item=1216130969&perks=3250034553,679225683,2779035018,2458213969
+dimwishlist:item=1216130969&perks=3250034553,679225683,2779035018,3108830275
+dimwishlist:item=1216130969&perks=3250034553,679225683,2779035018,4082225868
+dimwishlist:item=1216130969&perks=3250034553,1087426260,2779035018,2458213969
+dimwishlist:item=1216130969&perks=3250034553,1087426260,2779035018,3108830275
+dimwishlist:item=1216130969&perks=3250034553,1087426260,2779035018,4082225868
+dimwishlist:item=1216130969&perks=1392496348,1561002382,2779035018,2458213969
+dimwishlist:item=1216130969&perks=1392496348,1561002382,2779035018,3108830275
+dimwishlist:item=1216130969&perks=1392496348,1561002382,2779035018,4082225868
+dimwishlist:item=1216130969&perks=1392496348,679225683,2779035018,2458213969
+dimwishlist:item=1216130969&perks=1392496348,679225683,2779035018,3108830275
+dimwishlist:item=1216130969&perks=1392496348,679225683,2779035018,4082225868
+dimwishlist:item=1216130969&perks=1392496348,1087426260,2779035018,2458213969
+dimwishlist:item=1216130969&perks=1392496348,1087426260,2779035018,3108830275
+dimwishlist:item=1216130969&perks=1392496348,1087426260,2779035018,4082225868
+
+
+// Cold Denial (god-pvp)
+//notes: PvP: Fluted + rico + Killing Wind + MKC/Headseeker [this is the best min/max roll +15 handing, +15 stability, +15 range and no stat negatives + killing wind bonuses]
+OR any range barrel and stability MW tags:god-pvp
+dimwishlist:item=1216130969&perks=1840239774,1885400500,2450788523,2458213969
+dimwishlist:item=1216130969&perks=1840239774,1885400500,2450788523,460017080
+
+
+// Cold Denial (god-pvp)
+//notes: PvP: Fluted + rico + Killing Wind + MKC/Headseeker [this is the best min/max roll +15 handing, +15 stability, +15 range and no stat negatives + killing wind bonuses]
+OR any range barrel and stability MW tags:god-pvp
+dimwishlist:item=1216130969&perks=4090651448,1885400500,2450788523,2458213969
+dimwishlist:item=1216130969&perks=4090651448,1885400500,2450788523,460017080
+dimwishlist:item=1216130969&perks=1467527085,1885400500,2450788523,2458213969
+dimwishlist:item=1216130969&perks=1467527085,1885400500,2450788523,460017080
+dimwishlist:item=1216130969&perks=3250034553,1885400500,2450788523,2458213969
+dimwishlist:item=1216130969&perks=3250034553,1885400500,2450788523,460017080
+
+
+// Cold Denial (pve)
+//notes: PvE: any + Appended/Light Mag/(High Cal) + Feeding Frenzy + MKC/Unrelenting/Swash tags:pve
+dimwishlist:item=1216130969&perks=1561002382,2779035018,2458213969
+dimwishlist:item=1216130969&perks=1561002382,2779035018,3108830275
+dimwishlist:item=1216130969&perks=1561002382,2779035018,4082225868
+dimwishlist:item=1216130969&perks=679225683,2779035018,2458213969
+dimwishlist:item=1216130969&perks=679225683,2779035018,3108830275
+dimwishlist:item=1216130969&perks=679225683,2779035018,4082225868
+dimwishlist:item=1216130969&perks=1087426260,2779035018,2458213969
+dimwishlist:item=1216130969&perks=1087426260,2779035018,3108830275
+dimwishlist:item=1216130969&perks=1087426260,2779035018,4082225868
+
+
+// Cold Denial (pve)
+//notes: PvE: any + Appended/Light Mag/(High Cal) + Feeding Frenzy + MKC/Unrelenting/Swash tags:pve
+dimwishlist:item=1216130969&perks=1482024992,2779035018,2458213969
+dimwishlist:item=1216130969&perks=1482024992,2779035018,3108830275
+dimwishlist:item=1216130969&perks=1482024992,2779035018,4082225868
+dimwishlist:item=1216130969&perks=839105230,2779035018,2458213969
+dimwishlist:item=1216130969&perks=839105230,2779035018,3108830275
+dimwishlist:item=1216130969&perks=839105230,2779035018,4082225868
+dimwishlist:item=1216130969&perks=4090651448,2779035018,2458213969
+dimwishlist:item=1216130969&perks=4090651448,2779035018,3108830275
+dimwishlist:item=1216130969&perks=4090651448,2779035018,4082225868
+dimwishlist:item=1216130969&perks=1840239774,2779035018,2458213969
+dimwishlist:item=1216130969&perks=1840239774,2779035018,3108830275
+dimwishlist:item=1216130969&perks=1840239774,2779035018,4082225868
+dimwishlist:item=1216130969&perks=3250034553,2779035018,2458213969
+dimwishlist:item=1216130969&perks=3250034553,2779035018,3108830275
+dimwishlist:item=1216130969&perks=3250034553,2779035018,4082225868
+dimwishlist:item=1216130969&perks=1392496348,2779035018,2458213969
+dimwishlist:item=1216130969&perks=1392496348,2779035018,3108830275
+dimwishlist:item=1216130969&perks=1392496348,2779035018,4082225868
+
+
+// Cold Denial (pvp)
+//notes: PvP: Fluted + rico + Killing Wind + MKC/Headseeker [this is the best min/max roll +15 handing, +15 stability, +15 range and no stat negatives + killing wind bonuses]
+OR any range barrel and stability MW tags:pvp
+dimwishlist:item=1216130969&perks=1885400500,2450788523,2458213969
+dimwishlist:item=1216130969&perks=1885400500,2450788523,460017080
+
+
+// Cold Denial (pvp)
+//notes: PvP: Fluted + rico + Killing Wind + MKC/Headseeker [this is the best min/max roll +15 handing, +15 stability, +15 range and no stat negatives + killing wind bonuses]
+OR any range barrel and stability MW tags:pvp
+dimwishlist:item=1216130969&perks=1840239774,2450788523,2458213969
+dimwishlist:item=1216130969&perks=1840239774,2450788523,460017080
+
+
+// Cold Denial (pvp)
+//notes: PvP: Fluted + rico + Killing Wind + MKC/Headseeker [this is the best min/max roll +15 handing, +15 stability, +15 range and no stat negatives + killing wind bonuses]
+OR any range barrel and stability MW tags:pvp
+dimwishlist:item=1216130969&perks=4090651448,2450788523,2458213969
+dimwishlist:item=1216130969&perks=4090651448,2450788523,460017080
+dimwishlist:item=1216130969&perks=1467527085,2450788523,2458213969
+dimwishlist:item=1216130969&perks=1467527085,2450788523,460017080
+dimwishlist:item=1216130969&perks=3250034553,2450788523,2458213969
+dimwishlist:item=1216130969&perks=3250034553,2450788523,460017080
+
+
+// Cold Denial (pve)
+//notes: PvE: any + Appended/Light Mag/(High Cal) + Feeding Frenzy + MKC/Unrelenting/Swash
+ tags:pve
+dimwishlist:item=1216130969&perks=2779035018,2458213969
+dimwishlist:item=1216130969&perks=2779035018,3108830275
+dimwishlist:item=1216130969&perks=2779035018,4082225868
+
+
+// Cold Denial (pvp)
+//notes: PvP: Fluted + rico + Killing Wind + MKC/Headseeker [this is the best min/max roll +15 handing, +15 stability, +15 range and no stat negatives + killing wind bonuses]
+OR any range barrel and stability MW tags:pvp
+dimwishlist:item=1216130969&perks=2450788523,2458213969
+dimwishlist:item=1216130969&perks=2450788523,460017080
+
+
+// Cold Denial (pve,pvp)
+//notes: PvE: any + Appended/Light Mag/(High Cal) + Feeding Frenzy + MKC/Unrelenting/Swash
+PvP: Fluted + rico + Killing Wind + MKC/Headseeker [this is the best min/max roll +15 handing, +15 stability, +15 range and no stat negatives + killing wind bonuses]
+OR any range barrel and stability MW tags:pve,pvp
+dimwishlist:item=1216130969&perks=2458213969
+
+
+// Cold Denial (pve)
+//notes: PvE: any + Appended/Light Mag/(High Cal) + Feeding Frenzy + MKC/Unrelenting/Swash tags:pve
+dimwishlist:item=1216130969&perks=2779035018
+
+
+// Cold Denial (pve)
+//notes: PvE: any + Appended/Light Mag/(High Cal) + Feeding Frenzy + MKC/Unrelenting/Swash
+ tags:pve
+dimwishlist:item=1216130969&perks=2458213969
+dimwishlist:item=1216130969&perks=3108830275
+dimwishlist:item=1216130969&perks=4082225868
+
+
+// Cold Denial (pvp)
+//notes: PvP: Fluted + rico + Killing Wind + MKC/Headseeker [this is the best min/max roll +15 handing, +15 stability, +15 range and no stat negatives + killing wind bonuses]
+OR any range barrel and stability MW tags:pvp
+dimwishlist:item=1216130969&perks=2458213969
+dimwishlist:item=1216130969&perks=460017080
+
+
+// Cold Denial (pvp)
+//notes: PvP: Fluted + rico + Killing Wind + MKC/Headseeker [this is the best min/max roll +15 handing, +15 stability, +15 range and no stat negatives + killing wind bonuses]
+OR any range barrel and stability MW tags:pvp
+dimwishlist:item=1216130969&perks=2450788523
+
+
+// False Promises (god-pve)
+//notes: PvE: Any + Appended + Overflow + Rampage/Swash tags:god-pve
+dimwishlist:item=3143732432&perks=839105230,1561002382,3643424744,4082225868
+dimwishlist:item=3143732432&perks=839105230,1561002382,3643424744,3425386926
+dimwishlist:item=3143732432&perks=839105230,1087426260,3643424744,4082225868
+dimwishlist:item=3143732432&perks=839105230,1087426260,3643424744,3425386926
+dimwishlist:item=3143732432&perks=4090651448,1561002382,3643424744,4082225868
+dimwishlist:item=3143732432&perks=4090651448,1561002382,3643424744,3425386926
+dimwishlist:item=3143732432&perks=4090651448,1087426260,3643424744,4082225868
+dimwishlist:item=3143732432&perks=4090651448,1087426260,3643424744,3425386926
+dimwishlist:item=3143732432&perks=1840239774,1561002382,3643424744,4082225868
+dimwishlist:item=3143732432&perks=1840239774,1561002382,3643424744,3425386926
+dimwishlist:item=3143732432&perks=1840239774,1087426260,3643424744,4082225868
+dimwishlist:item=3143732432&perks=1840239774,1087426260,3643424744,3425386926
+dimwishlist:item=3143732432&perks=3250034553,1561002382,3643424744,4082225868
+dimwishlist:item=3143732432&perks=3250034553,1561002382,3643424744,3425386926
+dimwishlist:item=3143732432&perks=3250034553,1087426260,3643424744,4082225868
+dimwishlist:item=3143732432&perks=3250034553,1087426260,3643424744,3425386926
+dimwishlist:item=3143732432&perks=1392496348,1561002382,3643424744,4082225868
+dimwishlist:item=3143732432&perks=1392496348,1561002382,3643424744,3425386926
+dimwishlist:item=3143732432&perks=1392496348,1087426260,3643424744,4082225868
+dimwishlist:item=3143732432&perks=1392496348,1087426260,3643424744,3425386926
+dimwishlist:item=3143732432&perks=1482024992,1561002382,3643424744,4082225868
+dimwishlist:item=3143732432&perks=1482024992,1561002382,3643424744,3425386926
+dimwishlist:item=3143732432&perks=1482024992,1087426260,3643424744,4082225868
+dimwishlist:item=3143732432&perks=1482024992,1087426260,3643424744,3425386926
+
+
+// False Promises (god-pvp)
+//notes: PvP: Hammer Forged + High cal / Ricochet + Killing Wind / DSR + EotS tags:god-pvp
+dimwishlist:item=3143732432&perks=3250034553,1561002382,2450788523,699525795
+dimwishlist:item=3143732432&perks=3250034553,1561002382,1359896290,699525795
+dimwishlist:item=3143732432&perks=3250034553,1885400500,2450788523,699525795
+dimwishlist:item=3143732432&perks=3250034553,1885400500,1359896290,699525795
+
+
+// False Promises (pve)
+//notes: PvE: Any + Appended + Overflow + Rampage/Swash tags:pve
+dimwishlist:item=3143732432&perks=1561002382,3643424744,4082225868
+dimwishlist:item=3143732432&perks=1561002382,3643424744,3425386926
+dimwishlist:item=3143732432&perks=1087426260,3643424744,4082225868
+dimwishlist:item=3143732432&perks=1087426260,3643424744,3425386926
+
+
+// False Promises (pvp)
+//notes: PvP: Hammer Forged + High cal / Ricochet + Killing Wind / DSR + EotS tags:pvp
+dimwishlist:item=3143732432&perks=1561002382,2450788523,699525795
+dimwishlist:item=3143732432&perks=1561002382,1359896290,699525795
+dimwishlist:item=3143732432&perks=1885400500,2450788523,699525795
+dimwishlist:item=3143732432&perks=1885400500,1359896290,699525795
+
+
+// False Promises (pve)
+//notes: PvE: Any + Appended + Overflow + Rampage/Swash tags:pve
+dimwishlist:item=3143732432&perks=839105230,3643424744,4082225868
+dimwishlist:item=3143732432&perks=839105230,3643424744,3425386926
+dimwishlist:item=3143732432&perks=4090651448,3643424744,4082225868
+dimwishlist:item=3143732432&perks=4090651448,3643424744,3425386926
+dimwishlist:item=3143732432&perks=1840239774,3643424744,4082225868
+dimwishlist:item=3143732432&perks=1840239774,3643424744,3425386926
+dimwishlist:item=3143732432&perks=3250034553,3643424744,4082225868
+dimwishlist:item=3143732432&perks=3250034553,3643424744,3425386926
+dimwishlist:item=3143732432&perks=1392496348,3643424744,4082225868
+dimwishlist:item=3143732432&perks=1392496348,3643424744,3425386926
+dimwishlist:item=3143732432&perks=1482024992,3643424744,4082225868
+dimwishlist:item=3143732432&perks=1482024992,3643424744,3425386926
+
+
+// False Promises (pvp)
+//notes: PvP: Hammer Forged + High cal / Ricochet + Killing Wind / DSR + EotS tags:pvp
+dimwishlist:item=3143732432&perks=3250034553,2450788523,699525795
+dimwishlist:item=3143732432&perks=3250034553,1359896290,699525795
+
+
+// False Promises (pve)
+//notes: PvE: Any + Appended + Overflow + Rampage/Swash tags:pve
+dimwishlist:item=3143732432&perks=3643424744,4082225868
+dimwishlist:item=3143732432&perks=3643424744,3425386926
+
+
+// False Promises (pvp)
+//notes: PvP: Hammer Forged + High cal / Ricochet + Killing Wind / DSR + EotS tags:pvp
+dimwishlist:item=3143732432&perks=2450788523,699525795
+dimwishlist:item=3143732432&perks=1359896290,699525795
+
+
+// False Promises (pve)
+//notes: PvE: Any + Appended + Overflow + Rampage/Swash tags:pve
+dimwishlist:item=3143732432&perks=3643424744
+
+
+// False Promises (pve)
+//notes: PvE: Any + Appended + Overflow + Rampage/Swash tags:pve
+dimwishlist:item=3143732432&perks=4082225868
+dimwishlist:item=3143732432&perks=3425386926
+
+
+// False Promises (pvp)
+//notes: PvP: Hammer Forged + High cal / Ricochet + Killing Wind / DSR + EotS tags:pvp
+dimwishlist:item=3143732432&perks=699525795
+
+
+// False Promises (pvp)
+//notes: PvP: Hammer Forged + High cal / Ricochet + Killing Wind / DSR + EotS tags:pvp
+dimwishlist:item=3143732432&perks=2450788523
+dimwishlist:item=3143732432&perks=1359896290
+
+
+// First In, Last Out (god-pve)
+//notes: PvE: Range + assault + alh/pulse + vorpal/surrounded/demo tags:god-pve
+dimwishlist:item=3616586446&perks=1332244541,791862061,3300816228,1546637391
+dimwishlist:item=3616586446&perks=1332244541,791862061,3300816228,3708227201
+dimwishlist:item=3616586446&perks=1332244541,791862061,3300816228,3523296417
+dimwishlist:item=3616586446&perks=1332244541,791862061,972757866,1546637391
+dimwishlist:item=3616586446&perks=1332244541,791862061,972757866,3708227201
+dimwishlist:item=3616586446&perks=1332244541,791862061,972757866,3523296417
+dimwishlist:item=3616586446&perks=4090651448,791862061,3300816228,1546637391
+dimwishlist:item=3616586446&perks=4090651448,791862061,3300816228,3708227201
+dimwishlist:item=3616586446&perks=4090651448,791862061,3300816228,3523296417
+dimwishlist:item=3616586446&perks=4090651448,791862061,972757866,1546637391
+dimwishlist:item=3616586446&perks=4090651448,791862061,972757866,3708227201
+dimwishlist:item=3616586446&perks=4090651448,791862061,972757866,3523296417
+dimwishlist:item=3616586446&perks=1467527085,791862061,3300816228,1546637391
+dimwishlist:item=3616586446&perks=1467527085,791862061,3300816228,3708227201
+dimwishlist:item=3616586446&perks=1467527085,791862061,3300816228,3523296417
+dimwishlist:item=3616586446&perks=1467527085,791862061,972757866,1546637391
+dimwishlist:item=3616586446&perks=1467527085,791862061,972757866,3708227201
+dimwishlist:item=3616586446&perks=1467527085,791862061,972757866,3523296417
+dimwishlist:item=3616586446&perks=202670084,791862061,3300816228,1546637391
+dimwishlist:item=3616586446&perks=202670084,791862061,3300816228,3708227201
+dimwishlist:item=3616586446&perks=202670084,791862061,3300816228,3523296417
+dimwishlist:item=3616586446&perks=202670084,791862061,972757866,1546637391
+dimwishlist:item=3616586446&perks=202670084,791862061,972757866,3708227201
+dimwishlist:item=3616586446&perks=202670084,791862061,972757866,3523296417
+dimwishlist:item=3616586446&perks=3250034553,791862061,3300816228,1546637391
+dimwishlist:item=3616586446&perks=3250034553,791862061,3300816228,3708227201
+dimwishlist:item=3616586446&perks=3250034553,791862061,3300816228,3523296417
+dimwishlist:item=3616586446&perks=3250034553,791862061,972757866,1546637391
+dimwishlist:item=3616586446&perks=3250034553,791862061,972757866,3708227201
+dimwishlist:item=3616586446&perks=3250034553,791862061,972757866,3523296417
+dimwishlist:item=3616586446&perks=1482024992,791862061,3300816228,1546637391
+dimwishlist:item=3616586446&perks=1482024992,791862061,3300816228,3708227201
+dimwishlist:item=3616586446&perks=1482024992,791862061,3300816228,3523296417
+dimwishlist:item=3616586446&perks=1482024992,791862061,972757866,1546637391
+dimwishlist:item=3616586446&perks=1482024992,791862061,972757866,3708227201
+dimwishlist:item=3616586446&perks=1482024992,791862061,972757866,3523296417
+
+
+// First In, Last Out (god-pvp)
+//notes: PvP: Fluted + accurized/assault + slideshot + opening/vorpal + range MW tags:god-pvp
+dimwishlist:item=3616586446&perks=1840239774,791862061,3161816588,47981717
+dimwishlist:item=3616586446&perks=1840239774,791862061,3161816588,1546637391
+dimwishlist:item=3616586446&perks=1840239774,3142289711,3161816588,47981717
+dimwishlist:item=3616586446&perks=1840239774,3142289711,3161816588,1546637391
+
+
+// First In, Last Out (pve)
+//notes: PvE: Range + assault + alh/pulse + vorpal/surrounded/demo tags:pve
+dimwishlist:item=3616586446&perks=791862061,3300816228,1546637391
+dimwishlist:item=3616586446&perks=791862061,3300816228,3708227201
+dimwishlist:item=3616586446&perks=791862061,3300816228,3523296417
+dimwishlist:item=3616586446&perks=791862061,972757866,1546637391
+dimwishlist:item=3616586446&perks=791862061,972757866,3708227201
+dimwishlist:item=3616586446&perks=791862061,972757866,3523296417
+
+
+// First In, Last Out (pvp)
+//notes: PvP: Fluted + accurized/assault + slideshot + opening/vorpal + range MW tags:pvp
+dimwishlist:item=3616586446&perks=791862061,3161816588,47981717
+dimwishlist:item=3616586446&perks=791862061,3161816588,1546637391
+dimwishlist:item=3616586446&perks=3142289711,3161816588,47981717
+dimwishlist:item=3616586446&perks=3142289711,3161816588,1546637391
+
+
+// First In, Last Out (pve)
+//notes: PvE: Range + assault + alh/pulse + vorpal/surrounded/demo tags:pve
+dimwishlist:item=3616586446&perks=1332244541,3300816228,1546637391
+dimwishlist:item=3616586446&perks=1332244541,3300816228,3708227201
+dimwishlist:item=3616586446&perks=1332244541,3300816228,3523296417
+dimwishlist:item=3616586446&perks=1332244541,972757866,1546637391
+dimwishlist:item=3616586446&perks=1332244541,972757866,3708227201
+dimwishlist:item=3616586446&perks=1332244541,972757866,3523296417
+dimwishlist:item=3616586446&perks=4090651448,3300816228,1546637391
+dimwishlist:item=3616586446&perks=4090651448,3300816228,3708227201
+dimwishlist:item=3616586446&perks=4090651448,3300816228,3523296417
+dimwishlist:item=3616586446&perks=4090651448,972757866,1546637391
+dimwishlist:item=3616586446&perks=4090651448,972757866,3708227201
+dimwishlist:item=3616586446&perks=4090651448,972757866,3523296417
+dimwishlist:item=3616586446&perks=1467527085,3300816228,1546637391
+dimwishlist:item=3616586446&perks=1467527085,3300816228,3708227201
+dimwishlist:item=3616586446&perks=1467527085,3300816228,3523296417
+dimwishlist:item=3616586446&perks=1467527085,972757866,1546637391
+dimwishlist:item=3616586446&perks=1467527085,972757866,3708227201
+dimwishlist:item=3616586446&perks=1467527085,972757866,3523296417
+dimwishlist:item=3616586446&perks=202670084,3300816228,1546637391
+dimwishlist:item=3616586446&perks=202670084,3300816228,3708227201
+dimwishlist:item=3616586446&perks=202670084,3300816228,3523296417
+dimwishlist:item=3616586446&perks=202670084,972757866,1546637391
+dimwishlist:item=3616586446&perks=202670084,972757866,3708227201
+dimwishlist:item=3616586446&perks=202670084,972757866,3523296417
+dimwishlist:item=3616586446&perks=3250034553,3300816228,1546637391
+dimwishlist:item=3616586446&perks=3250034553,3300816228,3708227201
+dimwishlist:item=3616586446&perks=3250034553,3300816228,3523296417
+dimwishlist:item=3616586446&perks=3250034553,972757866,1546637391
+dimwishlist:item=3616586446&perks=3250034553,972757866,3708227201
+dimwishlist:item=3616586446&perks=3250034553,972757866,3523296417
+dimwishlist:item=3616586446&perks=1482024992,3300816228,1546637391
+dimwishlist:item=3616586446&perks=1482024992,3300816228,3708227201
+dimwishlist:item=3616586446&perks=1482024992,3300816228,3523296417
+dimwishlist:item=3616586446&perks=1482024992,972757866,1546637391
+dimwishlist:item=3616586446&perks=1482024992,972757866,3708227201
+dimwishlist:item=3616586446&perks=1482024992,972757866,3523296417
+
+
+// First In, Last Out (pvp)
+//notes: PvP: Fluted + accurized/assault + slideshot + opening/vorpal + range MW tags:pvp
+dimwishlist:item=3616586446&perks=1840239774,3161816588,47981717
+dimwishlist:item=3616586446&perks=1840239774,3161816588,1546637391
+
+
+// First In, Last Out (pve)
+//notes: PvE: Range + assault + alh/pulse + vorpal/surrounded/demo tags:pve
+dimwishlist:item=3616586446&perks=3300816228,1546637391
+dimwishlist:item=3616586446&perks=3300816228,3708227201
+dimwishlist:item=3616586446&perks=3300816228,3523296417
+dimwishlist:item=3616586446&perks=972757866,1546637391
+dimwishlist:item=3616586446&perks=972757866,3708227201
+dimwishlist:item=3616586446&perks=972757866,3523296417
+
+
+// First In, Last Out (pvp)
+//notes: PvP: Fluted + accurized/assault + slideshot + opening/vorpal + range MW tags:pvp
+dimwishlist:item=3616586446&perks=3161816588,47981717
+dimwishlist:item=3616586446&perks=3161816588,1546637391
+
+
+// First In, Last Out (pve,pvp)
+//notes: PvE: Range + assault + alh/pulse + vorpal/surrounded/demo
+PvP: Fluted + accurized/assault + slideshot + opening/vorpal + range MW tags:pve,pvp
+dimwishlist:item=3616586446&perks=1546637391
+
+
+// First In, Last Out (pve)
+//notes: PvE: Range + assault + alh/pulse + vorpal/surrounded/demo tags:pve
+dimwishlist:item=3616586446&perks=1546637391
+dimwishlist:item=3616586446&perks=3708227201
+dimwishlist:item=3616586446&perks=3523296417
+
+
+// First In, Last Out (pve)
+//notes: PvE: Range + assault + alh/pulse + vorpal/surrounded/demo tags:pve
+dimwishlist:item=3616586446&perks=3300816228
+dimwishlist:item=3616586446&perks=972757866
+
+
+// First In, Last Out (pvp)
+//notes: PvP: Fluted + accurized/assault + slideshot + opening/vorpal + range MW tags:pvp
+dimwishlist:item=3616586446&perks=47981717
+dimwishlist:item=3616586446&perks=1546637391
+
+
+// First In, Last Out (pvp)
+//notes: PvP: Fluted + accurized/assault + slideshot + opening/vorpal + range MW tags:pvp
+dimwishlist:item=3616586446&perks=3161816588
+
+
