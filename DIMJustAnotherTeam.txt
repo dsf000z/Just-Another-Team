@@ -240,12 +240,6 @@ PvP: It’s a sword it doesn’t matter
 dimwishlist:item=35794111&perks=1749209109,3913600130
 
 
-// Temptation's Hook ()
-//notes: PvP: It’s a sword it doesn’t matter
-
-dimwishlist:item=35794111&perks=
-
-
 // Subzero Salvo (god-pve)
 //notes: PvE: Hard Launch/Quick Launch + Impact Casing + Surplus + Demo
 
@@ -290,11 +284,6 @@ dimwishlist:item=42351395&perks=3436462433,3523296417
 
 Don’t bother using this rocket for PvP, there are better options. tags:pvp
 dimwishlist:item=42351395&perks=706527188,957782887
-
-
-// Subzero Salvo ()
-//notes: Don’t bother using this rocket for PvP, there are better options. However for PvE it’s one of two Precision Frame rockets if you’re more interested in the tracking than a damage perk
-dimwishlist:item=42351395&perks=
 
 
 // THE SWARM (god-pve)
@@ -376,11 +365,6 @@ dimwishlist:item=47772649&perks=3436462433,1546637391
 //notes: PvP: Hammer/Fluted + Accurized + Killing Wind/DSR + TTT tags:pvp
 dimwishlist:item=47772649&perks=2450788523,1890422124
 dimwishlist:item=47772649&perks=1359896290,1890422124
-
-
-// THE SWARM ()
-//notes: Curated Bane of Sorrow returns with Outlaw + Dfly
-dimwishlist:item=47772649&perks=
 
 
 // Ancient Gospel (god-pve)
@@ -699,11 +683,6 @@ dimwishlist:item=136525518&perks=3300816228,3523296417
 dimwishlist:item=136525518&perks=3300816228,3977735242
 
 
-// Shining Sphere ()
-//notes: Lowering the speed of the rocket gives it more time to turn, thus improving the tracking the slightest bit
-dimwishlist:item=136525518&perks=
-
-
 // Last Perdition (god-pve)
 //notes: PvE: SPO-28/SLO-12/SLO-21/SLO-10/SPO-26 + Tac/Appended/Flared + Outlaw + KC/Rampage tags:god-pve
 dimwishlist:item=188882152&perks=965619220,106909392,1168162263,3425386926
@@ -852,11 +831,6 @@ dimwishlist:item=208088207&perks=2450788523,460017080
 dimwishlist:item=208088207&perks=2450788523,3425386926
 
 
-// Premonition ()
-//notes: Arrowhead Brake takes recoil direction to 100.
-dimwishlist:item=208088207&perks=
-
-
 // Whispering Slab (god-pve)
 //notes: Whispering Slab
 PvE: Polymer String + Compact Arrow Shaft + Archers Tempo + Demo/Swash
@@ -884,12 +858,6 @@ PvP: Don’t
  tags:pve
 dimwishlist:item=211938782&perks=201365942,3523296417
 dimwishlist:item=211938782&perks=201365942,4082225868
-
-
-// Whispering Slab ()
-//notes: PvP: Don’t
-
-dimwishlist:item=211938782&perks=
 
 
 // The Deicide (god-pve)
@@ -1256,22 +1224,6 @@ dimwishlist:item=276080079&perks=706527188,1754714824
 dimwishlist:item=276080079&perks=706527188,2213355989
 dimwishlist:item=276080079&perks=3161816588,1754714824
 dimwishlist:item=276080079&perks=3161816588,2213355989
-
-
-// Exile's Curse (Adept) ()
-//notes: Worthy Variant
-PvE: Fluted/Corkscrew/Hammer Forged + Liquid Coil + Field Prep/Grave Robber + MKC/Disruption Break
-
-PvP: Fluted/Smallbore/Polygonal + Particle Repeater/Projection Fuse + Firmly Planted + Elemental Cap
-
-Chosen Variant
-PvE: Fluted/Corkscrew/Hammer Forged + Liquid Coils + Slideshot + Vorpal/HIR
-
-PvP: Fluted/Smallbore/Polygonal + Particle Repeater/Projection Fuse + Slideshot/Quickdraw + HIR/Kickstart
-
-Kickstart is a nice perk to reduce the charge time slightly, but has a very small period to proc it (needs charging during slide to ensure that you don’t lose the perk half way through the burst), and requires you to play a certain way to best use the perk (sprinting with a fusion out in order to get the perk to proc, leaving you vulnerable to a shotgun push or ranged primary fire)
-
-dimwishlist:item=276080079&perks=
 
 
 // Ignition Code (god-pve)
@@ -1851,18 +1803,6 @@ dimwishlist:item=334171687&perks=1168162263,1546637391
 dimwishlist:item=334171687&perks=1168162263,1015611457
 
 
-// Waking Vigil ()
-//notes: Of the 140 HCs, Waking has lower base range at 38 therefore it cannot really be a max range weapon, however, it does have great base handing.
-Due to the inability to fight at the extended ranges of 140s, sight choice can come down to which is preferred visually. Despite this, the sights which are normally ignored because of the stat penalties they incur (Sureshot & Crossfire) can be worth it to push the range out as far as possible
-
-60 base reload + 10 from mag perk + 10/20/40 form vorpal would be sufficient for reloads. Outlaw would max out reload (+60) but its not as consistently proc’d in higher level content.
-
-Dungeon Perks: Surplus, Vorpal, Thresh
-
-Hi-Cal can stunlock and knockback PvE enemies
-dimwishlist:item=334171687&perks=
-
-
 // Retold Tale (god-pvp)
 //notes: PvP: Full Choke + Accurized/Assault + Quickdraw/Slideshot + Snapshot
 
@@ -1968,13 +1908,6 @@ dimwishlist:item=346136302&perks=2869569095,1546637391
 dimwishlist:item=346136302&perks=3436462433,2679249093
 dimwishlist:item=346136302&perks=3436462433,3523296417
 dimwishlist:item=346136302&perks=3436462433,1546637391
-
-
-// Retold Tale ()
-//notes: Shattered Throne: Quickdraw
-
-Surrounded could be good but it’s activation range is so short.
-dimwishlist:item=346136302&perks=
 
 
 // Punching Out (god-pve)
@@ -2254,14 +2187,6 @@ Inverse of Spikes, we want increased blast radius when using Proximity Grenades 
  tags:pvp
 dimwishlist:item=407621213&perks=706527188,1683379515
 dimwishlist:item=407621213&perks=4071163871,1683379515
-
-
-// Berenger's Memory ()
-//notes: PvE: Spike grenades benefit from reduced blast radius as that shifts more damage to impact damage. Velocity barrels are acceptable, but avoid Confined Launch and Volatile Launch if using spike grenades.
-
-PvP: Inverse of Spikes, we want increased blast radius when using Proximity Grenades - but not at the cost of other stats.
-
-dimwishlist:item=407621213&perks=
 
 
 // The Keening (god-pve)
@@ -3174,19 +3099,6 @@ dimwishlist:item=532746994&perks=3436462433,47981717
 dimwishlist:item=532746994&perks=3436462433,1264398905
 
 
-// Astral Horizon (Adept) ()
-//notes: Worthy Variant
-PvE: Barrel Shroud/Corkscrew/Full Choke + Assault Mag + Field Prep/ALH + 12 Punch/Swash
-
-PvP: Full Choke/Barrel Shroud + Assault Mag/Accurized + Threat Detector/Surplus + Opening Shot/Celerity/Elemental Capacitor
-
-Chosen Variant
-PvE: Barrel Shroud/Corkscrew/Full Choke + Assault Mag + ALH/Surplus + Trench/Demo
-
-PvP: Full Choke/Corkscrew/Barrel Shroud + Assault Mag/Accurized + Surplus + Opening Shot/Celerity
-dimwishlist:item=532746994&perks=
-
-
 // PLUG ONE.1 (Adept) (god-pve)
 //notes: PvE: Fluted/Corkscrew/Hammer Forged + Liquid Coils + Feeding Frenzy + Cornered/Adrenaline Junkie/Reservoir Burst tags:god-pve
 dimwishlist:item=534775659&perks=1840239774,1687452232,2779035018,1427256713
@@ -3441,13 +3353,6 @@ dimwishlist:item=568515759&perks=1168162263,3425386926
 dimwishlist:item=568515759&perks=1168162263,2213355989
 dimwishlist:item=568515759&perks=4267945040,3425386926
 dimwishlist:item=568515759&perks=4267945040,2213355989
-
-
-// Chattering Bone ()
-//notes: Curated (Riven) PvE and PvP: Corkscrew + Light Mag + KillClip + High Impact Reserves
-
-Even though lightweight pulses struggle in PvE and PvP, the curated roll is a solid performer for the archetype.
-dimwishlist:item=568515759&perks=
 
 
 // Contingency Plan (god-pve)
@@ -3723,11 +3628,6 @@ dimwishlist:item=601592879&perks=1890422124,1015611457
 dimwishlist:item=601592879&perks=3400784728,1015611457
 
 
-// Age-Old Bond ()
-//notes: Curated (Kali) PvE: Extended + Light Mag + FTTC + Rampage
-dimwishlist:item=601592879&perks=
-
-
 // Scathelocke (god-pve)
 //notes: PvE: Fluted/Corkscrew/Hammer Forged + Appended/Tac Mag + Surplus/Subsistence + Rampage/MKC tags:god-pve
 dimwishlist:item=602618796&perks=1840239774,106909392,1820235745,2458213969
@@ -3867,12 +3767,6 @@ dimwishlist:item=614426548&perks=3666208348,52780822,1749209109,3913600130
 PvP: It’s a sword in PvP, anything works
  tags:pve
 dimwishlist:item=614426548&perks=1749209109,3913600130
-
-
-// Falling Guillotine ()
-//notes: PvP: It’s a sword in PvP, anything works
-
-dimwishlist:item=614426548&perks=
 
 
 // Found Verdict (Timelost) (god-pve)
@@ -4614,22 +4508,6 @@ dimwishlist:item=679281855&perks=3161816588,1754714824
 dimwishlist:item=679281855&perks=3161816588,2213355989
 
 
-// Exile's Curse ()
-//notes: Worthy Variant
-PvE: Fluted/Corkscrew/Hammer Forged + Liquid Coil + Field Prep/Grave Robber + MKC/Disruption Break
-
-PvP: Fluted/Smallbore/Polygonal + Particle Repeater/Projection Fuse + Firmly Planted + Elemental Cap
-
-Chosen Variant
-PvE: Fluted/Corkscrew/Hammer Forged + Liquid Coils + Slideshot + Vorpal/HIR
-
-PvP: Fluted/Smallbore/Polygonal + Particle Repeater/Projection Fuse + Slideshot/Quickdraw + HIR/Kickstart
-
-Kickstart is a nice perk to reduce the charge time slightly, but has a very small period to proc it (needs charging during slide to ensure that you don’t lose the perk half way through the burst), and requires you to play a certain way to best use the perk (sprinting with a fusion out in order to get the perk to proc, leaving you vulnerable to a shotgun push or ranged primary fire)
-
-dimwishlist:item=679281855&perks=
-
-
 // Hung Jury SR4 (Adept) (god-pve)
 //notes: PvE: Fluted/Corkscrew/Hammer Forged + Tac/Appended Mag + Rapid Hit/Surplus/Subsistence + Adrenaline Junkie/Explosive Payload/OfA/Firefly tags:god-pve
 dimwishlist:item=681067419&perks=1840239774,106909392,247725512,3038247973
@@ -4769,11 +4647,6 @@ dimwishlist:item=681067419&perks=588594999,2551157718
 dimwishlist:item=681067419&perks=588594999,3038247973
 dimwishlist:item=681067419&perks=3436462433,2551157718
 dimwishlist:item=681067419&perks=3436462433,3038247973
-
-
-// Hung Jury SR4 (Adept) ()
-//notes: The 180 3 tap machine returns, now un-sunset. Box Breathing allows the scout to 3 tap to the head in PvP
-dimwishlist:item=681067419&perks=
 
 
 // The Supremacy (god-pve)
@@ -5438,11 +5311,6 @@ dimwishlist:item=829330711&perks=1820235745,438098033
 dimwishlist:item=829330711&perks=1820235745,3708227201
 
 
-// Peacebond ()
-//notes: Headstone makes this sidearm excellent when combined with a proper character stasis build, offering easy crystals without ability usage to either break or stand next to depending on your build
-dimwishlist:item=829330711&perks=
-
-
 // Uzume RR4 (Adept) (god-pve)
 //notes: PvE: Fluted/Corkscrew/Hammer Forged + Appended/Tac Mag + Triple Tap/Clown/Lead For Gold + Vorpal/HIR tags:god-pve
 dimwishlist:item=852228780&perks=1840239774,106909392,3400784728,1546637391
@@ -5574,12 +5442,6 @@ dimwishlist:item=852551895&perks=3300816228,1546637391
 With nearly 60 range it almost caps out on the maximum aim assist that snipers get, and with Full Bore it reaches 100 range, adding to that cone optimisation. This sniper will get you kills you wouldn’t believe would hit, if you can only get past the telescope zoom
  tags:pvp
 dimwishlist:item=852551895&perks=957782887,47981717
-
-
-// Occluded Finality ()
-//notes: With nearly 60 range it almost caps out on the maximum aim assist that snipers get, and with Full Bore it reaches 100 range, adding to that cone optimisation. This sniper will get you kills you wouldn’t believe would hit, if you can only get past the telescope zoom
-
-dimwishlist:item=852551895&perks=
 
 
 // Borrowed Time (god-pve)
@@ -6218,19 +6080,6 @@ dimwishlist:item=958384347&perks=3977735242,2284787283
 dimwishlist:item=958384347&perks=3977735242,1275731761
 
 
-// Tomorrow's Answer ()
-//notes: Worthy Variant
-PvE: Hard/Quick Launch + Impact Casing + Field Prep/Tracking + Clown Cartridge/Cluster Bomb
-
-PvP: Confined/Volatile Launch + Impact Casing + Tracking + Cluster Bomb
-
-Chosen Variant
-PvE: Hard/Quick Launch + Impact Casing + ALH/AA/Impluse + Chain/Lasting Impression/Cluster
-
-PvP: Confined/Volatile Launch + Impact Casing + Tracking + Chain/Cluster
-dimwishlist:item=958384347&perks=
-
-
 // Deafening Whisper (god-pve)
 //notes: PvE: Hard/Quick Launch + High Velocity Rounds + Ambitious Assassin/Surplus + Wellspring/Auto Loading Holster tags:god-pve
 dimwishlist:item=981718087&perks=3525010810,2822142346,2010801679,3300816228
@@ -6336,11 +6185,6 @@ dimwishlist:item=991314988&perks=3977735242,706527188
 dimwishlist:item=991314988&perks=3977735242,1275731761
 dimwishlist:item=991314988&perks=957782887,706527188
 dimwishlist:item=991314988&perks=957782887,1275731761
-
-
-// Bad Omens ()
-//notes: Curated (PvP): Volatile Launch + Impact Casing + Tracking Module + Cluster Bombs
-dimwishlist:item=991314988&perks=
 
 
 // One Small Step (god-pve)
@@ -6971,11 +6815,6 @@ dimwishlist:item=1076810832&perks=1570042021,2458213969
 dimwishlist:item=1076810832&perks=1570042021,11551321
 
 
-// Forge's Pledge ()
-//notes: This weapon has the same “bugged” reticle as Gridskipper (it moves a whole lot as you strafe). It may bother you, it may not. But if the weapon feels off, that is why.
-dimwishlist:item=1076810832&perks=
-
-
 // IKELOS_SG_v1.0.2 (god-pve)
 //notes: PvE: Fluted + Tac/Appended Mag + Threat Detector + Surrounded/Vorpal/Trench  tags:god-pve
 dimwishlist:item=1096206669&perks=1840239774,1087426260,4071163871,1546637391
@@ -7031,11 +6870,6 @@ dimwishlist:item=1096206669&perks=280464955,1546637391
 dimwishlist:item=1096206669&perks=280464955,3511092054
 dimwishlist:item=1096206669&perks=588594999,1546637391
 dimwishlist:item=1096206669&perks=588594999,3511092054
-
-
-// IKELOS_SG_v1.0.2 ()
-//notes: Extended Barrel has hidden range benefit on this weapon - source: DCP Bungie Dev Interview
-dimwishlist:item=1096206669&perks=
 
 
 // Extraordinary Rendition (god-pve)
@@ -7345,14 +7179,6 @@ dimwishlist:item=1097616550&perks=3436462433,4104185692
 dimwishlist:item=1097616550&perks=3436462433,2726471870
 
 
-// Extraordinary Rendition ()
-//notes: Surplus + Frenzy combo buff handling, reload, stability (10/20/50) and damage, handing, reload respectively (20% buff, 30 stat points. This means you can get up to 80 stat points to handling and reload and 50 to stability.
-
-Overflow and MKC have very poor synergy with each other, with MKC unable to be procced while overflow is active. While these are both excellent perks, the combo is not worth keeping
-
-dimwishlist:item=1097616550&perks=
-
-
 // Servant Leader (god-pve)
 //notes: PvE: Fluted/Corkscrew/Hammer Forged + Appended/Tac Mag/Flared + Rapid Hit/FTTC/Surplus/Outlaw + Rampage/KC/OfA/MKC/Frenzy
 
@@ -7649,11 +7475,6 @@ dimwishlist:item=1107446438&perks=3436462433,1015611457
 dimwishlist:item=1107446438&perks=3436462433,2458213969
 
 
-// Servant Leader ()
-//notes: Randy’s Throwing Knife returns with Rapid Hit/KC, but unfortunately other damage perks such as OfA or Frenzy outshine KC in PvE
-dimwishlist:item=1107446438&perks=
-
-
 // Chroma Rush (god-pve)
 //notes: PvE: Fluted/Corkscrew/Hammer Forged + Appended/Tac + Feeding Frenzy/Subsistence + Adrenaline Junkie/Rampage/KC
  tags:god-pve
@@ -7793,11 +7614,6 @@ dimwishlist:item=1119734784&perks=1359896290,2726471870
 dimwishlist:item=1119734784&perks=1570042021,1890422124
 dimwishlist:item=1119734784&perks=1570042021,1015611457
 dimwishlist:item=1119734784&perks=1570042021,2726471870
-
-
-// Chroma Rush ()
-//notes: 45 recoil direction is very low, so arrowhead would be a great choice. 16 base zoom is not too bad. 10 range stat points = 1.69M increase to range drop off
-dimwishlist:item=1119734784&perks=
 
 
 // Jian 7 Rifle (god-pve)
@@ -8264,11 +8080,6 @@ dimwishlist:item=1173780905&perks=588594999,3047969693
 dimwishlist:item=1173780905&perks=588594999,1015611457
 
 
-// The Messenger (Adept) ()
-//notes: Desperado returns on High Impact pulses, bringing with it the 0.4 second ttk. This is the best primary ttk in the game outside of a few select exotics or combos . GET THIS GUN WITH DESPERADO
-dimwishlist:item=1173780905&perks=
-
-
 // High Albedo (god-pve)
 //notes: PvE: Fluted/Corkscrew/Hammer Forged/Smallbore + Tac/Appended Mag + Threat Detector/Surplus + Demo/Wellspring tags:god-pve
 dimwishlist:item=1197486957&perks=1840239774,106909392,4071163871,3523296417
@@ -8438,14 +8249,6 @@ dimwishlist:item=1200824700&perks=4071163871,3425386926
 dimwishlist:item=1200824700&perks=4071163871,1546637391
 
 
-// IKELOS_HC_v1.0.2 ()
-//notes: Base mag of 12 (9 + backup mag) = 17 shots with Triple Tap, 13 mag = 19 shots
-Extended Mag is a poor choice due to low base reload speed.
-
-Lower range than some of the other 180 offerings (see Nature of the Beast with Rangefinder)
-dimwishlist:item=1200824700&perks=
-
-
 // Cold Denial (god-pve)
 //notes: PvE: Fluted/Corkscrew/Hammer Forged + Appended/Light Mag/High Cal + Feeding Frenzy + MKC/Swash tags:god-pve
 dimwishlist:item=1216130969&perks=1840239774,1087426260,2779035018,2458213969
@@ -8497,12 +8300,6 @@ dimwishlist:item=1216130969&perks=2450788523,460017080
 //notes: PvE: Fluted/Corkscrew/Hammer Forged + Appended/Light Mag/High Cal + Feeding Frenzy + MKC/Swash tags:pve
 dimwishlist:item=1216130969&perks=2779035018,2458213969
 dimwishlist:item=1216130969&perks=2779035018,4082225868
-
-
-// Cold Denial ()
-//notes: PvP: Fluted + Ricochet + Killing Wind + MKC/Headseeker [this is the best min/max roll +15 handing, +15 stability, +15 range and no stat negatives + killing wind bonuses]
-OR any range barrel and stability MW
-dimwishlist:item=1216130969&perks=
 
 
 // Fatebringer (Timelost) (god-pve)
@@ -8736,26 +8533,6 @@ dimwishlist:item=1216319404&perks=2946784966,1015611457
 dimwishlist:item=1216319404&perks=2946784966,47981717
 
 
-// Fatebringer (Timelost) ()
-//notes: Kill Clip does not improve TTK - just forgiveness and effective range
-PvP “God Roll” Hammer/(Range Barrel) + Accurized + Explosive + Opening Shot + Range MW
-
-Frenzy is +50 to reload, so that perk alone puts Fatebringer at max reload speed. Loader will still add a scalar so it will be faster.
-
-Rolls are all about perk synergy so here are some notes on perk synergy re Fatebringer.
-Kill Clip does not boost Explosive Payload damage, just the impact damage
-Explosive and Firefly is the OG combo, but Explosive sometimes interferes with Firefly explosions
-Good PvE Combos:
-Explosive + Frenzy
-Rewind + Frenzy/Firefly
-Osmosis + AJ (?)
-Suboptimal PvE combos, but good perks
-Rewind + Kill Clip
-Explosive + Kill Clip
-
-dimwishlist:item=1216319404&perks=
-
-
 // IKELOS_SR_v1.0.2 (god-pve)
 //notes: PvE: Fluted/Corkscrew/Hammer Forged + Tac Mag/Appended Mag/Flared + FTTC/Triple Tap + HIR [7 mag is higher total damage, 6 mag is higher dps]
 
@@ -8821,11 +8598,6 @@ dimwishlist:item=1253087083&perks=3400784728,2213355989
 //notes: PvP: Hammer Forged/Corkscrew/Fluted + Accurized/Seraph + Moving Target/No distract + quickdraw tags:pvp
 dimwishlist:item=1253087083&perks=588594999,706527188
 dimwishlist:item=1253087083&perks=2866798147,706527188
-
-
-// IKELOS_SR_v1.0.2 ()
-//notes: 7 is the magic number for Triple Tap, but ammo return with 6 ammo is the same as 7. You proc HIR at the same time with 6 vs 7 mag.
-dimwishlist:item=1253087083&perks=
 
 
 // Widow's Bite (god-pve)
@@ -8972,11 +8744,6 @@ dimwishlist:item=1313528549&perks=1749209109,1546637391
 dimwishlist:item=1313528549&perks=1749209109,4104185692
 dimwishlist:item=1313528549&perks=2590710093,1546637391
 dimwishlist:item=1313528549&perks=2590710093,4104185692
-
-
-// Sola's Scar ()
-//notes: PvP: It’s a sword in PvP. You’re using it for 3 peaking or heavy attack, and you don’t need any specific perks for that
-dimwishlist:item=1313528549&perks=
 
 
 // Chrysura Melo (god-pve)
@@ -9297,19 +9064,6 @@ dimwishlist:item=1366917989&perks=3977735242,2284787283
 dimwishlist:item=1366917989&perks=3977735242,1275731761
 
 
-// Tomorrow's Answer (Adept) ()
-//notes: Worthy Variant
-PvE: Hard/Quick Launch + Impact Casing + Field Prep/Tracking + Clown Cartridge/Cluster Bomb
-
-PvP: Confined/Volatile Launch + Impact Casing + Tracking + Cluster Bomb
-
-Chosen Variant
-PvE: Hard/Quick Launch + Impact Casing + ALH/AA/Impluse + Chain/Lasting Impression/Cluster
-
-PvP: Confined/Volatile Launch + Impact Casing + Tracking + Chain/Cluster
-dimwishlist:item=1366917989&perks=
-
-
 // Trustee (god-pve)
 //notes: PvE: Fluted/Corkscrew/Hammer Forged + Tac/Appended Mag + Reconstruction/Surplus + Wellspring/HIR
 
@@ -9506,14 +9260,6 @@ dimwishlist:item=1392919471&perks=3436462433,699525795
 dimwishlist:item=1392919471&perks=1645158859,47981717
 dimwishlist:item=1392919471&perks=1645158859,2213355989
 dimwishlist:item=1392919471&perks=1645158859,699525795
-
-
-// Trustee ()
-//notes: Reconstruction and HIR work extremely poorly together, as HIR only procs on the last ¼ of the original mag size, not the newly increased mag size.
-
-HIR and Under Pressure on the other hand work excellently together, as they both proc on the same part of the mag
-
-dimwishlist:item=1392919471&perks=
 
 
 // Reed's Regret (god-pve)
@@ -9822,11 +9568,6 @@ dimwishlist:item=1476654960&perks=2946784966,47981717
 dimwishlist:item=1476654960&perks=3523296417,1954620775
 dimwishlist:item=1476654960&perks=3523296417,2458213969
 dimwishlist:item=1476654960&perks=3523296417,47981717
-
-
-// Judgment ()
-//notes: Judgement can only 2 tap with MKC x 3, but x1 and x2 both improve the usability (2c1b at x1, 1c2b at x2)
-dimwishlist:item=1476654960&perks=
 
 
 // The Palindrome (Adept) (god-pve)
@@ -10361,12 +10102,6 @@ dimwishlist:item=1621657423&perks=247725512,3365897133
 Rapid hit affects knocking speed, stability seems to have no impact on bows.
 With x5 Swash, the bow can 1 tap to the head in PvP, making it a pretty good legendary pairing for bowswaps tags:pvp
 dimwishlist:item=1621657423&perks=588594999,4082225868
-
-
-// Biting Winds ()
-//notes: Rapid hit affects knocking speed, stability seems to have no impact on bows.
-With x5 Swash, the bow can 1 tap to the head in PvP, making it a pretty good legendary pairing for bowswaps
-dimwishlist:item=1621657423&perks=
 
 
 // Vulpecula (god-pve)
@@ -10916,11 +10651,6 @@ dimwishlist:item=1641430382&perks=706527188,1546637391
 dimwishlist:item=1641430382&perks=706527188,11551321
 
 
-// The Guiding Sight ()
-//notes: If you chose Iron Grip, then Flared Magwell/Alloy Mag become more wanted perks to help counter the greatly decreased reload of Iron Grip
-dimwishlist:item=1641430382&perks=
-
-
 // Abide the Return (god-pve)
 //notes: PvE: Jagged Edge + Swordmasters Guard + Relentless Strikes + Whirlwind Blade tags:god-pve
 dimwishlist:item=1644160541&perks=3666208348,269888150,1749209109,3913600130
@@ -11046,11 +10776,6 @@ The sights on Forward Path have a massive impact on the user experience due to s
  tags:pve
 dimwishlist:item=1690783811&perks=2779035018,2458213969
 dimwishlist:item=1690783811&perks=2779035018,4082225868
-
-
-// The Forward Path ()
-//notes: The sights on Forward Path have a massive impact on the user experience due to sight picture and muzzle flash. Find your favorite.
-dimwishlist:item=1690783811&perks=
 
 
 // Astral Horizon (god-pve)
@@ -11240,19 +10965,6 @@ PvP: Full Choke/Corkscrew/Barrel Shroud + Assault Mag/Accurized + Surplus + Open
  tags:pvp
 dimwishlist:item=1697682876&perks=3436462433,47981717
 dimwishlist:item=1697682876&perks=3436462433,1264398905
-
-
-// Astral Horizon ()
-//notes: Worthy Variant
-PvE: Barrel Shroud/Corkscrew/Full Choke + Assault Mag + Field Prep/ALH + 12 Punch/Swash
-
-PvP: Full Choke/Barrel Shroud + Assault Mag/Accurized + Threat Detector/Surplus + Opening Shot/Celerity/Elemental Capacitor
-
-Chosen Variant
-PvE: Barrel Shroud/Corkscrew/Full Choke + Assault Mag + ALH/Surplus + Trench/Demo
-
-PvP: Full Choke/Corkscrew/Barrel Shroud + Assault Mag/Accurized + Surplus + Opening Shot/Celerity
-dimwishlist:item=1697682876&perks=
 
 
 // Enigma's Draw (god-pve)
@@ -11504,11 +11216,6 @@ dimwishlist:item=1786797708&perks=3643424744,1774574192
 dimwishlist:item=1786797708&perks=4071163871,3708227201
 dimwishlist:item=1786797708&perks=4071163871,1546637391
 dimwishlist:item=1786797708&perks=4071163871,1774574192
-
-
-// Escape Velocity ()
-//notes: With a full spec into range, this smg can reach 20m and can work as a worse version of Multimach. Due to the lack of further range increasing perks or good damage perks, that’s where it will stay
-dimwishlist:item=1786797708&perks=
 
 
 // Seventh Seraph CQC-12 (god-pve)
@@ -12070,14 +11777,6 @@ dimwishlist:item=1972985595&perks=4071163871,706527188
 dimwishlist:item=1972985595&perks=4071163871,3425386926
 
 
-// Swarm of the Raven ()
-//notes: PvE: Spike grenades benefit from reduced blast radius as that shifts more damage to impact damage. Velocity barrels are acceptable, but avoid Confined Launch and Volatile Launch if using spike grenades.
-
-PvP: Inverse of Spikes, we want increased blast radius when using Proximity Grenades - but not at the cost of other stats.
-
-dimwishlist:item=1972985595&perks=
-
-
 // Talons of the Eagle (god-pve)
 //notes: PvE: Fluted/Corkscrew/Hammer Forged + Tac/Appended Mag + Outlaw + Rampage/Explosive Payload tags:god-pve
 dimwishlist:item=1982711279&perks=1840239774,106909392,1168162263,3038247973
@@ -12170,12 +11869,6 @@ dimwishlist:item=1987769101&perks=3418782618,2213355989
  tags:pvp
 dimwishlist:item=1987769101&perks=588594999,47981717
 dimwishlist:item=1987769101&perks=588594999,1015611457
-
-
-// Praedyth's Revenge (Timelost) ()
-//notes: PvP: Handling Mw
-
-dimwishlist:item=1987769101&perks=
 
 
 // The Last Dance (god-pve)
@@ -12498,11 +12191,6 @@ dimwishlist:item=2050789284&perks=706527188,588594999
 dimwishlist:item=2050789284&perks=280464955,460017080
 dimwishlist:item=2050789284&perks=280464955,1015611457
 dimwishlist:item=2050789284&perks=280464955,588594999
-
-
-// Stars in Shadow ()
-//notes: Pulses do appear to be range capped, so like Cold Denial, it’s best to focus on stability if you get Killing Wind since KW adds +20 range, + 50 mobility, and +~40  handling. This pulse has standard zoom and iron sights like those on Redrix.
-dimwishlist:item=2050789284&perks=
 
 
 // Uzume RR4 (god-pve)
@@ -13141,11 +12829,6 @@ dimwishlist:item=2164448701&perks=3436462433,47981717
 dimwishlist:item=2164448701&perks=2450788523,47981717
 
 
-// Apostate ()
-//notes: One of two current available snipers that can roll Firmly Planted + Opening Shot - they stack for max accuracy bonuses
-dimwishlist:item=2164448701&perks=
-
-
 // Fatebringer (god-pve)
 //notes: PvE: Fluted/Corkscrew/Hammer Forged + Appended/Tac Mag + Explosive Payload/Rewind Rounds + Frenzy/Adrenaline Junkie/Firefly
 
@@ -13375,26 +13058,6 @@ dimwishlist:item=2171478765&perks=2450788523,1015611457
 dimwishlist:item=2171478765&perks=2450788523,47981717
 dimwishlist:item=2171478765&perks=2946784966,1015611457
 dimwishlist:item=2171478765&perks=2946784966,47981717
-
-
-// Fatebringer ()
-//notes: Kill Clip does not improve TTK - just forgiveness and effective range
-PvP “God Roll” Hammer/(Range Barrel) + Accurized + Explosive + Opening Shot + Range MW
-
-Frenzy is +50 to reload, so that perk alone puts Fatebringer at max reload speed. Loader will still add a scalar so it will be faster.
-
-Rolls are all about perk synergy so here are some notes on perk synergy re Fatebringer.
-Kill Clip does not boost Explosive Payload damage, just the impact damage
-Explosive and Firefly is the OG combo, but Explosive sometimes interferes with Firefly explosions
-Good PvE Combos:
-Explosive + Frenzy
-Rewind + Frenzy/Firefly
-Osmosis + AJ (?)
-Suboptimal PvE combos, but good perks
-Rewind + Kill Clip
-Explosive + Kill Clip
-
-dimwishlist:item=2171478765&perks=
 
 
 // Lonesome (god-pve)
@@ -13937,11 +13600,6 @@ dimwishlist:item=2220884262&perks=3161816588,957782887
 dimwishlist:item=2220884262&perks=3161816588,11551321
 
 
-// The Steady Hand ()
-//notes: When using Iron Grip, make sure you run a hand cannon loader mod. This returns you to the base reload of the weapon and make sure you lose nothing
-dimwishlist:item=2220884262&perks=
-
-
 // IKELOS_SMG_v1.0.2 (god-pve)
 //notes: PvE: Fluted/Corkscrew/Hammer Forged + Tac/extended/appended/Seraph + Threat Detector/Subsistence + Disruption break/Surrounded/Demo tags:god-pve
 dimwishlist:item=2222560548&perks=1840239774,106909392,1820235745,3523296417
@@ -14127,13 +13785,6 @@ Spike grenades benefit from reduced blast radius as that shifts more damage to i
 dimwishlist:item=2257180473&perks=3300816228,2888557110
 dimwishlist:item=2257180473&perks=2869569095,2888557110
 dimwishlist:item=2257180473&perks=2284787283,2888557110
-
-
-// Interference VI ()
-//notes: Spike grenades benefit from reduced blast radius as that shifts more damage to impact damage. Velocity barrels are acceptable, but avoid Confined Launch and Volatile Launch if using spike grenades.
-
-Inverse of Spikes, we want increased blast radius when using Proximity Grenades - but not at the cost of other stats.
-dimwishlist:item=2257180473&perks=
 
 
 // Stochastic Variable (god-pve)
@@ -14594,11 +14245,6 @@ dimwishlist:item=2408405461&perks=1168162263,1015611457
 dimwishlist:item=2408405461&perks=1168162263,706527188
 
 
-// Sacred Provenance ()
-//notes: Rapid Hit is an S tier perk and ramps up the stability and recoil of the weapon - one burst and you could have several stacks of the perk primed and ready.
-dimwishlist:item=2408405461&perks=
-
-
 // The Vision (god-pvp)
 //notes: PvP: Tactic/Shortspec/Control/Quickdot + Accurized + FATS/Killing Wind + KC/Elemental Cap tags:god-pvp
 dimwishlist:item=2414141462&perks=445755705,3142289711,2450788523,1015611457
@@ -15001,14 +14647,6 @@ dimwishlist:item=2453357042&perks=2284787283,3592538738
 Inverse of Spikes, we want increased blast radius when using Proximity Grenades - but not at the cost of other stats.
  tags:pvp
 dimwishlist:item=2453357042&perks=706527188,1683379515
-
-
-// Blast Battue ()
-//notes: PvE: Spike grenades benefit from reduced blast radius as that shifts more damage to impact damage. Velocity barrels are acceptable, but avoid Confined Launch and Volatile Launch if using spike grenades.
-
-PvP: Inverse of Spikes, we want increased blast radius when using Proximity Grenades - but not at the cost of other stats.
-
-dimwishlist:item=2453357042&perks=
 
 
 // Reed's Regret (Adept) (god-pve)
@@ -15533,11 +15171,6 @@ dimwishlist:item=2481758391&perks=2946784966,3511092054
 dimwishlist:item=2481758391&perks=2946784966,3425386926
 
 
-// Darkest Before ()
-//notes: Only Rampage x3 will affect the ttk, but both other levels of rampage improve the optimal headshot ratio
-dimwishlist:item=2481758391&perks=
-
-
 // Cartesian Coordinate (god-pve)
 //notes: PvE: Hitmark/Cleanshot/Red Dot Micro/Red Dot 2 MOA + Liquid Coils + FF/Lead from Gold/Grave Robber + Swash/Thresh/Vorpal tags:god-pve
 dimwishlist:item=2481881293&perks=2405638014,1687452232,1556840489,1546637391
@@ -15797,12 +15430,6 @@ dimwishlist:item=2492081469&perks=3436462433,2213355989
 dimwishlist:item=2492081469&perks=3436462433,2458213969
 dimwishlist:item=2492081469&perks=2450788523,2213355989
 dimwishlist:item=2492081469&perks=2450788523,2458213969
-
-
-// The Number ()
-//notes: 20 base zoom (+4 over the others and +2 over Horror Story with Med scope) makes this best in class for range. Arrowhead + Rico + Killing Wind + MKC/HIR 
-KW + 68 range (=88 range) = 38m which beats 100 range 16 zooms by nearly 2M.
-dimwishlist:item=2492081469&perks=
 
 
 // Code Duello (god-pve)
@@ -16502,11 +16129,6 @@ dimwishlist:item=2545083870&perks=3977735242,957782887
 dimwishlist:item=2545083870&perks=2010801679,1015611457
 
 
-// Apex Predator ()
-//notes: Don’t use this rocket launcher. Just don’t
-dimwishlist:item=2545083870&perks=
-
-
 // Seventh Seraph SAW (god-pve)
 //notes: PvE: Fluted/Corkscrew/Hammer Forged + High Cal/Appended Mag + ALH/Field Prep/Clown Cartridge + Firing Line/Vorpal tags:god-pve
 dimwishlist:item=2582755344&perks=1840239774,1087426260,3300816228,1771339417
@@ -17055,11 +16677,6 @@ dimwishlist:item=2591111628&perks=3436462433,957782887
 dimwishlist:item=2591111628&perks=3436462433,1546637391
 
 
-// Compass Rose ()
-//notes: Max range stat is key with the 3.2.1 shotgun update. Looking for ~80 range.
-dimwishlist:item=2591111628&perks=
-
-
 // Shadow Price (god-pve)
 //notes: PvE: Fluted/Corkscrew/Hammer Forged + Tac/Appended + Overflow/FTTC + OfA/Swash/Dfly/Disruption Break tags:god-pve
 dimwishlist:item=2633186522&perks=1840239774,106909392,3643424744,4049631843
@@ -17270,11 +16887,6 @@ PvP: (don’t) tags:pve
 dimwishlist:item=2721249463&perks=201365942,3365897133
 
 
-// Tyranny of Heaven ()
-//notes: PvP: (don’t)
-dimwishlist:item=2721249463&perks=
-
-
 // Arc Logic (god-pve)
 //notes: PvE: Fluted/Corkscrew/Hammer Forged + Tac/Appended Mag + Subsistence/Overflow/Surplus/Feeding Frenzy + Frenzy/Rampage/Demo
  tags:god-pve
@@ -17452,11 +17064,6 @@ dimwishlist:item=2723909519&perks=2779035018,3425386926
 dimwishlist:item=2723909519&perks=2779035018,3523296417
 
 
-// Arc Logic ()
-//notes: This gun has an interesting PvE roll with Frenzy or Demo, but for PvP either Summoner or Gnawing Hunger is preferred
-dimwishlist:item=2723909519&perks=
-
-
 // Death Adder (god-pvp)
 //notes: PvP: Hammer + Accurized + DSR/HipFire + Rangefinder/EoTS/MT
 
@@ -17550,14 +17157,6 @@ dimwishlist:item=2742490609&perks=2779035018,1683379515
 dimwishlist:item=2742490609&perks=2779035018,2848615171
 dimwishlist:item=2742490609&perks=3300816228,1683379515
 dimwishlist:item=2742490609&perks=3300816228,2848615171
-
-
-// Death Adder ()
-//notes: SMGs are sensitive to range stat, 56 base range can hit full damage at 15M, max range 17.8M
-
-Ammo cap seems to be 41 so backup mag + tac/appended = Extended
-
-dimwishlist:item=2742490609&perks=
 
 
 // True Prophecy (god-pve)
@@ -17882,15 +17481,6 @@ dimwishlist:item=2782325300&perks=3666208348,269888150,1749209109,1685431615
 dimwishlist:item=2782325300&perks=3666208348,269888150,1749209109,4049631843
 
 
-// Quickfang ()
-//notes: PvP: Any, You 1 heavy everything
-
-En Guarde best in slot for PvP, but ya know, OFA could be a lot of fun in PvE.
-
-You’re a Hunter begging for a lightweight weapon, you’re using this for dodge cooldown reduction and to do the funny run in PvP
-dimwishlist:item=2782325300&perks=
-
-
 // Eternity's Edge (god-pve)
 //notes: PvE: Jagged + Infinite Guard + Relentless Strikes + Surrounded/Counterattack/Flash Counter
 
@@ -17907,11 +17497,6 @@ PvP: Any, you 1 heavy anything in the game
 dimwishlist:item=2782325301&perks=3666208348,2363751990,1749209109,3708227201
 dimwishlist:item=2782325301&perks=3666208348,2363751990,1749209109,2244851822
 dimwishlist:item=2782325301&perks=3666208348,2363751990,1749209109,3016987351
-
-
-// Eternity's Edge ()
-//notes: PvP: Any, you 1 heavy anything in the game
-dimwishlist:item=2782325301&perks=
 
 
 // Crown-Splitter (god-pve)
@@ -17931,11 +17516,6 @@ PvP: Anything, You one heavy everything
  tags:pve
 dimwishlist:item=2782325302&perks=3666208348,2349202967,1749209109,1546637391
 dimwishlist:item=2782325302&perks=3666208348,2349202967,1749209109,3913600130
-
-
-// Crown-Splitter ()
-//notes: PvP: Anything, You one heavy everything
-dimwishlist:item=2782325302&perks=
 
 
 // Blasphemer (god-pve)
@@ -18001,13 +17581,6 @@ dimwishlist:item=2782847179&perks=706527188,47981717
 dimwishlist:item=2782847179&perks=706527188,4082225868
 
 
-// Blasphemer ()
-//notes: The final column does not have any perks worth searching for in PvE, so Swash has been included for it’s potential to give the first few shots some better damage. But it’s not worth killing a roll just because it doesn’t have Swash
-Fluted + Counterbalance Mod makes recoil direction 100.
-Swash is included for the bodyshot potential of x5 swash, best paired with a melee build
-dimwishlist:item=2782847179&perks=
-
-
 // Distant Tumulus (god-pve)
 //notes: PvE: Fluted/Corkscrew/Hammer Forged + Appended/Tactical + Clown + Firing Line (if hit ammo cap of 7, then run spec mod, otherwise more ammo is better) tags:god-pve
 dimwishlist:item=2807687156&perks=1840239774,1087426260,2284787283,1771339417
@@ -18043,11 +17616,6 @@ dimwishlist:item=2807687156&perks=2284787283,1771339417
 //notes: PvP: Fluted + Accurized + Pulse Monitor + Snapshot/Opening Shot tags:pvp
 dimwishlist:item=2807687156&perks=972757866,957782887
 dimwishlist:item=2807687156&perks=972757866,47981717
-
-
-// Distant Tumulus ()
-//notes: If hit ammo cap of 7, then run spec mod, otherwise more ammo is better
-dimwishlist:item=2807687156&perks=
 
 
 // A Sudden Death (god-pve)
@@ -18217,11 +17785,6 @@ dimwishlist:item=2855157553&perks=4071163871,957782887
 dimwishlist:item=2855157553&perks=4071163871,3511092054
 
 
-// A Sudden Death ()
-//notes: This is an aggressive frame shotgun that can have the highest Handling of any in the game on an Arc subclass with Elemental Capacitor and either Threat Detector or Surplus.
-dimwishlist:item=2855157553&perks=
-
-
 // Honor's Edge (god-pve)
 //notes: PvE: Jagged Edge + Swordmasters Guard + Relentless Strikes + En Garde / Surrounded
 
@@ -18246,12 +17809,6 @@ PvP: It’s a sword in PvP it doesn’t matter
  tags:pve
 dimwishlist:item=2857348871&perks=1749209109,1685431615
 dimwishlist:item=2857348871&perks=1749209109,3708227201
-
-
-// Honor's Edge ()
-//notes: PvP: It’s a sword in PvP it doesn’t matter
-
-dimwishlist:item=2857348871&perks=
 
 
 // Hailing Confusion (god-pve)
@@ -18552,13 +18109,6 @@ dimwishlist:item=2891672170&perks=972757866,2726471870
 dimwishlist:item=2891672170&perks=972757866,2450788523
 
 
-// Xenoclast IV ()
-//notes: 1-2p and TB increase burst DPS but do not increase total DPS due to the time it takes to proc the perk. Pick the perks that have the most synergy with your playstyle.
-
-Slideshot and Killing Wind each add ~20 range stat making 86+ range possible. However, pellet spread RNG is the determinant factor for one hit kills.
-dimwishlist:item=2891672170&perks=
-
-
 // Dream Breaker (god-pve)
 //notes: PvE: Fluted/Corkscrew/Hammer Forged + Liquid Coils + Lead from Gold + Frenzy/Cornered/HIR tags:god-pve
 dimwishlist:item=2931957300&perks=1840239774,1687452232,1556840489,2213355989
@@ -18616,11 +18166,6 @@ dimwishlist:item=2931957300&perks=1645158859,1754714824
 dimwishlist:item=2931957300&perks=1645158859,2213355989
 dimwishlist:item=2931957300&perks=280464955,1754714824
 dimwishlist:item=2931957300&perks=280464955,2213355989
-
-
-// Dream Breaker ()
-//notes: Under Pressure is essentially a better version of Heating Up which doesn’t need a kill. However you do need to choose between the two best in slot perks for fusions, Under Pressure and Firmly Planted
-dimwishlist:item=2931957300&perks=
 
 
 // Toil and Trouble (god-pve)
@@ -18704,11 +18249,6 @@ dimwishlist:item=2957367743&perks=3161816588,588594999
 dimwishlist:item=2957367743&perks=3161816588,957782887
 dimwishlist:item=2957367743&perks=4071163871,588594999
 dimwishlist:item=2957367743&perks=4071163871,957782887
-
-
-// Toil and Trouble ()
-//notes: Unless you have a Worthy Varient Astral Horizon spec’d into Handling, this will be the fastest drawing Aggressive Frame shotgun one can get in the kinetic slot
-dimwishlist:item=2957367743&perks=
 
 
 // Succession (god-pve)
@@ -19181,11 +18721,6 @@ dimwishlist:item=3075224551&perks=2869569095,4104185692
 dimwishlist:item=3075224551&perks=2450788523,3523296417
 
 
-// Threaded Needle ()
-//notes: Frenzy and Vorpal now give the same damage bonus (15%), so it’s your choice which perk. Vorpal affects majors [champs] and bosses, Frenzy affects all enemies and gives a +50 stat bonus to reload speed but takes some time to proc
-dimwishlist:item=3075224551&perks=
-
-
 // False Promises (god-pve)
 //notes: PvE: Fluted/Corkscrew/Hammer Forged + High Cal/Appended + Subsistence/Overflow + Rampage/Swash tags:god-pve
 dimwishlist:item=3143732432&perks=1840239774,1087426260,1820235745,3425386926
@@ -19394,19 +18929,6 @@ PvP: Fluted/Hammer Forged + Accurized + Moving Target/Surplus + Snapshot/Opening
 Worthy Variant
 PvP: Fluted / Hammer Forged + Accurized + Snapshot + Opening Shot tags:pvp
 dimwishlist:item=3164743584&perks=957782887,47981717
-
-
-// Eye of Sol ()
-//notes: Splicer Variant
-PvE: Fluted/Corkscrew/Hammer Forged + Appended/Tac Mag + Surplus/Ensemble + Vorpal/HIR
-
-PvP: Fluted/Hammer Forged + Accurized + Moving Target/Surplus + Snapshot/Opening Shot
-
-Worthy Variant
-PvE: Fluted/Corkscrew/Hammer Forged + Appended/Tac Mag + Field Prep + Vorpal
-
-PvP: Fluted / Hammer Forged + Accurized + Snapshot + Opening Shot
-dimwishlist:item=3164743584&perks=
 
 
 // Memory Interdict (god-pve)
@@ -20074,11 +19596,6 @@ dimwishlist:item=3242168339&perks=247725512,2458213969
 dimwishlist:item=3242168339&perks=247725512,1546637391
 
 
-// Vouchsafe ()
-//notes: Max ammo is known to be 20 [100 mag stat]
-dimwishlist:item=3242168339&perks=
-
-
 // Trinary System (god-pve)
 //notes: PvE: Fluted/Corkscrew/Hammer Forged + Liquid Coils + Surplus/FF/AA + Swash/MKC/Wellspring/Thresh/Demo/Dbreak/KC tags:god-pve
 dimwishlist:item=3258665412&perks=1840239774,1687452232,3436462433,3523296417
@@ -20398,13 +19915,6 @@ dimwishlist:item=3281285075&perks=1354429876,3523296417
 dimwishlist:item=3281285075&perks=1354429876,3425386926
 
 
-// Posterity ()
-//notes: One For All is much better on primaries, but some may prefer Rampage due to the ease to proc
-
-Rampage makes this 3 tap at x2 stacks on all Res [x1 stack can 3 tap at 3 res or lower
-dimwishlist:item=3281285075&perks=
-
-
 // Twilight Oath (god-pve)
 //notes: PvE: Fluted/Corkscrew/Hammer Forged + Tac/Appended Mag + Surplus + Vorpal tags:god-pve
 dimwishlist:item=3297863558&perks=1840239774,106909392,3436462433,1546637391
@@ -20650,11 +20160,6 @@ dimwishlist:item=3325778512&perks=1820235745,3523296417
 //notes: PvP: Hammer Forged/Corkscrew + Ricochet/High Cal/Armour Piercing + Heating Up + Elemental Cap/Snapshot tags:pvp
 dimwishlist:item=3325778512&perks=1570042021,3511092054
 dimwishlist:item=3325778512&perks=1570042021,957782887
-
-
-// A Fine Memorial ()
-//notes: Some excellent PvE rolls on the best MG archetype with a rare elemental type
-dimwishlist:item=3325778512&perks=
 
 
 // The Long Walk (god-pve)
@@ -20917,13 +20422,6 @@ dimwishlist:item=3356526253&perks=4071163871,3300816228
 dimwishlist:item=3356526253&perks=2869569095,3300816228
 
 
-// Wishbringer ()
-//notes: Honestly, this archetype is just so bad everywhere and has been for a long time.
-
-Rapid Fire shotguns have a base mag of 7 so Slideshot loads two shells on activation.
-dimwishlist:item=3356526253&perks=
-
-
 // Bequest (god-pve)
 //notes: PvE: Jagged Edge + Swordmasters/Balanced Guard + Relentless/Thresh + En Guard/Assassins Blade
 
@@ -20959,14 +20457,6 @@ dimwishlist:item=3366545721&perks=1749209109,354401740
 dimwishlist:item=3366545721&perks=1749209109,1685431615
 dimwishlist:item=3366545721&perks=2726471870,354401740
 dimwishlist:item=3366545721&perks=2726471870,1685431615
-
-
-// Bequest ()
-//notes: This sword is an interesting case. Without the combo of Relentless Strikes + Whirlwind Blade to allow it to stack up against other swords for boss damage, you have to get creative. Relentless + En Guard can give some good quick burst of damage, while Thresh + Assassins Blade could have it’s place against Taniks as Div.
-
-PvP: It really doesn’t matter
-
-dimwishlist:item=3366545721&perks=
 
 
 // Reckless Oracle (god-pve)
@@ -21133,11 +20623,6 @@ dimwishlist:item=3409645497&perks=588594999,3425386926
 dimwishlist:item=3409645497&perks=588594999,2726471870
 dimwishlist:item=3409645497&perks=2450788523,3425386926
 dimwishlist:item=3409645497&perks=2450788523,2726471870
-
-
-// Legal Action II ()
-//notes: This pulse has the highest range in it’s archetype. With 22 base zoom and Killing Wind proc’d, it can reach up to 50m before it encounters damage falloff. Despite this amazing range the maps are not set up for such long range weapons, and combined with Legal Action’s mediocre perks it cannot beat Messenger for best in slot
-dimwishlist:item=3409645497&perks=
 
 
 // Omniscient Eye (god-pve)
@@ -21592,11 +21077,6 @@ dimwishlist:item=3473290087&perks=2866798147,1015611457
 dimwishlist:item=3473290087&perks=2866798147,2458213969
 
 
-// Frozen Orbit ()
-//notes: This sniper has some interesting rolls. With KC and MKC it can get ohk body shots, and Vorpal makes it one of the ways to counter a behemoth super. However, these all roll in the same slot as the handling perks, so you are giving up better ads and feel for these build perks
-dimwishlist:item=3473290087&perks=
-
-
 // Night Watch (god-pve)
 //notes: PvE: Curated // Fluted/Corkscrew/Hammer Forged + Tac/Appended + Rapid Hit + Demo/Rampage/MKC/Explosive Payload tags:god-pve
 dimwishlist:item=3504336176&perks=1840239774,106909392,247725512,3038247973
@@ -21689,11 +21169,6 @@ dimwishlist:item=3504336176&perks=247725512,3038247973
 dimwishlist:item=3504336176&perks=957782887,3425386926
 dimwishlist:item=3504336176&perks=957782887,588594999
 dimwishlist:item=3504336176&perks=957782887,3038247973
-
-
-// Night Watch ()
-//notes: The Night watch you get as part of the New Light quest is the curated version, and is currently the only way to get this roll on the weapon. Make sure you keep it.
-dimwishlist:item=3504336176&perks=
 
 
 // Coriolis Force (god-pve)
@@ -22297,11 +21772,6 @@ dimwishlist:item=3556999246&perks=1168162263,3511092054
 dimwishlist:item=3556999246&perks=1168162263,2458213969
 
 
-// Pleiades Corrector ()
-//notes: 25 zoom at base - 5 more than Nightwatch and Vouchsafe
-dimwishlist:item=3556999246&perks=
-
-
 // Crowd Pleaser (god-pve)
 //notes: PvE: Hard/Quick + spikes + Field Prep/Clown/Threat Detector + Chain Reaction/Demo
 
@@ -22370,15 +21840,6 @@ dimwishlist:item=3565520715&perks=4071163871,3523296417
 Inverse of Spikes, we want increased blast radius when using Proximity Grenades - but not at the cost of other stats.
  tags:pvp
 dimwishlist:item=3565520715&perks=4071163871,3425386926
-
-
-// Crowd Pleaser ()
-//notes: Not as strong of rolls as Interference, but still can get 7 spike grenades with backup mag.
-
-PvE: Spike grenades benefit from reduced blast radius as that shifts more damage to impact damage. Velocity barrels are acceptable, but avoid Confined Launch and Volatile Launch if using spike grenades.
-
-PvP: Inverse of Spikes, we want increased blast radius when using Proximity Grenades - but not at the cost of other stats.
-dimwishlist:item=3565520715&perks=
 
 
 // The Time-Worn Spire (god-pve)
@@ -22475,11 +21936,6 @@ dimwishlist:item=3593598010&perks=1645158859,11551321
 dimwishlist:item=3593598010&perks=1645158859,3425386926
 
 
-// The Time-Worn Spire ()
-//notes: Scopes affect zoom which has a massive effect on drop off. Red Dot Micro is best in slot.
-dimwishlist:item=3593598010&perks=
-
-
 // First In, Last Out (god-pve)
 //notes: PvE: Fluted/Corkscrew/Hammer Forged + Assault + ALH + Vorpal/Demo tags:god-pve
 dimwishlist:item=3616586446&perks=1840239774,791862061,3300816228,1546637391
@@ -22547,12 +22003,6 @@ dimwishlist:item=3629968765&perks=938542991,52780822,1749209109,3913600130
 PvP: It doesn’t matter
  tags:pve
 dimwishlist:item=3629968765&perks=1749209109,3913600130
-
-
-// Negative Space ()
-//notes: PvP: It doesn’t matter
-
-dimwishlist:item=3629968765&perks=
 
 
 // Eye of Sol (Adept) (god-pve)
@@ -22705,19 +22155,6 @@ PvP: Fluted / Hammer Forged + Accurized + Snapshot + Opening Shot tags:pvp
 dimwishlist:item=3637570176&perks=957782887,47981717
 
 
-// Eye of Sol (Adept) ()
-//notes: Splicer Variant
-PvE: Fluted/Corkscrew/Hammer Forged + Appended/Tac Mag + Surplus/Ensemble + Vorpal/HIR
-
-PvP: Fluted/Hammer Forged + Accurized + Moving Target/Surplus + Snapshot/Opening Shot
-
-Worthy Variant
-PvE: Fluted/Corkscrew/Hammer Forged + Appended/Tac Mag + Field Prep + Vorpal
-
-PvP: Fluted / Hammer Forged + Accurized + Snapshot + Opening Shot
-dimwishlist:item=3637570176&perks=
-
-
 // Praedyth's Revenge (god-pve)
 //notes: PvE: Fluted/Corkscrew/Hammer Forged + Tac/Extended Mag + Rewind Rounds + Frenzy/HIR tags:god-pve
 dimwishlist:item=3653573172&perks=1840239774,106909392,3418782618,2213355989
@@ -22763,12 +22200,6 @@ dimwishlist:item=3653573172&perks=3418782618,2213355989
  tags:pvp
 dimwishlist:item=3653573172&perks=588594999,47981717
 dimwishlist:item=3653573172&perks=588594999,1015611457
-
-
-// Praedyth's Revenge ()
-//notes: PvP: Handling Mw
-
-dimwishlist:item=3653573172&perks=
 
 
 // Dead Man's Tale (god-pvp)
@@ -22863,11 +22294,6 @@ PvP: Arrowhead/Corkscrew/Fluted + Ricochet/High Cal/Accurized/Armour Piercing + 
 Really, only vorpal matters, then I would prioritize handling and recoil direction. Base range 71M (64 range stat) max range 76.6M (86 range stat) 81.8M+ maxed stat (86 stat and Killing Wind Active) tags:pvp,pve
 dimwishlist:item=3654674561&perks=1546637391,1067908860
 dimwishlist:item=3654674561&perks=1546637391,3465198467
-
-
-// Dead Man's Tale ()
-//notes: Really, only vorpal matters, then I would prioritize handling and recoil direction. Base range 71M (64 range stat) max range 76.6M (86 range stat) 81.8M+ maxed stat (86 stat and Killing Wind Active)
-dimwishlist:item=3654674561&perks=
 
 
 // The Messenger (god-pve)
@@ -23035,11 +22461,6 @@ dimwishlist:item=3658188704&perks=588594999,3047969693
 dimwishlist:item=3658188704&perks=588594999,1015611457
 
 
-// The Messenger ()
-//notes: Desperado returns on High Impact pulses, bringing with it the 0.4 second ttk. This is the best primary ttk in the game outside of a few select exotics or combos . GET THIS GUN WITH DESPERADO
-dimwishlist:item=3658188704&perks=
-
-
 // Hoosegow (god-pve)
 //notes: PvE: Hard/Quick Launch + Impact Casing + Field Prep + Demo/Cluster
 
@@ -23088,11 +22509,6 @@ dimwishlist:item=3669616453&perks=2869569095,1275731761
 Good perk table, but adaptive frame seems to be relatively weak compared to other frames.
  tags:pvp
 dimwishlist:item=3669616453&perks=3977735242,1275731761
-
-
-// Hoosegow ()
-//notes: Good perk table, but adaptive frame seems to be relatively weak compared to other frames.
-dimwishlist:item=3669616453&perks=
 
 
 // Shayura's Wrath (god-pve)
@@ -23346,14 +22762,6 @@ dimwishlist:item=3717177717&perks=706527188,1015611457
 dimwishlist:item=3717177717&perks=706527188,591790007
 
 
-// Multimach CCX ()
-//notes: The medium zoom scopes add +3 / 4 to zoom which has a massive impact on damage drop off. Model 8 Red pushes it to 17 zoom which makes this the best in slot SMG by a long shot (get it? Because it has more range?) pushing a 60 stat SMG to 20M base range.
-
-Deciding between Kill Clip and Iron Reach comes down to deciding what you want your smg to be. Iron Reach gives it an extra 3m of range (and with smgs, every metre counts) making it a better dueling weapon, while Kill Clip’s damage buff gives it a nutty ttk and an excellent snowball machine
-
-dimwishlist:item=3717177717&perks=
-
-
 // Sleepless (god-pvp)
 //notes: PvP: Hard/Quick Launch + High Velocity + Tracking + Chain/Vorpal
 
@@ -23424,11 +22832,6 @@ dimwishlist:item=3740842661&perks=3300816228,1546637391
 dimwishlist:item=3740842661&perks=2869569095,2396489472
 dimwishlist:item=3740842661&perks=2869569095,3523296417
 dimwishlist:item=3740842661&perks=2869569095,1546637391
-
-
-// Sleepless ()
-//notes: Lower velocity results in better tracking.
-dimwishlist:item=3740842661&perks=
 
 
 // Shepherd's Watch (god-pvp)
@@ -23509,11 +22912,6 @@ dimwishlist:item=3743729616&perks=1645158859,47981717
 dimwishlist:item=3743729616&perks=1645158859,957782887
 dimwishlist:item=3743729616&perks=588594999,47981717
 dimwishlist:item=3743729616&perks=588594999,957782887
-
-
-// Shepherd's Watch ()
-//notes: Under Pressure gives increased aim assist when on low ammo, essentially operating as a minor version of Opening Shot
-dimwishlist:item=3743729616&perks=
 
 
 // Long Shadow (god-pve)
@@ -23684,11 +23082,6 @@ dimwishlist:item=3799980700&perks=1840239774,4134353779,3425386926,1015611457
 dimwishlist:item=3799980700&perks=3425386926,1015611457
 
 
-// Transfiguration ()
-//notes: Curated (Shuro Chi) PvE: Fluted + Light Mag + Outlaw + Explosive Payload
-dimwishlist:item=3799980700&perks=
-
-
 // Finite Impactor (god-pvp)
 //notes: PvP: Hitmark/Truesight/Steadyhand/Fastdraw + Ricochet/High Cal/Armour Piercing + Firmly Planted/Killing Wind + Iron Reach/Elemental Capacitor/MKC
 
@@ -23816,11 +23209,6 @@ dimwishlist:item=3813153080&perks=2450788523,2458213969
 // Finite Impactor (pve)
 //notes: PvE: Truesight/Fastdraw/Steadyhand/Hitmark + High Cal/Appended/Flared + Slideways + MKC tags:pve
 dimwishlist:item=3813153080&perks=2039302152,2458213969
-
-
-// Finite Impactor ()
-//notes: Despite Iron Reach greatly increasing the range, this gun has to stand up against the stat monster that is Palindrome. Even while fully statted into Range, it loses to Pali by 3m. While this might be an alternative for those who dislike the zoom that Rangefinder gives, it’s better off being used on an Arc Subclass with Elemental Capacitor for a huge Handling stat or relegated to the trash
-dimwishlist:item=3813153080&perks=
 
 
 // Horror Story (god-pve)
@@ -23989,11 +23377,6 @@ dimwishlist:item=3836861464&perks=2450788523,1890422124
 dimwishlist:item=3836861464&perks=1359896290,1890422124
 
 
-// THE SWARM (Adept) ()
-//notes: Curated Bane of Sorrow returns with Outlaw + Dfly
-dimwishlist:item=3836861464&perks=
-
-
 // Sola's Scar (Adept) (god-pve)
 //notes: PvE: Jagged Edge + Swordmasters/Balanced Guard + Relentless Strikes/Tireless Blade + Vorpal/Frenzy
 
@@ -24023,11 +23406,6 @@ dimwishlist:item=3847137620&perks=1749209109,1546637391
 dimwishlist:item=3847137620&perks=1749209109,4104185692
 dimwishlist:item=3847137620&perks=2590710093,1546637391
 dimwishlist:item=3847137620&perks=2590710093,4104185692
-
-
-// Sola's Scar (Adept) ()
-//notes: PvP: It’s a sword in PvP. You’re using it for 3 peaking or heavy attack, and you don’t need any specific perks for that
-dimwishlist:item=3847137620&perks=
 
 
 // Hawkmoon (god-pve)
@@ -24089,14 +23467,6 @@ dimwishlist:item=3856705927&perks=699525795,862848869
 dimwishlist:item=3856705927&perks=699525795,3438534621
 
 
-// Hawkmoon ()
-//notes: Opening Shot is arguably the best in slot perk. Rangefinder is generally the go to (it does add ~3M of base range) but Hawkmoon is a run and gun weapon (in my opinion) - if you want range, run a 120 or Luna Faction boots. Opening Shot gives serious bonus to accuracy on ground and in air and helps guarantee landing the first crit (or 7 stack OHKO if you wait for perk to reset).
-
-Moving Target is nearly worthless due to high base AA stat.
-
-dimwishlist:item=3856705927&perks=
-
-
 // Night Terror (god-pve)
 //notes: PvE: Jagged Edge + Swordmasters Guard + Relentless Strikes + Vorpal/Whirlwind Blade
 
@@ -24118,11 +23488,6 @@ dimwishlist:item=3870811754&perks=3666208348,269888150,1749209109,1546637391
 PvP: It’s a sword, it doesn’t matter tags:pve
 dimwishlist:item=3870811754&perks=1749209109,3913600130
 dimwishlist:item=3870811754&perks=1749209109,1546637391
-
-
-// Night Terror ()
-//notes: PvP: It’s a sword, it doesn’t matter
-dimwishlist:item=3870811754&perks=
 
 
 // Loud Lullaby (god-pve)
@@ -24249,12 +23614,6 @@ dimwishlist:item=3924212056&perks=3436462433,4104185692
 dimwishlist:item=3924212056&perks=3436462433,3038247973
 dimwishlist:item=3924212056&perks=1820235745,4104185692
 dimwishlist:item=3924212056&perks=1820235745,3038247973
-
-
-// Loud Lullaby ()
-//notes: This gun can get some really nice rolls, but the most important part is Kill Clip, allowing it to two tap after the damage nerf, Depending on how the gun feels for you, the split minor stat boost barrels and steady rounds can help to make up for the terrible base stats
-
-dimwishlist:item=3924212056&perks=
 
 
 // Seventh Seraph SI-2 (god-pve)
@@ -24865,13 +24224,6 @@ dimwishlist:item=4146702548&perks=4071163871,3425386926
 dimwishlist:item=4146702548&perks=4071163871,706527188
 
 
-// Outrageous Fortune ()
-//notes: PvE: Spike grenades benefit from reduced blast radius as that shifts more damage to impact damage. Velocity barrels are acceptable, but avoid Confined Launch and Volatile Launch if using spike grenades.
-
-PvP: Inverse of Spikes, we want increased blast radius when using Proximity Grenades - but not at the cost of other stats.
-dimwishlist:item=4146702548&perks=
-
-
 // The Third Axiom (god-pve)
 //notes: PvE: Fluted/Corkscrew/Hammer Forged + High Cal/Appended/Light Mag + FF/Surplus + One for All/MKC/Dfly/Dbreak/Rampage tags:god-pve
 dimwishlist:item=4156253727&perks=1840239774,1087426260,3436462433,4049631843
@@ -25189,11 +24541,6 @@ dimwishlist:item=4248569242&perks=3300816228,957782887
 dimwishlist:item=4248569242&perks=3300816228,588594999
 dimwishlist:item=4248569242&perks=3300816228,2450788523
 dimwishlist:item=4248569242&perks=3300816228,469285294
-
-
-// Heritage ()
-//notes: Recombination x5 can one body all resilience levels. Slideshot and Killing Wind both boost OHKO range and do stack when both are active. Heritage’s base range stat is good enough to spec into a handling barrel and Assault mag (no range stat boost should be needed).
-dimwishlist:item=4248569242&perks=
 
 
 // The Hothead (god-pve)
@@ -25516,11 +24863,6 @@ dimwishlist:item=4277547616&perks=280464955,1015611457
 dimwishlist:item=4277547616&perks=280464955,2458213969
 
 
-// Every Waking Moment ()
-//notes: While Subsistance does work against MKC and KC, this weapon is really lacking for good perks, and generally you use enough bullets against slightly tougher red bars that you don’t get all your ammo back, allowing you to proc the reload based perks
-dimwishlist:item=4277547616&perks=
-
-
 // Hung Jury SR4 (god-pve)
 //notes: PvE: Fluted/Corkscrew/Hammer Forged + Tac/Appended Mag + Rapid Hit/Surplus/Subsistence + Adrenaline Junkie/Explosive Payload/OfA/Firefly tags:god-pve
 dimwishlist:item=4281371574&perks=1840239774,106909392,247725512,3038247973
@@ -25662,11 +25004,6 @@ dimwishlist:item=4281371574&perks=3436462433,2551157718
 dimwishlist:item=4281371574&perks=3436462433,3038247973
 
 
-// Hung Jury SR4 ()
-//notes: The 180 3 tap machine returns, now un-sunset. Box Breathing allows the scout to 3 tap to the head in PvP
-dimwishlist:item=4281371574&perks=
-
-
 // Crimil's Dagger (god-pve)
 //notes: PvE: Hitmark/Fastdraw/Steadyhand/Truesight + Tactical/Flared + Outlaw + Kill Clip/Explosive Payload/Timed Payload
 
@@ -25783,13 +25120,5 @@ dimwishlist:item=4292849692&perks=588594999,1954620775
 dimwishlist:item=4292849692&perks=588594999,3038247973
 dimwishlist:item=4292849692&perks=588594999,1015611457
 dimwishlist:item=4292849692&perks=588594999,47981717
-
-
-// Crimil's Dagger ()
-//notes: Crimils is currently the max range 120 HC with RF and KC/Playload. However, the actual range benefits are pretty marginal since 40M is baseish range for 120s. You can go all in on range, but its not really necessary.
-
-One of two 120 handcannons which can still 2 tap.
-
-dimwishlist:item=4292849692&perks=
 
 
