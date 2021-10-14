@@ -2999,6 +2999,93 @@ dimwishlist:item=507038823&perks=3161816588,2846385770
 dimwishlist:item=507038823&perks=2621346526,2846385770
 
 
+// BrayTech Werewolf (god-pve)
+//notes: Fluted/Arrowhead/Corkscrew + Highcal/Flared/Lightmag + FTTC + Vorpal
+
+In PvE, Seraph Carbine does everything this auto rifle does, and it makes Warmind Cells. tags:god-pve
+dimwishlist:item=528834068&perks=1840239774,3230963543,1354429876,1546637391
+
+
+// BrayTech Werewolf (god-pvp)
+//notes: PvP: Cork/Hammer/Smallbore + Highcal/Rico + DSR/Under Pressure + Tap The Trigger/EoTS/Swash
+ tags:god-pvp
+dimwishlist:item=528834068&perks=3250034553,1885400500,1359896290,1890422124
+
+
+// BrayTech Werewolf (pve)
+//notes: Fluted/Arrowhead/Corkscrew + Highcal/Flared/Lightmag + FTTC + Vorpal
+
+In PvE, Seraph Carbine does everything this auto rifle does, and it makes Warmind Cells. tags:pve
+dimwishlist:item=528834068&perks=1840239774,1561002382,1354429876,1546637391
+dimwishlist:item=528834068&perks=1840239774,3230963543,1354429876,1546637391
+dimwishlist:item=528834068&perks=1840239774,679225683,1354429876,1546637391
+dimwishlist:item=528834068&perks=839105230,1561002382,1354429876,1546637391
+dimwishlist:item=528834068&perks=839105230,3230963543,1354429876,1546637391
+dimwishlist:item=528834068&perks=839105230,679225683,1354429876,1546637391
+dimwishlist:item=528834068&perks=4090651448,1561002382,1354429876,1546637391
+dimwishlist:item=528834068&perks=4090651448,3230963543,1354429876,1546637391
+dimwishlist:item=528834068&perks=4090651448,679225683,1354429876,1546637391
+
+
+// BrayTech Werewolf (pvp)
+//notes: PvP: Cork/Hammer/Smallbore + Highcal/Rico + DSR/Under Pressure + Tap The Trigger/EoTS/Swash
+ tags:pvp
+dimwishlist:item=528834068&perks=4090651448,1561002382,1359896290,1890422124
+dimwishlist:item=528834068&perks=4090651448,1561002382,1359896290,699525795
+dimwishlist:item=528834068&perks=4090651448,1561002382,1359896290,4082225868
+dimwishlist:item=528834068&perks=4090651448,1561002382,1645158859,1890422124
+dimwishlist:item=528834068&perks=4090651448,1561002382,1645158859,699525795
+dimwishlist:item=528834068&perks=4090651448,1561002382,1645158859,4082225868
+dimwishlist:item=528834068&perks=4090651448,1885400500,1359896290,1890422124
+dimwishlist:item=528834068&perks=4090651448,1885400500,1359896290,699525795
+dimwishlist:item=528834068&perks=4090651448,1885400500,1359896290,4082225868
+dimwishlist:item=528834068&perks=4090651448,1885400500,1645158859,1890422124
+dimwishlist:item=528834068&perks=4090651448,1885400500,1645158859,699525795
+dimwishlist:item=528834068&perks=4090651448,1885400500,1645158859,4082225868
+dimwishlist:item=528834068&perks=3250034553,1561002382,1359896290,1890422124
+dimwishlist:item=528834068&perks=3250034553,1561002382,1359896290,699525795
+dimwishlist:item=528834068&perks=3250034553,1561002382,1359896290,4082225868
+dimwishlist:item=528834068&perks=3250034553,1561002382,1645158859,1890422124
+dimwishlist:item=528834068&perks=3250034553,1561002382,1645158859,699525795
+dimwishlist:item=528834068&perks=3250034553,1561002382,1645158859,4082225868
+dimwishlist:item=528834068&perks=3250034553,1885400500,1359896290,1890422124
+dimwishlist:item=528834068&perks=3250034553,1885400500,1359896290,699525795
+dimwishlist:item=528834068&perks=3250034553,1885400500,1359896290,4082225868
+dimwishlist:item=528834068&perks=3250034553,1885400500,1645158859,1890422124
+dimwishlist:item=528834068&perks=3250034553,1885400500,1645158859,699525795
+dimwishlist:item=528834068&perks=3250034553,1885400500,1645158859,4082225868
+dimwishlist:item=528834068&perks=1482024992,1561002382,1359896290,1890422124
+dimwishlist:item=528834068&perks=1482024992,1561002382,1359896290,699525795
+dimwishlist:item=528834068&perks=1482024992,1561002382,1359896290,4082225868
+dimwishlist:item=528834068&perks=1482024992,1561002382,1645158859,1890422124
+dimwishlist:item=528834068&perks=1482024992,1561002382,1645158859,699525795
+dimwishlist:item=528834068&perks=1482024992,1561002382,1645158859,4082225868
+dimwishlist:item=528834068&perks=1482024992,1885400500,1359896290,1890422124
+dimwishlist:item=528834068&perks=1482024992,1885400500,1359896290,699525795
+dimwishlist:item=528834068&perks=1482024992,1885400500,1359896290,4082225868
+dimwishlist:item=528834068&perks=1482024992,1885400500,1645158859,1890422124
+dimwishlist:item=528834068&perks=1482024992,1885400500,1645158859,699525795
+dimwishlist:item=528834068&perks=1482024992,1885400500,1645158859,4082225868
+
+
+// BrayTech Werewolf (pvp)
+//notes: PvP: Cork/Hammer/Smallbore + Highcal/Rico + DSR/Under Pressure + Tap The Trigger/EoTS/Swash
+ tags:pvp
+dimwishlist:item=528834068&perks=1359896290,1890422124
+dimwishlist:item=528834068&perks=1359896290,699525795
+dimwishlist:item=528834068&perks=1359896290,4082225868
+dimwishlist:item=528834068&perks=1645158859,1890422124
+dimwishlist:item=528834068&perks=1645158859,699525795
+dimwishlist:item=528834068&perks=1645158859,4082225868
+
+
+// BrayTech Werewolf (pve)
+//notes: Fluted/Arrowhead/Corkscrew + Highcal/Flared/Lightmag + FTTC + Vorpal
+
+In PvE, Seraph Carbine does everything this auto rifle does, and it makes Warmind Cells. tags:pve
+dimwishlist:item=528834068&perks=1354429876,1546637391
+
+
 // Astral Horizon (Adept) (god-pve)
 //notes: Worthy Variant
 PvE: Barrel Shroud/Corkscrew/Full Choke + Assault Mag + Field Prep/ALH + 12 Punch/Swash
@@ -13984,6 +14071,119 @@ dimwishlist:item=2257180473&perks=2869569095,2888557110
 dimwishlist:item=2257180473&perks=2284787283,2888557110
 
 
+// Jurassic Green (god-pve)
+//notes: PvE: Fluted/Arrowhead/Corkscrew + Appended/Flared Magwell/High Cal + Subsistence + Frenzy/MKC
+
+While this pulse is the only solar rapid fire in the game, overall it pales in comparison to Darkest Beyond for PvP. Pick one up for PvE so you’ve got a solar Unstop killer for Season of the Lost, but other than that it’s easy enough to pass this by. tags:god-pve
+dimwishlist:item=2261046232&perks=1840239774,1087426260,1820235745,4104185692
+
+
+// Jurassic Green (god-pvp)
+//notes: PvP: Hammer forged/Fluted/Corkscrew/Arrowhead + Riccochet/High Cal/Armour Piercing + Rangefinder/Killing Wind + MKC/Wellspring
+
+While this pulse is the only solar rapid fire in the game, overall it pales in comparison to Darkest Beyond for PvP. Pick one up for PvE so you’ve got a solar Unstop killer for Season of the Lost, but other than that it’s easy enough to pass this by.
+ tags:god-pvp
+dimwishlist:item=2261046232&perks=839105230,1885400500,2846385770,2458213969
+
+
+// Jurassic Green (pve)
+//notes: PvE: Fluted/Arrowhead/Corkscrew + Appended/Flared Magwell/High Cal + Subsistence + Frenzy/MKC
+
+While this pulse is the only solar rapid fire in the game, overall it pales in comparison to Darkest Beyond for PvP. Pick one up for PvE so you’ve got a solar Unstop killer for Season of the Lost, but other than that it’s easy enough to pass this by. tags:pve
+dimwishlist:item=2261046232&perks=1840239774,1087426260,1820235745,4104185692
+dimwishlist:item=2261046232&perks=1840239774,1087426260,1820235745,2458213969
+dimwishlist:item=2261046232&perks=1840239774,3230963543,1820235745,4104185692
+dimwishlist:item=2261046232&perks=1840239774,3230963543,1820235745,2458213969
+dimwishlist:item=2261046232&perks=1840239774,1561002382,1820235745,4104185692
+dimwishlist:item=2261046232&perks=1840239774,1561002382,1820235745,2458213969
+dimwishlist:item=2261046232&perks=839105230,1087426260,1820235745,4104185692
+dimwishlist:item=2261046232&perks=839105230,1087426260,1820235745,2458213969
+dimwishlist:item=2261046232&perks=839105230,3230963543,1820235745,4104185692
+dimwishlist:item=2261046232&perks=839105230,3230963543,1820235745,2458213969
+dimwishlist:item=2261046232&perks=839105230,1561002382,1820235745,4104185692
+dimwishlist:item=2261046232&perks=839105230,1561002382,1820235745,2458213969
+dimwishlist:item=2261046232&perks=4090651448,1087426260,1820235745,4104185692
+dimwishlist:item=2261046232&perks=4090651448,1087426260,1820235745,2458213969
+dimwishlist:item=2261046232&perks=4090651448,3230963543,1820235745,4104185692
+dimwishlist:item=2261046232&perks=4090651448,3230963543,1820235745,2458213969
+dimwishlist:item=2261046232&perks=4090651448,1561002382,1820235745,4104185692
+dimwishlist:item=2261046232&perks=4090651448,1561002382,1820235745,2458213969
+
+
+// Jurassic Green (pvp)
+//notes: PvP: Hammer forged/Fluted/Corkscrew/Arrowhead + Riccochet/High Cal/Armour Piercing + Rangefinder/Killing Wind + MKC/Wellspring
+
+While this pulse is the only solar rapid fire in the game, overall it pales in comparison to Darkest Beyond for PvP. Pick one up for PvE so you’ve got a solar Unstop killer for Season of the Lost, but other than that it’s easy enough to pass this by.
+ tags:pvp
+dimwishlist:item=2261046232&perks=3250034553,1885400500,2450788523,2458213969
+dimwishlist:item=2261046232&perks=3250034553,1885400500,2450788523,3592538738
+dimwishlist:item=2261046232&perks=3250034553,1885400500,2846385770,2458213969
+dimwishlist:item=2261046232&perks=3250034553,1885400500,2846385770,3592538738
+dimwishlist:item=2261046232&perks=3250034553,1561002382,2450788523,2458213969
+dimwishlist:item=2261046232&perks=3250034553,1561002382,2450788523,3592538738
+dimwishlist:item=2261046232&perks=3250034553,1561002382,2846385770,2458213969
+dimwishlist:item=2261046232&perks=3250034553,1561002382,2846385770,3592538738
+dimwishlist:item=2261046232&perks=3250034553,1968497646,2450788523,2458213969
+dimwishlist:item=2261046232&perks=3250034553,1968497646,2450788523,3592538738
+dimwishlist:item=2261046232&perks=3250034553,1968497646,2846385770,2458213969
+dimwishlist:item=2261046232&perks=3250034553,1968497646,2846385770,3592538738
+dimwishlist:item=2261046232&perks=1840239774,1885400500,2450788523,2458213969
+dimwishlist:item=2261046232&perks=1840239774,1885400500,2450788523,3592538738
+dimwishlist:item=2261046232&perks=1840239774,1885400500,2846385770,2458213969
+dimwishlist:item=2261046232&perks=1840239774,1885400500,2846385770,3592538738
+dimwishlist:item=2261046232&perks=1840239774,1561002382,2450788523,2458213969
+dimwishlist:item=2261046232&perks=1840239774,1561002382,2450788523,3592538738
+dimwishlist:item=2261046232&perks=1840239774,1561002382,2846385770,2458213969
+dimwishlist:item=2261046232&perks=1840239774,1561002382,2846385770,3592538738
+dimwishlist:item=2261046232&perks=1840239774,1968497646,2450788523,2458213969
+dimwishlist:item=2261046232&perks=1840239774,1968497646,2450788523,3592538738
+dimwishlist:item=2261046232&perks=1840239774,1968497646,2846385770,2458213969
+dimwishlist:item=2261046232&perks=1840239774,1968497646,2846385770,3592538738
+dimwishlist:item=2261046232&perks=4090651448,1885400500,2450788523,2458213969
+dimwishlist:item=2261046232&perks=4090651448,1885400500,2450788523,3592538738
+dimwishlist:item=2261046232&perks=4090651448,1885400500,2846385770,2458213969
+dimwishlist:item=2261046232&perks=4090651448,1885400500,2846385770,3592538738
+dimwishlist:item=2261046232&perks=4090651448,1561002382,2450788523,2458213969
+dimwishlist:item=2261046232&perks=4090651448,1561002382,2450788523,3592538738
+dimwishlist:item=2261046232&perks=4090651448,1561002382,2846385770,2458213969
+dimwishlist:item=2261046232&perks=4090651448,1561002382,2846385770,3592538738
+dimwishlist:item=2261046232&perks=4090651448,1968497646,2450788523,2458213969
+dimwishlist:item=2261046232&perks=4090651448,1968497646,2450788523,3592538738
+dimwishlist:item=2261046232&perks=4090651448,1968497646,2846385770,2458213969
+dimwishlist:item=2261046232&perks=4090651448,1968497646,2846385770,3592538738
+dimwishlist:item=2261046232&perks=839105230,1885400500,2450788523,2458213969
+dimwishlist:item=2261046232&perks=839105230,1885400500,2450788523,3592538738
+dimwishlist:item=2261046232&perks=839105230,1885400500,2846385770,2458213969
+dimwishlist:item=2261046232&perks=839105230,1885400500,2846385770,3592538738
+dimwishlist:item=2261046232&perks=839105230,1561002382,2450788523,2458213969
+dimwishlist:item=2261046232&perks=839105230,1561002382,2450788523,3592538738
+dimwishlist:item=2261046232&perks=839105230,1561002382,2846385770,2458213969
+dimwishlist:item=2261046232&perks=839105230,1561002382,2846385770,3592538738
+dimwishlist:item=2261046232&perks=839105230,1968497646,2450788523,2458213969
+dimwishlist:item=2261046232&perks=839105230,1968497646,2450788523,3592538738
+dimwishlist:item=2261046232&perks=839105230,1968497646,2846385770,2458213969
+dimwishlist:item=2261046232&perks=839105230,1968497646,2846385770,3592538738
+
+
+// Jurassic Green (pve)
+//notes: PvE: Fluted/Arrowhead/Corkscrew + Appended/Flared Magwell/High Cal + Subsistence + Frenzy/MKC
+
+While this pulse is the only solar rapid fire in the game, overall it pales in comparison to Darkest Beyond for PvP. Pick one up for PvE so you’ve got a solar Unstop killer for Season of the Lost, but other than that it’s easy enough to pass this by. tags:pve
+dimwishlist:item=2261046232&perks=1820235745,4104185692
+dimwishlist:item=2261046232&perks=1820235745,2458213969
+
+
+// Jurassic Green (pvp)
+//notes: PvP: Hammer forged/Fluted/Corkscrew/Arrowhead + Riccochet/High Cal/Armour Piercing + Rangefinder/Killing Wind + MKC/Wellspring
+
+While this pulse is the only solar rapid fire in the game, overall it pales in comparison to Darkest Beyond for PvP. Pick one up for PvE so you’ve got a solar Unstop killer for Season of the Lost, but other than that it’s easy enough to pass this by.
+ tags:pvp
+dimwishlist:item=2261046232&perks=2450788523,2458213969
+dimwishlist:item=2261046232&perks=2450788523,3592538738
+dimwishlist:item=2261046232&perks=2846385770,2458213969
+dimwishlist:item=2261046232&perks=2846385770,3592538738
+
+
 // Stochastic Variable (god-pve)
 //notes: PvE: Fluted/Corkscrew/Hammer Forged + Appended/Flared/Light Mag/Hi-Cal + Surplus/Feeding Frenzy + Dragonfly/MKC
  tags:god-pve
@@ -23744,20 +23944,23 @@ dimwishlist:item=3813153080&perks=2039302152,2458213969
 
 // Horror Story (god-pve)
 //notes: PvE: Hitmark/Cleanshot/Red Dot Micro/Red Dot 2 MOA + Tac/Appended/Flared + Outlaw/Subsistence + Demo
- tags:god-pve
+
+In PvE, Seraph Carbine does everything this auto rifle does, and it makes Warmind Cells. tags:god-pve
 dimwishlist:item=3829285960&perks=13792278,106909392,1168162263,3523296417
 dimwishlist:item=3829285960&perks=2405638014,106909392,1168162263,3523296417
 
 
 // Horror Story (god-pvp)
-//notes: PvP: Red Dot Micro/Red Dot 2 MOA + Accurized + Firmly Planted/Outlaw + Demo/Moving Target/Slideways
- tags:god-pvp
+//notes: PvP: Red Dot Micro/Red Dot 2 MOA + Accurized + Firmly Planted/Outlaw + Demo/Moving Target
+
+In PvP this auto can get longer range than Braytech Werewolf due to the scopes, but be careful with using the Long Zoom scopes (Rifle Scope ST + SSF), as these can put the auto in Scout Rifle zoom levels tags:god-pvp
 dimwishlist:item=3829285960&perks=2405638014,3142289711,280464955,588594999
 
 
 // Horror Story (pve)
 //notes: PvE: Hitmark/Cleanshot/Red Dot Micro/Red Dot 2 MOA + Tac/Appended/Flared + Outlaw/Subsistence + Demo
- tags:pve
+
+In PvE, Seraph Carbine does everything this auto rifle does, and it makes Warmind Cells. tags:pve
 dimwishlist:item=3829285960&perks=13792278,1087426260,1168162263,3523296417
 dimwishlist:item=3829285960&perks=13792278,1087426260,1820235745,3523296417
 dimwishlist:item=3829285960&perks=13792278,106909392,1168162263,3523296417
@@ -23785,44 +23988,44 @@ dimwishlist:item=3829285960&perks=2405638015,3230963543,1820235745,3523296417
 
 
 // Horror Story (pvp)
-//notes: PvP: Red Dot Micro/Red Dot 2 MOA + Accurized + Firmly Planted/Outlaw + Demo/Moving Target/Slideways
- tags:pvp
+//notes: PvP: Red Dot Micro/Red Dot 2 MOA + Accurized + Firmly Planted/Outlaw + Demo/Moving Target
+
+In PvP this auto can get longer range than Braytech Werewolf due to the scopes, but be careful with using the Long Zoom scopes (Rifle Scope ST + SSF), as these can put the auto in Scout Rifle zoom levels tags:pvp
 dimwishlist:item=3829285960&perks=2405638015,3142289711,280464955,3523296417
 dimwishlist:item=3829285960&perks=2405638015,3142289711,280464955,588594999
-dimwishlist:item=3829285960&perks=2405638015,3142289711,280464955,2039302152
 dimwishlist:item=3829285960&perks=2405638015,3142289711,1168162263,3523296417
 dimwishlist:item=3829285960&perks=2405638015,3142289711,1168162263,588594999
-dimwishlist:item=3829285960&perks=2405638015,3142289711,1168162263,2039302152
 dimwishlist:item=3829285960&perks=2405638014,3142289711,280464955,3523296417
 dimwishlist:item=3829285960&perks=2405638014,3142289711,280464955,588594999
-dimwishlist:item=3829285960&perks=2405638014,3142289711,280464955,2039302152
 dimwishlist:item=3829285960&perks=2405638014,3142289711,1168162263,3523296417
 dimwishlist:item=3829285960&perks=2405638014,3142289711,1168162263,588594999
-dimwishlist:item=3829285960&perks=2405638014,3142289711,1168162263,2039302152
 
 
 // Horror Story (pve,pvp)
 //notes: PvE: Hitmark/Cleanshot/Red Dot Micro/Red Dot 2 MOA + Tac/Appended/Flared + Outlaw/Subsistence + Demo
 
-PvP: Red Dot Micro/Red Dot 2 MOA + Accurized + Firmly Planted/Outlaw + Demo/Moving Target/Slideways
+PvP: Red Dot Micro/Red Dot 2 MOA + Accurized + Firmly Planted/Outlaw + Demo/Moving Target
+
+In PvE, Seraph Carbine does everything this auto rifle does, and it makes Warmind Cells. In PvP this auto can get longer range than Braytech Werewolf due to the scopes, but be careful with using the Long Zoom scopes (Rifle Scope ST + SSF), as these can put the auto in Scout Rifle zoom levels
  tags:pve,pvp
 dimwishlist:item=3829285960&perks=1168162263,3523296417
 
 
 // Horror Story (pvp)
-//notes: PvP: Red Dot Micro/Red Dot 2 MOA + Accurized + Firmly Planted/Outlaw + Demo/Moving Target/Slideways
+//notes: PvP: Red Dot Micro/Red Dot 2 MOA + Accurized + Firmly Planted/Outlaw + Demo/Moving Target
+
+In PvP this auto can get longer range than Braytech Werewolf due to the scopes, but be careful with using the Long Zoom scopes (Rifle Scope ST + SSF), as these can put the auto in Scout Rifle zoom levels
  tags:pvp
 dimwishlist:item=3829285960&perks=280464955,3523296417
 dimwishlist:item=3829285960&perks=280464955,588594999
-dimwishlist:item=3829285960&perks=280464955,2039302152
 dimwishlist:item=3829285960&perks=1168162263,3523296417
 dimwishlist:item=3829285960&perks=1168162263,588594999
-dimwishlist:item=3829285960&perks=1168162263,2039302152
 
 
 // Horror Story (pve)
 //notes: PvE: Hitmark/Cleanshot/Red Dot Micro/Red Dot 2 MOA + Tac/Appended/Flared + Outlaw/Subsistence + Demo
- tags:pve
+
+In PvE, Seraph Carbine does everything this auto rifle does, and it makes Warmind Cells. tags:pve
 dimwishlist:item=3829285960&perks=1168162263,3523296417
 dimwishlist:item=3829285960&perks=1820235745,3523296417
 
