@@ -8544,7 +8544,7 @@ dimwishlist:item=1216319404&perks=1840239774,106909392,3038247973,3824105627
 
 
 // Fatebringer (Timelost) (god-pvp)
-//notes: PvP: Hammer/Corkscrew + Accurized + Killing Wind/Explosive Payload/Tunnel Vision + KC/Opening Shot
+//notes: PvP: Hammer/Corkscrew/Extended + Accurized + Killing Wind/Explosive Payload/Tunnel Vision + KC/Opening Shot/Eye of the Storm
 
 Kill Clip does not improve TTK - just forgiveness and effective range
 PvP “God Roll” Hammer/(Range Barrel) + Accurized + Explosive + Opening Shot + Range MW tags:god-pvp
@@ -8606,22 +8606,37 @@ dimwishlist:item=1216319404&perks=3250034553,106909392,3418782618,3824105627
 
 
 // Fatebringer (Timelost) (pvp)
-//notes: PvP: Hammer/Corkscrew + Accurized + Killing Wind/Explosive Payload/Tunnel Vision + KC/Opening Shot
+//notes: PvP: Hammer/Corkscrew/Extended + Accurized + Killing Wind/Explosive Payload/Tunnel Vision + KC/Opening Shot/Eye of the Storm
 
 Kill Clip does not improve TTK - just forgiveness and effective range
 PvP “God Roll” Hammer/(Range Barrel) + Accurized + Explosive + Opening Shot + Range MW tags:pvp
 dimwishlist:item=1216319404&perks=3250034553,3142289711,3038247973,1015611457
 dimwishlist:item=1216319404&perks=3250034553,3142289711,3038247973,47981717
+dimwishlist:item=1216319404&perks=3250034553,3142289711,3038247973,699525795
 dimwishlist:item=1216319404&perks=3250034553,3142289711,2450788523,1015611457
 dimwishlist:item=1216319404&perks=3250034553,3142289711,2450788523,47981717
+dimwishlist:item=1216319404&perks=3250034553,3142289711,2450788523,699525795
 dimwishlist:item=1216319404&perks=3250034553,3142289711,2946784966,1015611457
 dimwishlist:item=1216319404&perks=3250034553,3142289711,2946784966,47981717
+dimwishlist:item=1216319404&perks=3250034553,3142289711,2946784966,699525795
 dimwishlist:item=1216319404&perks=4090651448,3142289711,3038247973,1015611457
 dimwishlist:item=1216319404&perks=4090651448,3142289711,3038247973,47981717
+dimwishlist:item=1216319404&perks=4090651448,3142289711,3038247973,699525795
 dimwishlist:item=1216319404&perks=4090651448,3142289711,2450788523,1015611457
 dimwishlist:item=1216319404&perks=4090651448,3142289711,2450788523,47981717
+dimwishlist:item=1216319404&perks=4090651448,3142289711,2450788523,699525795
 dimwishlist:item=1216319404&perks=4090651448,3142289711,2946784966,1015611457
 dimwishlist:item=1216319404&perks=4090651448,3142289711,2946784966,47981717
+dimwishlist:item=1216319404&perks=4090651448,3142289711,2946784966,699525795
+dimwishlist:item=1216319404&perks=1467527085,3142289711,3038247973,1015611457
+dimwishlist:item=1216319404&perks=1467527085,3142289711,3038247973,47981717
+dimwishlist:item=1216319404&perks=1467527085,3142289711,3038247973,699525795
+dimwishlist:item=1216319404&perks=1467527085,3142289711,2450788523,1015611457
+dimwishlist:item=1216319404&perks=1467527085,3142289711,2450788523,47981717
+dimwishlist:item=1216319404&perks=1467527085,3142289711,2450788523,699525795
+dimwishlist:item=1216319404&perks=1467527085,3142289711,2946784966,1015611457
+dimwishlist:item=1216319404&perks=1467527085,3142289711,2946784966,47981717
+dimwishlist:item=1216319404&perks=1467527085,3142289711,2946784966,699525795
 
 
 // Fatebringer (Timelost) (pve)
@@ -8742,16 +8757,19 @@ dimwishlist:item=1216319404&perks=3038247973,1015611457
 
 
 // Fatebringer (Timelost) (pvp)
-//notes: PvP: Hammer/Corkscrew + Accurized + Killing Wind/Explosive Payload/Tunnel Vision + KC/Opening Shot
+//notes: PvP: Hammer/Corkscrew/Extended + Accurized + Killing Wind/Explosive Payload/Tunnel Vision + KC/Opening Shot/Eye of the Storm
 
 Kill Clip does not improve TTK - just forgiveness and effective range
 PvP “God Roll” Hammer/(Range Barrel) + Accurized + Explosive + Opening Shot + Range MW tags:pvp
 dimwishlist:item=1216319404&perks=3038247973,1015611457
 dimwishlist:item=1216319404&perks=3038247973,47981717
+dimwishlist:item=1216319404&perks=3038247973,699525795
 dimwishlist:item=1216319404&perks=2450788523,1015611457
 dimwishlist:item=1216319404&perks=2450788523,47981717
+dimwishlist:item=1216319404&perks=2450788523,699525795
 dimwishlist:item=1216319404&perks=2946784966,1015611457
 dimwishlist:item=1216319404&perks=2946784966,47981717
+dimwishlist:item=1216319404&perks=2946784966,699525795
 
 
 // IKELOS_SR_v1.0.2 (god-pve)
@@ -13117,7 +13135,7 @@ dimwishlist:item=2171478765&perks=1840239774,106909392,3038247973,3824105627
 
 
 // Fatebringer (god-pvp)
-//notes: PvP: Hammer/Corkscrew + Accurized + Killing Wind/Explosive Payload/Tunnel Vision + KC/Opening Shot
+//notes: PvP: Hammer/Corkscrew/Extended + Accurized + Killing Wind/Explosive Payload/Tunnel Vision + KC/Opening Shot/Eye of the Storm
 
 Kill Clip does not improve TTK - just forgiveness and effective range
 PvP “God Roll” Hammer/(Range Barrel) + Accurized + Explosive + Opening Shot + Range MW tags:god-pvp
@@ -13179,22 +13197,37 @@ dimwishlist:item=2171478765&perks=3250034553,106909392,3418782618,3824105627
 
 
 // Fatebringer (pvp)
-//notes: PvP: Hammer/Corkscrew + Accurized + Killing Wind/Explosive Payload/Tunnel Vision + KC/Opening Shot
+//notes: PvP: Hammer/Corkscrew/Extended + Accurized + Killing Wind/Explosive Payload/Tunnel Vision + KC/Opening Shot/Eye of the Storm
 
 Kill Clip does not improve TTK - just forgiveness and effective range
 PvP “God Roll” Hammer/(Range Barrel) + Accurized + Explosive + Opening Shot + Range MW tags:pvp
 dimwishlist:item=2171478765&perks=3250034553,3142289711,3038247973,1015611457
 dimwishlist:item=2171478765&perks=3250034553,3142289711,3038247973,47981717
+dimwishlist:item=2171478765&perks=3250034553,3142289711,3038247973,699525795
 dimwishlist:item=2171478765&perks=3250034553,3142289711,2450788523,1015611457
 dimwishlist:item=2171478765&perks=3250034553,3142289711,2450788523,47981717
+dimwishlist:item=2171478765&perks=3250034553,3142289711,2450788523,699525795
 dimwishlist:item=2171478765&perks=3250034553,3142289711,2946784966,1015611457
 dimwishlist:item=2171478765&perks=3250034553,3142289711,2946784966,47981717
+dimwishlist:item=2171478765&perks=3250034553,3142289711,2946784966,699525795
 dimwishlist:item=2171478765&perks=4090651448,3142289711,3038247973,1015611457
 dimwishlist:item=2171478765&perks=4090651448,3142289711,3038247973,47981717
+dimwishlist:item=2171478765&perks=4090651448,3142289711,3038247973,699525795
 dimwishlist:item=2171478765&perks=4090651448,3142289711,2450788523,1015611457
 dimwishlist:item=2171478765&perks=4090651448,3142289711,2450788523,47981717
+dimwishlist:item=2171478765&perks=4090651448,3142289711,2450788523,699525795
 dimwishlist:item=2171478765&perks=4090651448,3142289711,2946784966,1015611457
 dimwishlist:item=2171478765&perks=4090651448,3142289711,2946784966,47981717
+dimwishlist:item=2171478765&perks=4090651448,3142289711,2946784966,699525795
+dimwishlist:item=2171478765&perks=1467527085,3142289711,3038247973,1015611457
+dimwishlist:item=2171478765&perks=1467527085,3142289711,3038247973,47981717
+dimwishlist:item=2171478765&perks=1467527085,3142289711,3038247973,699525795
+dimwishlist:item=2171478765&perks=1467527085,3142289711,2450788523,1015611457
+dimwishlist:item=2171478765&perks=1467527085,3142289711,2450788523,47981717
+dimwishlist:item=2171478765&perks=1467527085,3142289711,2450788523,699525795
+dimwishlist:item=2171478765&perks=1467527085,3142289711,2946784966,1015611457
+dimwishlist:item=2171478765&perks=1467527085,3142289711,2946784966,47981717
+dimwishlist:item=2171478765&perks=1467527085,3142289711,2946784966,699525795
 
 
 // Fatebringer (pve)
@@ -13315,16 +13348,19 @@ dimwishlist:item=2171478765&perks=3038247973,1015611457
 
 
 // Fatebringer (pvp)
-//notes: PvP: Hammer/Corkscrew + Accurized + Killing Wind/Explosive Payload/Tunnel Vision + KC/Opening Shot
+//notes: PvP: Hammer/Corkscrew/Extended + Accurized + Killing Wind/Explosive Payload/Tunnel Vision + KC/Opening Shot/Eye of the Storm
 
 Kill Clip does not improve TTK - just forgiveness and effective range
 PvP “God Roll” Hammer/(Range Barrel) + Accurized + Explosive + Opening Shot + Range MW tags:pvp
-dimwishlist:item=2171478765&perks=3038247973,1015611457
-dimwishlist:item=2171478765&perks=3038247973,47981717
-dimwishlist:item=2171478765&perks=2450788523,1015611457
-dimwishlist:item=2171478765&perks=2450788523,47981717
-dimwishlist:item=2171478765&perks=2946784966,1015611457
+dimwishlist:item=2171478765&perks=2946784966,699525795
 dimwishlist:item=2171478765&perks=2946784966,47981717
+dimwishlist:item=2171478765&perks=2946784966,1015611457
+dimwishlist:item=2171478765&perks=3038247973,699525795
+dimwishlist:item=2171478765&perks=3038247973,47981717
+dimwishlist:item=2171478765&perks=3038247973,1015611457
+dimwishlist:item=2171478765&perks=2450788523,699525795
+dimwishlist:item=2171478765&perks=2450788523,47981717
+dimwishlist:item=2171478765&perks=2450788523,1015611457
 
 
 // Lonesome (god-pve)
