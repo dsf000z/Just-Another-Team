@@ -6113,8 +6113,8 @@ dimwishlist:item=893527433&perks=1840239774,1087426260,3300816228,4104185692
 
 
 // Far Future (god-pvp)
-//notes: PvP: Hammer/Fluted + Accurized + Quickdraw + Opening Shot tags:god-pvp
-dimwishlist:item=893527433&perks=3250034553,3142289711,706527188,47981717
+//notes: PvP: Hammer/Fluted + Accurized + Surplus/Slideshot + Opening Shot tags:god-pvp
+dimwishlist:item=893527433&perks=3250034553,3142289711,3436462433,47981717
 
 
 // Far Future (pve)
@@ -6146,9 +6146,11 @@ dimwishlist:item=893527433&perks=3250034553,106909392,3300816228,4104185692
 
 
 // Far Future (pvp)
-//notes: PvP: Hammer/Fluted + Accurized + Quickdraw + Opening Shot tags:pvp
-dimwishlist:item=893527433&perks=3250034553,3142289711,706527188,47981717
-dimwishlist:item=893527433&perks=1840239774,3142289711,706527188,47981717
+//notes: PvP: Hammer/Fluted + Accurized + Surplus/Slideshot + Opening Shot tags:pvp
+dimwishlist:item=893527433&perks=3250034553,3142289711,3436462433,47981717
+dimwishlist:item=893527433&perks=3250034553,3142289711,3161816588,47981717
+dimwishlist:item=893527433&perks=1840239774,3142289711,3436462433,47981717
+dimwishlist:item=893527433&perks=1840239774,3142289711,3161816588,47981717
 
 
 // Far Future (pve)
@@ -6160,8 +6162,9 @@ dimwishlist:item=893527433&perks=3300816228,4104185692
 
 
 // Far Future (pvp)
-//notes: PvP: Hammer/Fluted + Accurized + Quickdraw + Opening Shot tags:pvp
-dimwishlist:item=893527433&perks=706527188,47981717
+//notes: PvP: Hammer/Fluted + Accurized + Surplus/Slideshot + Opening Shot tags:pvp
+dimwishlist:item=893527433&perks=3436462433,47981717
+dimwishlist:item=893527433&perks=3161816588,47981717
 
 
 // Tomorrow's Answer (god-pve)
@@ -8759,9 +8762,11 @@ dimwishlist:item=1253087083&perks=1840239774,1087426260,1354429876,2213355989
 
 
 // IKELOS_SR_v1.0.2 (god-pvp)
-//notes: PvP: Hammer Forged/Corkscrew/Fluted + Accurized/Seraph + Moving Target/No distract + quickdraw tags:god-pvp
+//notes: PvP: Hammer Forged/Corkscrew/Fluted + Accurized/Seraph + Moving Target/No distract + Quickdraw/HIR tags:god-pvp
 dimwishlist:item=1253087083&perks=4090651448,1140096971,588594999,706527188
+dimwishlist:item=1253087083&perks=4090651448,1140096971,588594999,2213355989
 dimwishlist:item=1253087083&perks=1840239774,1140096971,588594999,706527188
+dimwishlist:item=1253087083&perks=1840239774,1140096971,588594999,2213355989
 
 
 // IKELOS_SR_v1.0.2 (pve)
@@ -8789,19 +8794,31 @@ dimwishlist:item=1253087083&perks=3250034553,3230963543,3400784728,2213355989
 
 
 // IKELOS_SR_v1.0.2 (pvp)
-//notes: PvP: Hammer Forged/Corkscrew/Fluted + Accurized/Seraph + Moving Target/No distract + quickdraw tags:pvp
+//notes: PvP: Hammer Forged/Corkscrew/Fluted + Accurized/Seraph + Moving Target/No distract + Quickdraw/HIR tags:pvp
 dimwishlist:item=1253087083&perks=3250034553,1140096971,588594999,706527188
+dimwishlist:item=1253087083&perks=3250034553,1140096971,588594999,2213355989
 dimwishlist:item=1253087083&perks=3250034553,1140096971,2866798147,706527188
+dimwishlist:item=1253087083&perks=3250034553,1140096971,2866798147,2213355989
 dimwishlist:item=1253087083&perks=3250034553,3142289711,588594999,706527188
+dimwishlist:item=1253087083&perks=3250034553,3142289711,588594999,2213355989
 dimwishlist:item=1253087083&perks=3250034553,3142289711,2866798147,706527188
+dimwishlist:item=1253087083&perks=3250034553,3142289711,2866798147,2213355989
 dimwishlist:item=1253087083&perks=4090651448,1140096971,588594999,706527188
+dimwishlist:item=1253087083&perks=4090651448,1140096971,588594999,2213355989
 dimwishlist:item=1253087083&perks=4090651448,1140096971,2866798147,706527188
+dimwishlist:item=1253087083&perks=4090651448,1140096971,2866798147,2213355989
 dimwishlist:item=1253087083&perks=4090651448,3142289711,588594999,706527188
+dimwishlist:item=1253087083&perks=4090651448,3142289711,588594999,2213355989
 dimwishlist:item=1253087083&perks=4090651448,3142289711,2866798147,706527188
+dimwishlist:item=1253087083&perks=4090651448,3142289711,2866798147,2213355989
 dimwishlist:item=1253087083&perks=1840239774,1140096971,588594999,706527188
+dimwishlist:item=1253087083&perks=1840239774,1140096971,588594999,2213355989
 dimwishlist:item=1253087083&perks=1840239774,1140096971,2866798147,706527188
+dimwishlist:item=1253087083&perks=1840239774,1140096971,2866798147,2213355989
 dimwishlist:item=1253087083&perks=1840239774,3142289711,588594999,706527188
+dimwishlist:item=1253087083&perks=1840239774,3142289711,588594999,2213355989
 dimwishlist:item=1253087083&perks=1840239774,3142289711,2866798147,706527188
+dimwishlist:item=1253087083&perks=1840239774,3142289711,2866798147,2213355989
 
 
 // IKELOS_SR_v1.0.2 (pve)
@@ -8813,9 +8830,11 @@ dimwishlist:item=1253087083&perks=3400784728,2213355989
 
 
 // IKELOS_SR_v1.0.2 (pvp)
-//notes: PvP: Hammer Forged/Corkscrew/Fluted + Accurized/Seraph + Moving Target/No distract + quickdraw tags:pvp
+//notes: PvP: Hammer Forged/Corkscrew/Fluted + Accurized/Seraph + Moving Target/No distract + Quickdraw/HIR tags:pvp
 dimwishlist:item=1253087083&perks=588594999,706527188
+dimwishlist:item=1253087083&perks=588594999,2213355989
 dimwishlist:item=1253087083&perks=2866798147,706527188
+dimwishlist:item=1253087083&perks=2866798147,2213355989
 
 
 // Widow's Bite (god-pve)
@@ -12297,7 +12316,7 @@ dimwishlist:item=2050789284&perks=1840239774,106909392,2869569095,3523296417
 
 
 // Stars in Shadow (god-pvp)
-//notes: PvP: Hammer Forged/Polygonal/Smallbore + Accurized + Killing Wind/Quickdraw/Firmly Planted + Headseeker/Kill Clip/Moving Target
+//notes: PvP: Hammer Forged/Polygonal/Smallbore + Accurized + Killing Wind/Firmly Planted + Headseeker/Kill Clip/Moving Target
 
 Pulses do appear to be range capped, so like Cold Denial, it’s best to focus on stability if you get Killing Wind since KW adds +20 range, + 50 mobility, and +~40  handling. This pulse has standard zoom and iron sights like those on Redrix.
  tags:god-pvp
@@ -12391,34 +12410,25 @@ dimwishlist:item=2050789284&perks=3250034553,3230963543,1168162263,1546637391
 
 
 // Stars in Shadow (pvp)
-//notes: PvP: Hammer Forged/Polygonal/Smallbore + Accurized + Killing Wind/Quickdraw/Firmly Planted + Headseeker/Kill Clip/Moving Target
+//notes: PvP: Hammer Forged/Polygonal/Smallbore + Accurized + Killing Wind/Firmly Planted + Headseeker/Kill Clip/Moving Target
 
 Pulses do appear to be range capped, so like Cold Denial, it’s best to focus on stability if you get Killing Wind since KW adds +20 range, + 50 mobility, and +~40  handling. This pulse has standard zoom and iron sights like those on Redrix.
  tags:pvp
 dimwishlist:item=2050789284&perks=3250034553,3142289711,2450788523,460017080
 dimwishlist:item=2050789284&perks=3250034553,3142289711,2450788523,1015611457
 dimwishlist:item=2050789284&perks=3250034553,3142289711,2450788523,588594999
-dimwishlist:item=2050789284&perks=3250034553,3142289711,706527188,460017080
-dimwishlist:item=2050789284&perks=3250034553,3142289711,706527188,1015611457
-dimwishlist:item=2050789284&perks=3250034553,3142289711,706527188,588594999
 dimwishlist:item=2050789284&perks=3250034553,3142289711,280464955,460017080
 dimwishlist:item=2050789284&perks=3250034553,3142289711,280464955,1015611457
 dimwishlist:item=2050789284&perks=3250034553,3142289711,280464955,588594999
 dimwishlist:item=2050789284&perks=1392496348,3142289711,2450788523,460017080
 dimwishlist:item=2050789284&perks=1392496348,3142289711,2450788523,1015611457
 dimwishlist:item=2050789284&perks=1392496348,3142289711,2450788523,588594999
-dimwishlist:item=2050789284&perks=1392496348,3142289711,706527188,460017080
-dimwishlist:item=2050789284&perks=1392496348,3142289711,706527188,1015611457
-dimwishlist:item=2050789284&perks=1392496348,3142289711,706527188,588594999
 dimwishlist:item=2050789284&perks=1392496348,3142289711,280464955,460017080
 dimwishlist:item=2050789284&perks=1392496348,3142289711,280464955,1015611457
 dimwishlist:item=2050789284&perks=1392496348,3142289711,280464955,588594999
 dimwishlist:item=2050789284&perks=1482024992,3142289711,2450788523,460017080
 dimwishlist:item=2050789284&perks=1482024992,3142289711,2450788523,1015611457
 dimwishlist:item=2050789284&perks=1482024992,3142289711,2450788523,588594999
-dimwishlist:item=2050789284&perks=1482024992,3142289711,706527188,460017080
-dimwishlist:item=2050789284&perks=1482024992,3142289711,706527188,1015611457
-dimwishlist:item=2050789284&perks=1482024992,3142289711,706527188,588594999
 dimwishlist:item=2050789284&perks=1482024992,3142289711,280464955,460017080
 dimwishlist:item=2050789284&perks=1482024992,3142289711,280464955,1015611457
 dimwishlist:item=2050789284&perks=1482024992,3142289711,280464955,588594999
@@ -12438,16 +12448,13 @@ dimwishlist:item=2050789284&perks=1168162263,1546637391
 
 
 // Stars in Shadow (pvp)
-//notes: PvP: Hammer Forged/Polygonal/Smallbore + Accurized + Killing Wind/Quickdraw/Firmly Planted + Headseeker/Kill Clip/Moving Target
+//notes: PvP: Hammer Forged/Polygonal/Smallbore + Accurized + Killing Wind/Firmly Planted + Headseeker/Kill Clip/Moving Target
 
 Pulses do appear to be range capped, so like Cold Denial, it’s best to focus on stability if you get Killing Wind since KW adds +20 range, + 50 mobility, and +~40  handling. This pulse has standard zoom and iron sights like those on Redrix.
  tags:pvp
 dimwishlist:item=2050789284&perks=2450788523,460017080
 dimwishlist:item=2050789284&perks=2450788523,1015611457
 dimwishlist:item=2050789284&perks=2450788523,588594999
-dimwishlist:item=2050789284&perks=706527188,460017080
-dimwishlist:item=2050789284&perks=706527188,1015611457
-dimwishlist:item=2050789284&perks=706527188,588594999
 dimwishlist:item=2050789284&perks=280464955,460017080
 dimwishlist:item=2050789284&perks=280464955,1015611457
 dimwishlist:item=2050789284&perks=280464955,588594999
@@ -21597,7 +21604,7 @@ dimwishlist:item=3473290087&perks=1840239774,1087426260,3400784728,1546637391
 
 
 // Frozen Orbit (god-pvp)
-//notes: PvP: Hammer/Fluted/Arrowhead Brake + Accurized + Firmly Planted/Moving Target/Killing Wind/No Distractions + Snapshot/Quickdraw/Opening Shot/KC/MKC
+//notes: PvP: Hammer/Fluted/Arrowhead Brake + Accurized + Firmly Planted/Moving Target/Killing Wind/No Distractions + Snapshot/Opening Shot/KC/MKC
 
 This sniper has some interesting rolls. With KC and MKC it can get ohk body shots, and Vorpal makes it one of the ways to counter a behemoth super. However, these all roll in the same slot as the handling perks, so you are giving up better ads and feel for these build perks
  tags:god-pvp
@@ -21682,67 +21689,55 @@ dimwishlist:item=3473290087&perks=3250034553,1087426260,3400784728,1546637391
 
 
 // Frozen Orbit (pvp)
-//notes: PvP: Hammer/Fluted/Arrowhead Brake + Accurized + Firmly Planted/Moving Target/Killing Wind/No Distractions + Snapshot/Quickdraw/Opening Shot/KC/MKC
+//notes: PvP: Hammer/Fluted/Arrowhead Brake + Accurized + Firmly Planted/Moving Target/Killing Wind/No Distractions + Snapshot/Opening Shot/KC/MKC
 
 This sniper has some interesting rolls. With KC and MKC it can get ohk body shots, and Vorpal makes it one of the ways to counter a behemoth super. However, these all roll in the same slot as the handling perks, so you are giving up better ads and feel for these build perks
  tags:pvp
 dimwishlist:item=3473290087&perks=3250034553,3142289711,280464955,957782887
-dimwishlist:item=3473290087&perks=3250034553,3142289711,280464955,706527188
 dimwishlist:item=3473290087&perks=3250034553,3142289711,280464955,47981717
 dimwishlist:item=3473290087&perks=3250034553,3142289711,280464955,1015611457
 dimwishlist:item=3473290087&perks=3250034553,3142289711,280464955,2458213969
 dimwishlist:item=3473290087&perks=3250034553,3142289711,588594999,957782887
-dimwishlist:item=3473290087&perks=3250034553,3142289711,588594999,706527188
 dimwishlist:item=3473290087&perks=3250034553,3142289711,588594999,47981717
 dimwishlist:item=3473290087&perks=3250034553,3142289711,588594999,1015611457
 dimwishlist:item=3473290087&perks=3250034553,3142289711,588594999,2458213969
 dimwishlist:item=3473290087&perks=3250034553,3142289711,2450788523,957782887
-dimwishlist:item=3473290087&perks=3250034553,3142289711,2450788523,706527188
 dimwishlist:item=3473290087&perks=3250034553,3142289711,2450788523,47981717
 dimwishlist:item=3473290087&perks=3250034553,3142289711,2450788523,1015611457
 dimwishlist:item=3473290087&perks=3250034553,3142289711,2450788523,2458213969
 dimwishlist:item=3473290087&perks=3250034553,3142289711,2866798147,957782887
-dimwishlist:item=3473290087&perks=3250034553,3142289711,2866798147,706527188
 dimwishlist:item=3473290087&perks=3250034553,3142289711,2866798147,47981717
 dimwishlist:item=3473290087&perks=3250034553,3142289711,2866798147,1015611457
 dimwishlist:item=3473290087&perks=3250034553,3142289711,2866798147,2458213969
 dimwishlist:item=3473290087&perks=1840239774,3142289711,280464955,957782887
-dimwishlist:item=3473290087&perks=1840239774,3142289711,280464955,706527188
 dimwishlist:item=3473290087&perks=1840239774,3142289711,280464955,47981717
 dimwishlist:item=3473290087&perks=1840239774,3142289711,280464955,1015611457
 dimwishlist:item=3473290087&perks=1840239774,3142289711,280464955,2458213969
 dimwishlist:item=3473290087&perks=1840239774,3142289711,588594999,957782887
-dimwishlist:item=3473290087&perks=1840239774,3142289711,588594999,706527188
 dimwishlist:item=3473290087&perks=1840239774,3142289711,588594999,47981717
 dimwishlist:item=3473290087&perks=1840239774,3142289711,588594999,1015611457
 dimwishlist:item=3473290087&perks=1840239774,3142289711,588594999,2458213969
 dimwishlist:item=3473290087&perks=1840239774,3142289711,2450788523,957782887
-dimwishlist:item=3473290087&perks=1840239774,3142289711,2450788523,706527188
 dimwishlist:item=3473290087&perks=1840239774,3142289711,2450788523,47981717
 dimwishlist:item=3473290087&perks=1840239774,3142289711,2450788523,1015611457
 dimwishlist:item=3473290087&perks=1840239774,3142289711,2450788523,2458213969
 dimwishlist:item=3473290087&perks=1840239774,3142289711,2866798147,957782887
-dimwishlist:item=3473290087&perks=1840239774,3142289711,2866798147,706527188
 dimwishlist:item=3473290087&perks=1840239774,3142289711,2866798147,47981717
 dimwishlist:item=3473290087&perks=1840239774,3142289711,2866798147,1015611457
 dimwishlist:item=3473290087&perks=1840239774,3142289711,2866798147,2458213969
 dimwishlist:item=3473290087&perks=839105230,3142289711,280464955,957782887
-dimwishlist:item=3473290087&perks=839105230,3142289711,280464955,706527188
 dimwishlist:item=3473290087&perks=839105230,3142289711,280464955,47981717
 dimwishlist:item=3473290087&perks=839105230,3142289711,280464955,1015611457
 dimwishlist:item=3473290087&perks=839105230,3142289711,280464955,2458213969
 dimwishlist:item=3473290087&perks=839105230,3142289711,588594999,957782887
-dimwishlist:item=3473290087&perks=839105230,3142289711,588594999,706527188
 dimwishlist:item=3473290087&perks=839105230,3142289711,588594999,47981717
 dimwishlist:item=3473290087&perks=839105230,3142289711,588594999,1015611457
 dimwishlist:item=3473290087&perks=839105230,3142289711,588594999,2458213969
 dimwishlist:item=3473290087&perks=839105230,3142289711,2450788523,957782887
-dimwishlist:item=3473290087&perks=839105230,3142289711,2450788523,706527188
 dimwishlist:item=3473290087&perks=839105230,3142289711,2450788523,47981717
 dimwishlist:item=3473290087&perks=839105230,3142289711,2450788523,1015611457
 dimwishlist:item=3473290087&perks=839105230,3142289711,2450788523,2458213969
 dimwishlist:item=3473290087&perks=839105230,3142289711,2866798147,957782887
-dimwishlist:item=3473290087&perks=839105230,3142289711,2866798147,706527188
 dimwishlist:item=3473290087&perks=839105230,3142289711,2866798147,47981717
 dimwishlist:item=3473290087&perks=839105230,3142289711,2866798147,1015611457
 dimwishlist:item=3473290087&perks=839105230,3142289711,2866798147,2458213969
@@ -21766,27 +21761,23 @@ dimwishlist:item=3473290087&perks=3400784728,1546637391
 
 
 // Frozen Orbit (pvp)
-//notes: PvP: Hammer/Fluted/Arrowhead Brake + Accurized + Firmly Planted/Moving Target/Killing Wind/No Distractions + Snapshot/Quickdraw/Opening Shot/KC/MKC
+//notes: PvP: Hammer/Fluted/Arrowhead Brake + Accurized + Firmly Planted/Moving Target/Killing Wind/No Distractions + Snapshot/Opening Shot/KC/MKC
 
 This sniper has some interesting rolls. With KC and MKC it can get ohk body shots, and Vorpal makes it one of the ways to counter a behemoth super. However, these all roll in the same slot as the handling perks, so you are giving up better ads and feel for these build perks
  tags:pvp
 dimwishlist:item=3473290087&perks=280464955,957782887
-dimwishlist:item=3473290087&perks=280464955,706527188
 dimwishlist:item=3473290087&perks=280464955,47981717
 dimwishlist:item=3473290087&perks=280464955,1015611457
 dimwishlist:item=3473290087&perks=280464955,2458213969
 dimwishlist:item=3473290087&perks=588594999,957782887
-dimwishlist:item=3473290087&perks=588594999,706527188
 dimwishlist:item=3473290087&perks=588594999,47981717
 dimwishlist:item=3473290087&perks=588594999,1015611457
 dimwishlist:item=3473290087&perks=588594999,2458213969
 dimwishlist:item=3473290087&perks=2450788523,957782887
-dimwishlist:item=3473290087&perks=2450788523,706527188
 dimwishlist:item=3473290087&perks=2450788523,47981717
 dimwishlist:item=3473290087&perks=2450788523,1015611457
 dimwishlist:item=3473290087&perks=2450788523,2458213969
 dimwishlist:item=3473290087&perks=2866798147,957782887
-dimwishlist:item=3473290087&perks=2866798147,706527188
 dimwishlist:item=3473290087&perks=2866798147,47981717
 dimwishlist:item=3473290087&perks=2866798147,1015611457
 dimwishlist:item=3473290087&perks=2866798147,2458213969
