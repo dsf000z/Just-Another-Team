@@ -24293,7 +24293,7 @@ dimwishlist:item=4255586669&perks=3525010810,3301904089,3300816228,1546637391
 
 
 // Empty Vessel 
-//notes: Pve and God PvP
+//notes: PvE and God PvP
 dimwishlist:item=4255586669&perks=3525010810,3301904089,3300816228,1683379515
 
 
