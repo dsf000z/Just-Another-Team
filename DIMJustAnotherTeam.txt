@@ -22515,7 +22515,7 @@ dimwishlist:item=3658188704&perks=588594999,1015611457
 
 
 // Hoosegow (god-pve)
-//notes: tags:god-pve
+//notes: Good perk table, but adaptive frame seems to be relatively weak compared to other frames. tags:god-pve
 dimwishlist:item=3669616453&perks=3525010810,3796465595,2869569095,3523296417
 
 
@@ -22525,7 +22525,7 @@ dimwishlist:item=3669616453&perks=1844523823,1996142143,3977735242,1275731761
 
 
 // Hoosegow (pve)
-//notes: tags:pve
+//notes: Good perk table, but adaptive frame seems to be relatively weak compared to other frames. tags:pve
 dimwishlist:item=3669616453&perks=3525010810,3796465595,2869569095,3523296417
 dimwishlist:item=3669616453&perks=3525010810,3796465595,2869569095,1275731761
 dimwishlist:item=3669616453&perks=981914802,3796465595,2869569095,3523296417
@@ -22539,7 +22539,7 @@ dimwishlist:item=3669616453&perks=1478423395,1996142143,3977735242,1275731761
 
 
 // Hoosegow (pve)
-//notes: tags:pve
+//notes: Good perk table, but adaptive frame seems to be relatively weak compared to other frames. tags:pve
 dimwishlist:item=3669616453&perks=2869569095,3523296417
 dimwishlist:item=3669616453&perks=2869569095,1275731761
 
