@@ -5345,6 +5345,16 @@ dimwishlist:item=720351795&perks=957782887,201365942
 dimwishlist:item=720351795&perks=957782887,908147344
 
 
+// Ascendancy (god-pve)
+//notes: For PvE, the damage boost of Explosive Light and reload boost of Impulse Amplifier make Ascendancy a good pick, only beaten by rng near-perfect rolled Rockets. PvP uses the speed increase of Impulse Amplifier to give your opponents less time to react and Chain to add in a bit more delayed splash damage to potentially get another kill. tags:god-pve
+dimwishlist:item=725408022&perks=3525010810,3796465595,951095735,3194351027
+
+
+// Ascendancy (god-pvp)
+//notes: For PvE, the damage boost of Explosive Light and reload boost of Impulse Amplifier make Ascendancy a good pick, only beaten by rng near-perfect rolled Rockets. PvP uses the speed increase of Impulse Amplifier to give your opponents less time to react and Chain to add in a bit more delayed splash damage to potentially get another kill. tags:god-pvp
+dimwishlist:item=725408022&perks=3525010810,3796465595,951095735,2396489472
+
+
 // Seventh Seraph VY-7 (god-pve)
 //notes: tags:god-pve
 dimwishlist:item=766323545&perks=1840239774,106909392,2010801679,2779035018
@@ -8461,6 +8471,28 @@ dimwishlist:item=1173780905&perks=588594999,3047969693
 dimwishlist:item=1173780905&perks=588594999,1015611457
 
 
+// Felwinter's Lie (god-pve)
+//notes: While no longer as powerful as it used to be, Felwinters is still a guaranteed excellent roll on a still competitive shotgun frame in PvP. Surplus has become even less useful with the ability nerf, so personally I’d go all in on consistency and run Slideshot + Opening Shot. There are much better shotguns for PvE, but Felwinters does have a consistent roll with at least a good damage perk if you have nothing better. tags:god-pve
+dimwishlist:item=1179141605&perks=1047830412,3142289711,3161816588,47981717
+
+
+// Felwinter's Lie (god-pvp)
+//notes: While no longer as powerful as it used to be, Felwinters is still a guaranteed excellent roll on a still competitive shotgun frame in PvP. Surplus has become even less useful with the ability nerf, so personally I’d go all in on consistency and run Slideshot + Opening Shot. There are much better shotguns for PvE, but Felwinters does have a consistent roll with at least a good damage perk if you have nothing better. tags:god-pvp
+dimwishlist:item=1179141605&perks=1047830412,3142289711,3161816588,1546637391
+
+
+// Felwinter's Lie (pve)
+//notes: While no longer as powerful as it used to be, Felwinters is still a guaranteed excellent roll on a still competitive shotgun frame in PvP. Surplus has become even less useful with the ability nerf, so personally I’d go all in on consistency and run Slideshot + Opening Shot. There are much better shotguns for PvE, but Felwinters does have a consistent roll with at least a good damage perk if you have nothing better. tags:pve
+dimwishlist:item=1179141605&perks=1047830412,3142289711,3161816588,47981717
+dimwishlist:item=1179141605&perks=1047830412,3142289711,3436462433,47981717
+
+
+// Felwinter's Lie (pvp)
+//notes: While no longer as powerful as it used to be, Felwinters is still a guaranteed excellent roll on a still competitive shotgun frame in PvP. Surplus has become even less useful with the ability nerf, so personally I’d go all in on consistency and run Slideshot + Opening Shot. There are much better shotguns for PvE, but Felwinters does have a consistent roll with at least a good damage perk if you have nothing better. tags:pvp
+dimwishlist:item=1179141605&perks=1047830412,3142289711,3161816588,1546637391
+dimwishlist:item=1179141605&perks=1047830412,3142289711,3436462433,1546637391
+
+
 // High Albedo (god-pve)
 //notes: tags:god-pve
 dimwishlist:item=1197486957&perks=1840239774,106909392,4071163871,3523296417
@@ -10931,6 +10963,22 @@ dimwishlist:item=1644160541&perks=3666208348,269888150,1749209109,3913600130
 dimwishlist:item=1644160541&perks=1749209109,3913600130
 
 
+// Null Composure (god-pve)
+//notes: Choosing between Reservoir Burst and HIR in PvE depends on the situation. HIR for boss damage and Reservoir Burst for general use and add clear. HIR is the clear winner for PvP, since it reduces the bolts needed for a kill while procced, and one stack of Heating Up makes the recoil perfectly vertical for easier bolt control. tags:god-pve
+dimwishlist:item=1644680957&perks=1840239774,2969185026,2779035018,1427256713
+
+
+// Null Composure (god-pvp)
+//notes: Choosing between Reservoir Burst and HIR in PvE depends on the situation. HIR for boss damage and Reservoir Burst for general use and add clear. HIR is the clear winner for PvP, since it reduces the bolts needed for a kill while procced, and one stack of Heating Up makes the recoil perfectly vertical for easier bolt control. tags:god-pvp
+dimwishlist:item=1644680957&perks=1840239774,2969185026,1570042021,2213355989
+
+
+// Null Composure (pve)
+//notes: Choosing between Reservoir Burst and HIR in PvE depends on the situation. HIR for boss damage and Reservoir Burst for general use and add clear. HIR is the clear winner for PvP, since it reduces the bolts needed for a kill while procced, and one stack of Heating Up makes the recoil perfectly vertical for easier bolt control. tags:pve
+dimwishlist:item=1644680957&perks=1840239774,2969185026,2779035018,1427256713
+dimwishlist:item=1644680957&perks=1840239774,2969185026,2779035018,2213355989
+
+
 // Tranquility (god-pve)
 //notes: tags:god-pve
 dimwishlist:item=1645386487&perks=1840239774,106909392,3300816228,1771339417
@@ -12348,6 +12396,30 @@ dimwishlist:item=2050789284&perks=2450788523,460017080
 dimwishlist:item=2050789284&perks=280464955,1015611457
 dimwishlist:item=2050789284&perks=280464955,588594999
 dimwishlist:item=2050789284&perks=280464955,460017080
+
+
+// Salvager's Salvo (god-pve,pvp)
+//notes: Which perks you choose for Salvagers Salvo in PvE is down to the situation. Chain Reaction for add clear and Vorpal for boss damage. Chosing between Demo and Ambitious Assassin is more difficult, as both are pretty good for add clear - but Demo is the clear winner for Boss damage. tags:god-pve,pvp
+dimwishlist:item=2060863616&perks=3525010810,3301904089,3523296417,2396489472
+
+
+// Salvager's Salvo (god-pvp,pve)
+//notes: Which perks you choose for Salvagers Salvo in PvE is down to the situation. Chain Reaction for add clear and Vorpal for boss damage. Chosing between Demo and Ambitious Assassin is more difficult, as both are pretty good for add clear - but Demo is the clear winner for Boss damage. tags:god-pvp,pve
+dimwishlist:item=2060863616&perks=3525010810,3301904089,2010801679,2396489472
+
+
+// Salvager's Salvo (pvp,pve)
+//notes: Which perks you choose for Salvagers Salvo in PvE is down to the situation. Chain Reaction for add clear and Vorpal for boss damage. Chosing between Demo and Ambitious Assassin is more difficult, as both are pretty good for add clear - but Demo is the clear winner for Boss damage. tags:pvp,pve
+dimwishlist:item=2060863616&perks=3525010810,3301904089,2010801679,2396489472
+dimwishlist:item=2060863616&perks=3525010810,3301904089,3523296417,2396489472
+
+
+// Salvager's Salvo (pve)
+//notes: Which perks you choose for Salvagers Salvo in PvE is down to the situation. Chain Reaction for add clear and Vorpal for boss damage. Chosing between Demo and Ambitious Assassin is more difficult, as both are pretty good for add clear - but Demo is the clear winner for Boss damage. tags:pve
+dimwishlist:item=2060863616&perks=3525010810,3301904089,3523296417,2396489472
+dimwishlist:item=2060863616&perks=3525010810,3301904089,3523296417,1546637391
+dimwishlist:item=2060863616&perks=3525010810,3301904089,2010801679,2396489472
+dimwishlist:item=2060863616&perks=3525010810,3301904089,2010801679,1546637391
 
 
 // Uzume RR4 (god-pve)
@@ -20948,6 +21020,16 @@ dimwishlist:item=3409645497&perks=1570042021,3425386926
 dimwishlist:item=3409645497&perks=1570042021,2726471870
 
 
+// Point of the Stag (god-pve)
+//notes: Excellent for champion stunning and general use in High Level PvE (GMs, Master Content, etc), terrible in every way for PvP. tags:god-pve
+dimwishlist:item=3434944005&perks=2801223209,1500996326,201365942,1546637391
+
+
+// Point of the Stag (god-pvp)
+//notes: Excellent for champion stunning and general use in High Level PvE (GMs, Master Content, etc), terrible in every way for PvP. tags:god-pvp
+dimwishlist:item=3434944005&perks=2801223209,1500996326,2866798147,699525795
+
+
 // Omniscient Eye (god-pve)
 //notes: tags:god-pve
 dimwishlist:item=3454326177&perks=1840239774,1087426260,1168162263,2458213969
@@ -24565,6 +24647,16 @@ dimwishlist:item=4164201232&perks=3400784728,3523296417
 //notes: The God Combo of Quickdraw + Snapshot returns on a 90 rpm sniper. Personally I’d go all in on Handling with a Qd + Snap sniper, to help with the stow speed and attempt to match the old version of Quickdraw as closely as possible (potentially even using Quick Access Sling if you can justify the loss of the option of air shots. Despite the return of the old combo, don’t discount Firmly Planted as an excellent accuracy booster when crouching. tags:pvp
 dimwishlist:item=4164201232&perks=280464955,957782887
 dimwishlist:item=4164201232&perks=706527188,957782887
+
+
+// Adored (god-pve)
+//notes: Despite having a TT + Vorpal god roll, other adaptive snipers are better for dps thanks to Adored not getting a 7 mag. Adored shines in PvP however, with an automatic 5/5 god roll from the start. tags:god-pve
+dimwishlist:item=4184808992&perks=3250034553,3142289711,3400784728,1546637391
+
+
+// Adored (god-pvp)
+//notes: Despite having a TT + Vorpal god roll, other adaptive snipers are better for dps thanks to Adored not getting a 7 mag. Adored shines in PvP however, with an automatic 5/5 god roll from the start. tags:god-pvp
+dimwishlist:item=4184808992&perks=3250034553,3142289711,2450788523,957782887
 
 
 // Commemoration (god-pve)
