@@ -8471,24 +8471,24 @@ dimwishlist:item=1173780905&perks=588594999,3047969693
 dimwishlist:item=1173780905&perks=588594999,1015611457
 
 
-// Felwinter's Lie (god-pve)
-//notes: While no longer as powerful as it used to be, Felwinters is still a guaranteed excellent roll on a still competitive shotgun frame in PvP. Surplus has become even less useful with the ability nerf, so personally I’d go all in on consistency and run Slideshot + Opening Shot. There are much better shotguns for PvE, but Felwinters does have a consistent roll with at least a good damage perk if you have nothing better. tags:god-pve
-dimwishlist:item=1179141605&perks=1047830412,3142289711,3161816588,47981717
-
-
 // Felwinter's Lie (god-pvp)
 //notes: While no longer as powerful as it used to be, Felwinters is still a guaranteed excellent roll on a still competitive shotgun frame in PvP. Surplus has become even less useful with the ability nerf, so personally I’d go all in on consistency and run Slideshot + Opening Shot. There are much better shotguns for PvE, but Felwinters does have a consistent roll with at least a good damage perk if you have nothing better. tags:god-pvp
-dimwishlist:item=1179141605&perks=1047830412,3142289711,3161816588,1546637391
-
-
-// Felwinter's Lie (pve)
-//notes: While no longer as powerful as it used to be, Felwinters is still a guaranteed excellent roll on a still competitive shotgun frame in PvP. Surplus has become even less useful with the ability nerf, so personally I’d go all in on consistency and run Slideshot + Opening Shot. There are much better shotguns for PvE, but Felwinters does have a consistent roll with at least a good damage perk if you have nothing better. tags:pve
 dimwishlist:item=1179141605&perks=1047830412,3142289711,3161816588,47981717
-dimwishlist:item=1179141605&perks=1047830412,3142289711,3436462433,47981717
+
+
+// Felwinter's Lie (god-pve)
+//notes: While no longer as powerful as it used to be, Felwinters is still a guaranteed excellent roll on a still competitive shotgun frame in PvP. Surplus has become even less useful with the ability nerf, so personally I’d go all in on consistency and run Slideshot + Opening Shot. There are much better shotguns for PvE, but Felwinters does have a consistent roll with at least a good damage perk if you have nothing better. tags:god-pve
+dimwishlist:item=1179141605&perks=1047830412,3142289711,3161816588,1546637391
 
 
 // Felwinter's Lie (pvp)
 //notes: While no longer as powerful as it used to be, Felwinters is still a guaranteed excellent roll on a still competitive shotgun frame in PvP. Surplus has become even less useful with the ability nerf, so personally I’d go all in on consistency and run Slideshot + Opening Shot. There are much better shotguns for PvE, but Felwinters does have a consistent roll with at least a good damage perk if you have nothing better. tags:pvp
+dimwishlist:item=1179141605&perks=1047830412,3142289711,3161816588,47981717
+dimwishlist:item=1179141605&perks=1047830412,3142289711,3436462433,47981717
+
+
+// Felwinter's Lie (pve)
+//notes: While no longer as powerful as it used to be, Felwinters is still a guaranteed excellent roll on a still competitive shotgun frame in PvP. Surplus has become even less useful with the ability nerf, so personally I’d go all in on consistency and run Slideshot + Opening Shot. There are much better shotguns for PvE, but Felwinters does have a consistent roll with at least a good damage perk if you have nothing better. tags:pve
 dimwishlist:item=1179141605&perks=1047830412,3142289711,3161816588,1546637391
 dimwishlist:item=1179141605&perks=1047830412,3142289711,3436462433,1546637391
 
@@ -24649,14 +24649,14 @@ dimwishlist:item=4164201232&perks=280464955,957782887
 dimwishlist:item=4164201232&perks=706527188,957782887
 
 
-// Adored (god-pve)
-//notes: Despite having a TT + Vorpal god roll, other adaptive snipers are better for dps thanks to Adored not getting a 7 mag. Adored shines in PvP however, with an automatic 5/5 god roll from the start. tags:god-pve
-dimwishlist:item=4184808992&perks=3250034553,3142289711,3400784728,1546637391
-
-
 // Adored (god-pvp)
 //notes: Despite having a TT + Vorpal god roll, other adaptive snipers are better for dps thanks to Adored not getting a 7 mag. Adored shines in PvP however, with an automatic 5/5 god roll from the start. tags:god-pvp
 dimwishlist:item=4184808992&perks=3250034553,3142289711,2450788523,957782887
+
+
+// Adored (god-pve)
+//notes: Despite having a TT + Vorpal god roll, other adaptive snipers are better for dps thanks to Adored not getting a 7 mag. Adored shines in PvP however, with an automatic 5/5 god roll from the start. tags:god-pve
+dimwishlist:item=4184808992&perks=3250034553,3142289711,3400784728,1546637391
 
 
 // Commemoration (god-pve)

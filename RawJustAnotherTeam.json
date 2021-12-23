@@ -34739,28 +34739,6 @@
                     3142289711
                 ],
                 [
-                    3400784728
-                ],
-                [
-                    1546637391
-                ]
-            ],
-            "tags": [
-                "GodPVE"
-            ]
-        },
-        {
-            "description": "Despite having a TT + Vorpal god roll, other adaptive snipers are better for dps thanks to Adored not getting a 7 mag. Adored shines in PvP however, with an automatic 5/5 god roll from the start.",
-            "hash": 4184808992,
-            "name": "",
-            "plugs": [
-                [
-                    3250034553
-                ],
-                [
-                    3142289711
-                ],
-                [
                     2450788523
                 ],
                 [
@@ -34860,21 +34838,21 @@
             ]
         },
         {
-            "description": "While no longer as powerful as it used to be, Felwinters is still a guaranteed excellent roll on a still competitive shotgun frame in PvP. Surplus has become even less useful with the ability nerf, so personally I’d go all in on consistency and run Slideshot + Opening Shot. There are much better shotguns for PvE, but Felwinters does have a consistent roll with at least a good damage perk if you have nothing better.",
-            "hash": 1179141605,
+            "description": "Despite having a TT + Vorpal god roll, other adaptive snipers are better for dps thanks to Adored not getting a 7 mag. Adored shines in PvP however, with an automatic 5/5 god roll from the start.",
+            "hash": 4184808992,
             "name": "",
             "plugs": [
                 [
-                    1047830412
+                    3250034553
                 ],
                 [
                     3142289711
                 ],
                 [
-                    3161816588
+                    3400784728
                 ],
                 [
-                    47981717
+                    1546637391
                 ]
             ],
             "tags": [
@@ -34896,11 +34874,33 @@
                     3161816588
                 ],
                 [
-                    1546637391
+                    47981717
                 ]
             ],
             "tags": [
                 "GodPVP"
+            ]
+        },
+        {
+            "description": "While no longer as powerful as it used to be, Felwinters is still a guaranteed excellent roll on a still competitive shotgun frame in PvP. Surplus has become even less useful with the ability nerf, so personally I’d go all in on consistency and run Slideshot + Opening Shot. There are much better shotguns for PvE, but Felwinters does have a consistent roll with at least a good damage perk if you have nothing better.",
+            "hash": 1179141605,
+            "name": "",
+            "plugs": [
+                [
+                    1047830412
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    3161816588
+                ],
+                [
+                    1546637391
+                ]
+            ],
+            "tags": [
+                "GodPVE"
             ]
         },
         {
@@ -34923,7 +34923,7 @@
                 ]
             ],
             "tags": [
-                "PVE"
+                "PVP"
             ]
         },
         {
@@ -34946,7 +34946,7 @@
                 ]
             ],
             "tags": [
-                "PVP"
+                "PVE"
             ]
         }
     ]
